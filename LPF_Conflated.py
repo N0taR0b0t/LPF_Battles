@@ -20,6 +20,7 @@ def process_csv_to_json(csv_file_path):
             # Create a unique key for each location based on coordinates
             location_key = f"{longitude},{latitude}"
             event = {
+                "id": id,
                 "start": {"in": year},
                 "title": title,
                 "description": description,
@@ -33,16 +34,21 @@ def process_csv_to_json(csv_file_path):
             else:
                 location_dict[location_key] = {
                     "coordinates": coordinates,
-                    "events": [event]
+                    "events": [event],
+                    "titles": set()  # Initialize a set to track unique titles
                 }
 
     # Creating the final JSON structure
     features = []
-    for location in location_dict.values():
+    for location_key, location in location_dict.items():
+        # Populate the set of unique titles for this location
+        unique_titles = {event["title"] for event in location["events"]}
+
         feature = {
-            "@id": [],
+            "@id": location["events"][0]["id"],
             "type": "Feature",
             "properties": {
+                "title": location["events"][0]["title"],
                 "ccodes": [location["events"][0]["country_code"]] if location["events"][0]["country_code"] else []
             },
             "when": {
@@ -54,7 +60,7 @@ def process_csv_to_json(csv_file_path):
                     "label": "battlefield"
                 }
             ],
-            "names": [{"toponym": event["title"]} for event in location["events"]],
+            "names": [{"toponym": title} for title in unique_titles],
             "geometry": {
                 "type": "Point",
                 "coordinates": location["coordinates"]
