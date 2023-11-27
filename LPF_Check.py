@@ -2,6 +2,7 @@ import json
 
 def validate_lpf(json_data):
     violations = []
+    titles_seen = set()  # To track titles for duplicate check
     
     if "type" not in json_data or json_data["type"] != "FeatureCollection":
         violations.append("Root 'type' must be 'FeatureCollection'")
@@ -22,6 +23,14 @@ def validate_lpf(json_data):
             else:
                 if "title" not in feature["properties"]:
                     violations.append("Properties missing 'title'.")
+                else:
+                    # Check for duplicate titles
+                    title = feature["properties"]["title"]
+                    if title in titles_seen:
+                        violations.append(f"Duplicate title found: '{title}'")
+                    else:
+                        titles_seen.add(title)
+
                 if "ccodes" in feature["properties"]:
                     if not isinstance(feature["properties"]["ccodes"], list):
                         violations.append("'ccodes' should be a list.")
@@ -40,6 +49,7 @@ def validate_lpf(json_data):
     
     return violations
 
+# You would replace "Processed_LPF.json" with the actual path of your JSON file.
 with open("Processed_LPF.json", "r") as file:
     data = json.load(file)
     issues = validate_lpf(data)
