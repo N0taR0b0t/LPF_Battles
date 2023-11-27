@@ -9,7 +9,6 @@ def process_csv_to_json(csv_file_path):
         next(csv_reader)  # Skip the header row
 
         for row in csv_reader:
-            # Dynamically unpack the row based on the number of columns
             (
                 id, title, _, year, _, _, country_code, _,
                 _, identifier, _, longitude, latitude, *rest
