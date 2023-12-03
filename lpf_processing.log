@@ -1,0 +1,2284 @@
+2023-12-03 17:08:40,176 - DEBUG - Duplicate found: Aberdare, Kenya(nd) with ID 15
+2023-12-03 17:08:40,282 - DEBUG - Duplicate found: Adas(nd) with ID 61
+2023-12-03 17:08:40,356 - DEBUG - Duplicate found: Adrianople (nd) with ID 93
+2023-12-03 17:08:40,516 - DEBUG - Duplicate found: Akroinos with ID 165
+2023-12-03 17:08:40,574 - DEBUG - Duplicate found: Alacer do Sol with ID 191
+2023-12-03 17:08:40,577 - DEBUG - Duplicate found: Alcala la Real with ID 193
+2023-12-03 17:08:40,663 - DEBUG - Duplicate found: Alexandria (st) with ID 230
+2023-12-03 17:08:40,663 - DEBUG - Duplicate found: Alexandria (nd) with ID 231
+2023-12-03 17:08:40,858 - DEBUG - Duplicate found: Altenkirchen (nd) with ID 314
+2023-12-03 17:08:40,858 - DEBUG - Duplicate found: Altenkirchen with ID 315
+2023-12-03 17:08:41,009 - DEBUG - Duplicate found: Anandpur (st) with ID 378
+2023-12-03 17:08:41,009 - DEBUG - Duplicate found: Anandpur (nd) with ID 379
+2023-12-03 17:08:41,085 - DEBUG - Duplicate found: Angora with ID 412
+2023-12-03 17:08:41,139 - DEBUG - Duplicate found: Antioch with ID 436
+2023-12-03 17:08:41,165 - DEBUG - Duplicate found: Anzio with ID 448
+2023-12-03 17:08:41,368 - DEBUG - Duplicate found: Second Arlon with ID 534
+2023-12-03 17:08:41,369 - DEBUG - Duplicate found: Third Arlon with ID 535
+2023-12-03 17:08:41,458 - DEBUG - Duplicate found: Artois (nd) with ID 575
+2023-12-03 17:08:41,458 - DEBUG - Duplicate found: Artois (rd) with ID 576
+2023-12-03 17:08:41,487 - DEBUG - Duplicate found: Asculum, Apulia with ID 589
+2023-12-03 17:08:41,487 - DEBUG - Duplicate found: Asculum, Apulia with ID 590
+2023-12-03 17:08:41,582 - DEBUG - Duplicate found: Athens with ID 632
+2023-12-03 17:08:41,787 - DEBUG - Duplicate found: Badajoz (st) with ID 721
+2023-12-03 17:08:41,788 - DEBUG - Duplicate found: Badajoz (nd) with ID 722
+2023-12-03 17:08:41,858 - DEBUG - Duplicate found: Bagh Dera with ID 753
+2023-12-03 17:08:42,144 - DEBUG - Duplicate found: Bashiratganj (nd) with ID 876
+2023-12-03 17:08:42,145 - DEBUG - Duplicate found: Bashiratganj (rd) with ID 877
+2023-12-03 17:08:42,147 - DEBUG - Duplicate found: Basing House with ID 879
+2023-12-03 17:08:42,189 - DEBUG - Duplicate found: Bassignano with ID 897
+2023-12-03 17:08:42,330 - DEBUG - Duplicate found: Bedriacum (nd) with ID 957
+2023-12-03 17:08:42,359 - DEBUG - Duplicate found: BeijingTianjin with ID 970
+2023-12-03 17:08:42,437 - DEBUG - Duplicate found: Bellewaarde (nd) with ID 1005
+2023-12-03 17:08:42,462 - DEBUG - Duplicate found: Beneventum with ID 1017
+2023-12-03 17:08:42,462 - DEBUG - Duplicate found: Beneventum with ID 1018
+2023-12-03 17:08:42,462 - DEBUG - Duplicate found: Beneventum with ID 1019
+2023-12-03 17:08:42,554 - DEBUG - Duplicate found: Beth Horon with ID 1057
+2023-12-03 17:08:42,554 - DEBUG - Duplicate found: Beth Horon with ID 1058
+2023-12-03 17:08:42,714 - DEBUG - Duplicate found: BizerteTunis with ID 1127
+2023-12-03 17:08:42,823 - DEBUG - Duplicate found: Bogue Forts (nd) with ID 1174
+2023-12-03 17:08:42,933 - DEBUG - Duplicate found: Boston Harbour with ID 1222
+2023-12-03 17:08:43,081 - DEBUG - Duplicate found: ndBreslau with ID 1285
+2023-12-03 17:08:43,166 - DEBUG - Duplicate found: Brunei Bay with ID 1322
+2023-12-03 17:08:43,554 - DEBUG - Duplicate found: CambraiSt Quentin with ID 1488
+2023-12-03 17:08:43,590 - DEBUG - Duplicate found: Campo Mayor (st) with ID 1504
+2023-12-03 17:08:43,680 - DEBUG - Duplicate found: Cape Finisterre (st) with ID 1543
+2023-12-03 17:08:43,680 - DEBUG - Duplicate found: Cape Finisterre with ID 1544
+2023-12-03 17:08:43,680 - DEBUG - Duplicate found: Cape Finisterre with ID 1545
+2023-12-03 17:08:43,782 - DEBUG - Duplicate found: Carpathians with ID 1590
+2023-12-03 17:08:43,821 - DEBUG - Duplicate found: Carthage, Tunisia with ID 1608
+2023-12-03 17:08:43,821 - DEBUG - Duplicate found: Carthage, Tunisia with ID 1609
+2023-12-03 17:08:43,821 - DEBUG - Duplicate found: Carthage, Tunisia with ID 1610
+2023-12-03 17:08:43,821 - DEBUG - Duplicate found: Carthage, Tunisia with ID 1611
+2023-12-03 17:08:43,821 - DEBUG - Duplicate found: Carthage, Tunisia with ID 1612
+2023-12-03 17:08:43,821 - DEBUG - Duplicate found: Carthage, Tunisia with ID 1613
+2023-12-03 17:08:43,899 - DEBUG - Duplicate found: Castelnuovo, Albania with ID 1648
+2023-12-03 17:08:43,899 - DEBUG - Duplicate found: Castelnuovo, Albania with ID 1649
+2023-12-03 17:08:43,959 - DEBUG - Duplicate found: Cawnpore (nd) with ID 1676
+2023-12-03 17:08:43,959 - DEBUG - Duplicate found: Cawnpore (rd) with ID 1677
+2023-12-03 17:08:43,959 - DEBUG - Duplicate found: Cawnpore (th) with ID 1678
+2023-12-03 17:08:44,097 - DEBUG - Duplicate found: Chamkaur (nd) with ID 1736
+2023-12-03 17:08:44,179 - DEBUG - Duplicate found: ChangshaII with ID 1771
+2023-12-03 17:08:44,231 - DEBUG - Duplicate found: Charleston, Massachusetts with ID 1794
+2023-12-03 17:08:44,234 - DEBUG - Duplicate found: South Carolina with ID 1796
+2023-12-03 17:08:44,239 - DEBUG - Duplicate found: Charleston Harbour (st) with ID 1799
+2023-12-03 17:08:44,239 - DEBUG - Duplicate found: Charleston Harbour (nd) with ID 1800
+2023-12-03 17:08:44,281 - DEBUG - Duplicate found: Chattanooga (nd) with ID 1819
+2023-12-03 17:08:44,558 - DEBUG - Duplicate found: Ciudad Bolivar with ID 1936
+2023-12-03 17:08:44,744 - DEBUG - Duplicate found: Constantine with ID 2016
+2023-12-03 17:08:44,744 - DEBUG - Duplicate found: Constantinople with ID 2017
+2023-12-03 17:08:44,744 - DEBUG - Duplicate found: Constantinople with ID 2018
+2023-12-03 17:08:44,744 - DEBUG - Duplicate found: Constantinople with ID 2019
+2023-12-03 17:08:44,744 - DEBUG - Duplicate found: Constantinople with ID 2020
+2023-12-03 17:08:44,744 - DEBUG - Duplicate found: Constantinople with ID 2021
+2023-12-03 17:08:44,744 - DEBUG - Duplicate found: Constantinople with ID 2022
+2023-12-03 17:08:44,744 - DEBUG - Duplicate found: Constantinople with ID 2023
+2023-12-03 17:08:44,744 - DEBUG - Duplicate found: Constantinople with ID 2024
+2023-12-03 17:08:44,745 - DEBUG - Duplicate found: Constantinople with ID 2025
+2023-12-03 17:08:44,745 - DEBUG - Duplicate found: Constantinople with ID 2026
+2023-12-03 17:08:44,745 - DEBUG - Duplicate found: Constantinople with ID 2027
+2023-12-03 17:08:44,745 - DEBUG - Duplicate found: Constantinople with ID 2028
+2023-12-03 17:08:44,745 - DEBUG - Duplicate found: Constantinople with ID 2029
+2023-12-03 17:08:44,747 - DEBUG - Duplicate found: Con Thien (nd) with ID 2031
+2023-12-03 17:08:44,797 - DEBUG - Duplicate found: Corfu with ID 2053
+2023-12-03 17:08:44,797 - DEBUG - Duplicate found: Corfu with ID 2054
+2023-12-03 17:08:44,797 - DEBUG - Duplicate found: CorfuLand with ID 2055
+2023-12-03 17:08:44,800 - DEBUG - Duplicate found: Corfu with ID 2057
+2023-12-03 17:08:44,800 - DEBUG - Duplicate found: Corfu with ID 2058
+2023-12-03 17:08:44,811 - DEBUG - Duplicate found: Corinth, Mississippi (nd) with ID 2064
+2023-12-03 17:08:44,835 - DEBUG - Duplicate found: Corrientes (nd) with ID 2075
+2023-12-03 17:08:44,990 - DEBUG - Duplicate found: Crotona with ID 2142
+2023-12-03 17:08:45,021 - DEBUG - Duplicate found: Cuddalore (st) with ID 2155
+2023-12-03 17:08:45,022 - DEBUG - Duplicate found: Cuddalore (nd) with ID 2156
+2023-12-03 17:08:45,125 - DEBUG - Duplicate found: Dacca(nd) with ID 2199
+2023-12-03 17:08:45,172 - DEBUG - Duplicate found: Dalton (nd) with ID 2219
+2023-12-03 17:08:45,203 - DEBUG - Duplicate found: al, Damietta with ID 2233
+2023-12-03 17:08:45,278 - DEBUG - Duplicate found: Dardanelles Narrows with ID 2266
+2023-12-03 17:08:45,346 - DEBUG - Duplicate found: Deep Bottom (nd) with ID 2296
+2023-12-03 17:08:45,388 - DEBUG - Duplicate found: Delville Wood with ID 2315
+2023-12-03 17:08:45,500 - DEBUG - Duplicate found: Dieg (nd) with ID 2363
+2023-12-03 17:08:45,510 - DEBUG - Duplicate found: Dijon (st) with ID 2368
+2023-12-03 17:08:45,510 - DEBUG - Duplicate found: Dijon (nd) with ID 2369
+2023-12-03 17:08:45,687 - DEBUG - Duplicate found: Douaumont (nd) with ID 2446
+2023-12-03 17:08:45,687 - DEBUG - Duplicate found: Douaumont (rd) with ID 2447
+2023-12-03 17:08:45,694 - DEBUG - Duplicate found: Dover Straits with ID 2451
+2023-12-03 17:08:45,701 - DEBUG - Duplicate found: Dragasani with ID 2455
+2023-12-03 17:08:45,746 - DEBUG - Duplicate found: Dublin (nd) with ID 2475
+2023-12-03 17:08:45,746 - DEBUG - Duplicate found: Dublin with ID 2476
+2023-12-03 17:08:45,746 - DEBUG - Duplicate found: Dublin with ID 2477
+2023-12-03 17:08:45,846 - DEBUG - Duplicate found: Dyle Line with ID 2521
+2023-12-03 17:08:45,872 - DEBUG - Duplicate found: East Indies with ID 2533
+2023-12-03 17:08:45,945 - DEBUG - Duplicate found: Ekaterinodar (nd) with ID 2565
+2023-12-03 17:08:45,955 - DEBUG - Duplicate found: El Alamein (nd) with ID 2570
+2023-12-03 17:08:46,046 - DEBUG - Duplicate found: El Teb (nd) with ID 2609
+2023-12-03 17:08:46,091 - DEBUG - Duplicate found: Enna with ID 2629
+2023-12-03 17:08:46,114 - DEBUG - Duplicate found: Epsom with ID 2640
+2023-12-03 17:08:46,168 - DEBUG - Duplicate found: Eskisehir with ID 2664
+2023-12-03 17:08:46,180 - DEBUG - Duplicate found: Es Salt (nd) with ID 2670
+2023-12-03 17:08:46,187 - DEBUG - Duplicate found: Estella with ID 2674
+2023-12-03 17:08:46,187 - DEBUG - Duplicate found: Estella with ID 2675
+2023-12-03 17:08:46,320 - DEBUG - Duplicate found: Faventia with ID 2733
+2023-12-03 17:08:46,320 - DEBUG - Duplicate found: Faventia with ID 2734
+2023-12-03 17:08:46,428 - DEBUG - Duplicate found: Fleury (nd) with ID 2781
+2023-12-03 17:08:46,524 - DEBUG - Duplicate found: Fort Drane (nd) with ID 2822
+2023-12-03 17:08:46,533 - DEBUG - Duplicate found: Fort Erie (nd) with ID 2827
+2023-12-03 17:08:46,573 - DEBUG - Duplicate found: Fort Meigs with ID 2845
+2023-12-03 17:08:46,596 - DEBUG - Duplicate found: Fort Pitt with ID 2856
+2023-12-03 17:08:46,610 - DEBUG - Duplicate found: Fort St David with ID 2863
+2023-12-03 17:08:46,610 - DEBUG - Duplicate found: Fort St David with ID 2864
+2023-12-03 17:08:46,617 - DEBUG - Duplicate found: Fort Sao Sebastiao(nd) with ID 2868
+2023-12-03 17:08:46,949 - DEBUG - Duplicate found: Gaza (st) with ID 3014
+2023-12-03 17:08:46,949 - DEBUG - Duplicate found: Gaza (nd) with ID 3015
+2023-12-03 17:08:46,956 - DEBUG - Duplicate found: Gdansk with ID 3019
+2023-12-03 17:08:47,010 - DEBUG - Duplicate found: Georgegarh (nd) with ID 3043
+2023-12-03 17:08:47,090 - DEBUG - Duplicate found: Gibraltar (st) with ID 3078
+2023-12-03 17:08:47,090 - DEBUG - Duplicate found: Gibraltar (nd) with ID 3079
+2023-12-03 17:08:47,149 - DEBUG - Duplicate found: ndGiurgevo with ID 3105
+2023-12-03 17:08:47,218 - DEBUG - Duplicate found: Golan Heights (st) with ID 3135
+2023-12-03 17:08:47,218 - DEBUG - Duplicate found: Golan Heights (nd) with ID 3136
+2023-12-03 17:08:47,218 - DEBUG - Duplicate found: Golan Heights (rd) with ID 3137
+2023-12-03 17:08:47,341 - DEBUG - Duplicate found: Granville Raid with ID 3190
+2023-12-03 17:08:47,369 - DEBUG - Duplicate found: Great Meadows with ID 3203
+2023-12-03 17:08:47,373 - DEBUG - Duplicate found: Greece with ID 3206
+2023-12-03 17:08:47,374 - DEBUG - Duplicate found: Greece with ID 3207
+2023-12-03 17:08:47,444 - DEBUG - Duplicate found: Guadalajara, Mexico (st) with ID 3237
+2023-12-03 17:08:47,449 - DEBUG - Duplicate found: Guadalcanal, Naval (st) with ID 3240
+2023-12-03 17:08:47,449 - DEBUG - Duplicate found: Guadalcanal, Naval (nd) with ID 3241
+2023-12-03 17:08:47,478 - DEBUG - Duplicate found: Guanajuato (nd) with ID 3254
+2023-12-03 17:08:47,683 - DEBUG - Duplicate found: Hakata Bay with ID 3342
+2023-12-03 17:08:47,683 - DEBUG - Duplicate found: Hakata Bay with ID 3343
+2023-12-03 17:08:47,692 - DEBUG - Duplicate found: Halicarnassus with ID 3348
+2023-12-03 17:08:47,710 - DEBUG - Duplicate found: Hamadan with ID 3357
+2023-12-03 17:08:47,710 - DEBUG - Duplicate found: Hamadan with ID 3358
+2023-12-03 17:08:47,711 - DEBUG - Duplicate found: Hamadan with ID 3359
+2023-12-03 17:08:47,711 - DEBUG - Duplicate found: Hamadan with ID 3360
+2023-12-03 17:08:47,833 - DEBUG - Duplicate found: Harran with ID 3413
+2023-12-03 17:08:47,833 - DEBUG - Duplicate found: Harran with ID 3414
+2023-12-03 17:08:47,925 - DEBUG - Duplicate found: Helgoland Bight with ID 3454
+2023-12-03 17:08:47,932 - DEBUG - Duplicate found: Hellespont with ID 3458
+2023-12-03 17:08:47,968 - DEBUG - Duplicate found: Heraclea, Anatolia (nd) with ID 3474
+2023-12-03 17:08:48,022 - DEBUG - Duplicate found: Hertogenbosch with ID 3498
+2023-12-03 17:08:48,059 - DEBUG - Duplicate found: Himera River with ID 3514
+2023-12-03 17:08:48,137 - DEBUG - Duplicate found: Homs with ID 3548
+2023-12-03 17:08:48,137 - DEBUG - Duplicate found: Homs with ID 3549
+2023-12-03 17:08:48,161 - DEBUG - Duplicate found: Hook (nd) with ID 3560
+2023-12-03 17:08:48,161 - DEBUG - Duplicate found: Hook with ID 3561
+2023-12-03 17:08:48,479 - DEBUG - Duplicate found: Inonu (nd) with ID 3697
+2023-12-03 17:08:48,579 - DEBUG - Duplicate found: Isonzond with ID 3741
+2023-12-03 17:08:48,579 - DEBUG - Duplicate found: Isonzord with ID 3742
+2023-12-03 17:08:48,579 - DEBUG - Duplicate found: Isonzoth with ID 3743
+2023-12-03 17:08:48,579 - DEBUG - Duplicate found: Isonzo (st) with ID 3744
+2023-12-03 17:08:48,579 - DEBUG - Duplicate found: Isonzo (nd) with ID 3745
+2023-12-03 17:08:48,579 - DEBUG - Duplicate found: Isonzo (st) with ID 3746
+2023-12-03 17:08:48,579 - DEBUG - Duplicate found: Isonzo (nd) with ID 3747
+2023-12-03 17:08:48,653 - DEBUG - Duplicate found: Jagdalak (nd) with ID 3780
+2023-12-03 17:08:48,655 - DEBUG - Duplicate found: Jagdispur (st) with ID 3782
+2023-12-03 17:08:48,655 - DEBUG - Duplicate found: Jagdispur (nd) with ID 3783
+2023-12-03 17:08:48,690 - DEBUG - Duplicate found: Jamestown Ford with ID 3799
+2023-12-03 17:08:48,824 - DEBUG - Duplicate found: Jerusalem (st) with ID 3857
+2023-12-03 17:08:48,824 - DEBUG - Duplicate found: Jerusalem (nd) with ID 3858
+2023-12-03 17:08:48,920 - DEBUG - Duplicate found: Joppa with ID 3899
+2023-12-03 17:08:48,920 - DEBUG - Duplicate found: Joppa with ID 3900
+2023-12-03 17:08:48,920 - DEBUG - Duplicate found: Joppa with ID 3901
+2023-12-03 17:08:48,944 - DEBUG - Duplicate found: Juthas with ID 3912
+2023-12-03 17:08:48,949 - DEBUG - Duplicate found: Kabul with ID 3915
+2023-12-03 17:08:48,949 - DEBUG - Duplicate found: Kabul with ID 3916
+2023-12-03 17:08:48,949 - DEBUG - Duplicate found: Kabul with ID 3917
+2023-12-03 17:08:48,949 - DEBUG - Duplicate found: Kabul with ID 3918
+2023-12-03 17:08:48,949 - DEBUG - Duplicate found: Kabul with ID 3919
+2023-12-03 17:08:48,949 - DEBUG - Duplicate found: Kabul with ID 3920
+2023-12-03 17:08:48,949 - DEBUG - Duplicate found: Kabul with ID 3921
+2023-12-03 17:08:48,949 - DEBUG - Duplicate found: Kabul with ID 3922
+2023-12-03 17:08:48,949 - DEBUG - Duplicate found: Kabul with ID 3923
+2023-12-03 17:08:48,949 - DEBUG - Duplicate found: Kabul with ID 3924
+2023-12-03 17:08:48,949 - DEBUG - Duplicate found: Kabul with ID 3925
+2023-12-03 17:08:48,949 - DEBUG - Duplicate found: Kabul with ID 3926
+2023-12-03 17:08:48,949 - DEBUG - Duplicate found: Kabul with ID 3927
+2023-12-03 17:08:48,950 - DEBUG - Duplicate found: Kabul with ID 3928
+2023-12-03 17:08:48,950 - DEBUG - Duplicate found: Kabul with ID 3929
+2023-12-03 17:08:48,976 - DEBUG - Duplicate found: Kagul Lagoon with ID 3941
+2023-12-03 17:08:49,069 - DEBUG - Duplicate found: Kanchi with ID 3981
+2023-12-03 17:08:49,069 - DEBUG - Duplicate found: Kanchi with ID 3982
+2023-12-03 17:08:49,069 - DEBUG - Duplicate found: Kanchi with ID 3983
+2023-12-03 17:08:49,119 - DEBUG - Duplicate found: Kangwachai with ID 4005
+2023-12-03 17:08:49,418 - DEBUG - Duplicate found: Kharkov (st) with ID 4131
+2023-12-03 17:08:49,418 - DEBUG - Duplicate found: Kharkov (nd) with ID 4132
+2023-12-03 17:08:49,487 - DEBUG - Duplicate found: KiangsiFukien with ID 4162
+2023-12-03 17:08:49,532 - DEBUG - Duplicate found: Killala (nd) with ID 4182
+2023-12-03 17:08:49,750 - DEBUG - Duplicate found: Kororareka with ID 4276
+2023-12-03 17:08:49,755 - DEBUG - Duplicate found: Kos with ID 4279
+2023-12-03 17:08:49,774 - DEBUG - Duplicate found: KotahkiSerai with ID 4288
+2023-12-03 17:08:49,825 - DEBUG - Duplicate found: Krithia (nd) with ID 4310
+2023-12-03 17:08:49,825 - DEBUG - Duplicate found: Krithia (rd) with ID 4311
+2023-12-03 17:08:49,837 - DEBUG - Duplicate found: Kronstadt Bay with ID 4317
+2023-12-03 17:08:49,842 - DEBUG - Duplicate found: Kruje, Albania with ID 4320
+2023-12-03 17:08:49,842 - DEBUG - Duplicate found: Kruje, Albania with ID 4321
+2023-12-03 17:08:49,842 - DEBUG - Duplicate found: Kruje, Albania with ID 4322
+2023-12-03 17:08:49,842 - DEBUG - Duplicate found: Kruje, Albania with ID 4323
+2023-12-03 17:08:49,943 - DEBUG - Duplicate found: KutalAmara (nd) with ID 4367
+2023-12-03 17:08:50,102 - DEBUG - Duplicate found: Lake George with ID 4432
+2023-12-03 17:08:50,216 - DEBUG - Duplicate found: La Paz with ID 4480
+2023-12-03 17:08:50,233 - DEBUG - Duplicate found: La Puerta (nd) with ID 4488
+2023-12-03 17:08:50,298 - DEBUG - Duplicate found: Latrun (nd) with ID 4517
+2023-12-03 17:08:50,320 - DEBUG - Duplicate found: Lava Beds (nd) with ID 4527
+2023-12-03 17:08:50,345 - DEBUG - Duplicate found: Le Bourget (nd) with ID 4539
+2023-12-03 17:08:50,429 - DEBUG - Duplicate found: Lerida with ID 4576
+2023-12-03 17:08:50,429 - DEBUG - Duplicate found: Lerida with ID 4577
+2023-12-03 17:08:50,429 - DEBUG - Duplicate found: Lerida with ID 4578
+2023-12-03 17:08:50,429 - DEBUG - Duplicate found: Lerida with ID 4579
+2023-12-03 17:08:50,429 - DEBUG - Duplicate found: Lerida with ID 4580
+2023-12-03 17:08:50,430 - DEBUG - Duplicate found: Lerida with ID 4581
+2023-12-03 17:08:50,644 - DEBUG - Duplicate found: Lochaber with ID 4673
+2023-12-03 17:08:50,676 - DEBUG - Duplicate found: Lofoten (nd) with ID 4688
+2023-12-03 17:08:50,704 - DEBUG - Duplicate found: Lonato (nd) with ID 4701
+2023-12-03 17:08:50,709 - DEBUG - Duplicate found: Londonderry with ID 4704
+2023-12-03 17:08:50,776 - DEBUG - Duplicate found: Los Remedios with ID 4733
+2023-12-03 17:08:50,795 - DEBUG - Duplicate found: Lovcha with ID 4742
+2023-12-03 17:08:50,851 - DEBUG - Duplicate found: Lucknow (nd) with ID 4763
+2023-12-03 17:08:50,851 - DEBUG - Duplicate found: Lucknow with ID 4764
+2023-12-03 17:08:50,868 - DEBUG - Duplicate found: Luleburgaz with ID 4772
+2023-12-03 17:08:50,928 - DEBUG - Duplicate found: Lvov with ID 4799
+2023-12-03 17:08:50,928 - DEBUG - Duplicate found: Lvov with ID 4800
+2023-12-03 17:08:50,928 - DEBUG - Duplicate found: Lvov with ID 4801
+2023-12-03 17:08:50,940 - DEBUG - Duplicate found: Lyons with ID 4807
+2023-12-03 17:08:51,000 - DEBUG - Duplicate found: Madras with ID 4834
+2023-12-03 17:08:51,003 - DEBUG - Duplicate found: Madrid (nd) with ID 4836
+2023-12-03 17:08:51,126 - DEBUG - Duplicate found: Malakov (nd) with ID 4889
+2023-12-03 17:08:51,144 - DEBUG - Duplicate found: Malaysia with ID 4897
+2023-12-03 17:08:51,151 - DEBUG - Duplicate found: Maldah with ID 4901
+2023-12-03 17:08:51,302 - DEBUG - Duplicate found: Mantua with ID 4966
+2023-12-03 17:08:51,302 - DEBUG - Duplicate found: Mantua with ID 4967
+2023-12-03 17:08:51,304 - DEBUG - Duplicate found: Manus with ID 4969
+2023-12-03 17:08:51,305 - DEBUG - Duplicate found: Manzikert with ID 4970
+2023-12-03 17:08:51,305 - DEBUG - Duplicate found: Manzikert with ID 4971
+2023-12-03 17:08:51,360 - DEBUG - Duplicate found: Margus with ID 4996
+2023-12-03 17:08:51,400 - DEBUG - Duplicate found: Marne with ID 5014
+2023-12-03 17:08:51,400 - DEBUG - Duplicate found: Marne with ID 5015
+2023-12-03 17:08:51,491 - DEBUG - Duplicate found: Massacre Creek with ID 5055
+2023-12-03 17:08:51,498 - DEBUG - Duplicate found: Massilia with ID 5059
+2023-12-03 17:08:51,498 - DEBUG - Duplicate found: Massilia with ID 5060
+2023-12-03 17:08:51,579 - DEBUG - Duplicate found: Mearcredesburn with ID 5096
+2023-12-03 17:08:51,610 - DEBUG - Duplicate found: Medina with ID 5110
+2023-12-03 17:08:51,619 - DEBUG - Duplicate found: Mediolanum with ID 5115
+2023-12-03 17:08:51,701 - DEBUG - Duplicate found: Memphis, Egypt with ID 5151
+2023-12-03 17:08:51,773 - DEBUG - Duplicate found: Messina with ID 5182
+2023-12-03 17:08:51,773 - DEBUG - Duplicate found: Messina with ID 5183
+2023-12-03 17:08:51,773 - DEBUG - Duplicate found: Messina with ID 5184
+2023-12-03 17:08:51,773 - DEBUG - Duplicate found: Messina with ID 5185
+2023-12-03 17:08:51,773 - DEBUG - Duplicate found: Messina with ID 5186
+2023-12-03 17:08:51,773 - DEBUG - Duplicate found: Messina with ID 5187
+2023-12-03 17:08:51,773 - DEBUG - Duplicate found: Messina with ID 5188
+2023-12-03 17:08:51,773 - DEBUG - Duplicate found: Messina with ID 5189
+2023-12-03 17:08:51,984 - DEBUG - Duplicate found: Mockern (nd) with ID 5280
+2023-12-03 17:08:52,010 - DEBUG - Duplicate found: Mohammerah with ID 5292
+2023-12-03 17:08:52,136 - DEBUG - Duplicate found: Monte Christi (nd) with ID 5347
+2023-12-03 17:08:52,244 - DEBUG - Duplicate found: Morava with ID 5395
+2023-12-03 17:08:52,502 - DEBUG - Duplicate found: Mylae with ID 5509
+2023-12-03 17:08:52,503 - DEBUG - Duplicate found: Mylae with ID 5510
+2023-12-03 17:08:52,533 - DEBUG - Duplicate found: Nacaome with ID 5524
+2023-12-03 17:08:52,593 - DEBUG - Duplicate found: Naktong Bulge (nd) with ID 5551
+2023-12-03 17:08:52,747 - DEBUG - Duplicate found: Narvik (nd) with ID 5617
+2023-12-03 17:08:52,747 - DEBUG - Duplicate found: Narvik (rd) with ID 5618
+2023-12-03 17:08:52,764 - DEBUG - Duplicate found: Naupactus with ID 5626
+2023-12-03 17:08:52,839 - DEBUG - Duplicate found: Nekujyal with ID 5659
+2023-12-03 17:08:53,067 - DEBUG - Duplicate found: Nirmohgarh with ID 5754
+2023-12-03 17:08:53,111 - DEBUG - Duplicate found: Noi Bang with ID 5774
+2023-12-03 17:08:53,202 - DEBUG - Duplicate found: Novgorod Seversk with ID 5814
+2023-12-03 17:08:53,221 - DEBUG - Duplicate found: Nowy Dwor with ID 5823
+2023-12-03 17:08:53,306 - DEBUG - Duplicate found: Oenoparas with ID 5861
+2023-12-03 17:08:53,348 - DEBUG - Duplicate found: Oland (nd) with ID 5880
+2023-12-03 17:08:53,348 - DEBUG - Duplicate found: Oland with ID 5881
+2023-12-03 17:08:53,348 - DEBUG - Duplicate found: Oland with ID 5882
+2023-12-03 17:08:53,348 - DEBUG - Duplicate found: Oland with ID 5883
+2023-12-03 17:08:53,397 - DEBUG - Duplicate found: Onganjira with ID 5905
+2023-12-03 17:08:53,422 - DEBUG - Duplicate found: Oporto (nd) with ID 5917
+2023-12-03 17:08:53,422 - DEBUG - Duplicate found: Oporto with ID 5918
+2023-12-03 17:08:53,491 - DEBUG - Duplicate found: Orleans (rd) with ID 5949
+2023-12-03 17:08:53,647 - DEBUG - Duplicate found: Palais Gallien with ID 6019
+2023-12-03 17:08:53,647 - DEBUG - Duplicate found: Palan with ID 6020
+2023-12-03 17:08:53,786 - DEBUG - Duplicate found: Panormus, Sicily with ID 6082
+2023-12-03 17:08:53,805 - DEBUG - Duplicate found: Paraetacene with ID 6091
+2023-12-03 17:08:53,861 - DEBUG - Duplicate found: Passchendaele (nd) with ID 6116
+2023-12-03 17:08:53,875 - DEBUG - Duplicate found: Patna (st) with ID 6123
+2023-12-03 17:08:53,875 - DEBUG - Duplicate found: Patna (nd) with ID 6124
+2023-12-03 17:08:53,877 - DEBUG - Duplicate found: Patras with ID 6126
+2023-12-03 17:08:53,877 - DEBUG - Duplicate found: Patras with ID 6127
+2023-12-03 17:08:53,932 - DEBUG - Duplicate found: Pelagonia with ID 6152
+2023-12-03 17:08:54,063 - DEBUG - Duplicate found: Petersburg (st) with ID 6209
+2023-12-03 17:08:54,063 - DEBUG - Duplicate found: Petersburg (nd) with ID 6210
+2023-12-03 17:08:54,063 - DEBUG - Duplicate found: Petersburg with ID 6211
+2023-12-03 17:08:54,080 - DEBUG - Duplicate found: Petrograd with ID 6219
+2023-12-03 17:08:54,080 - DEBUG - Duplicate found: Petrograd with ID 6220
+2023-12-03 17:08:54,085 - DEBUG - Duplicate found: Pevensey with ID 6223
+2023-12-03 17:08:54,097 - DEBUG - Duplicate found: Philippi, Macedonia (nd) with ID 6229
+2023-12-03 17:08:54,150 - DEBUG - Duplicate found: Piave (st) with ID 6252
+2023-12-03 17:08:54,185 - DEBUG - Duplicate found: Pine Creek with ID 6268
+2023-12-03 17:08:54,215 - DEBUG - Duplicate found: Pirisabora with ID 6282
+2023-12-03 17:08:54,241 - DEBUG - Duplicate found: Placentia with ID 6294
+2023-12-03 17:08:54,241 - DEBUG - Duplicate found: Placentia with ID 6295
+2023-12-03 17:08:54,241 - DEBUG - Duplicate found: Placentia with ID 6296
+2023-12-03 17:08:54,274 - DEBUG - Duplicate found: Plevna (nd) with ID 6311
+2023-12-03 17:08:54,274 - DEBUG - Duplicate found: Plevna (rd) with ID 6312
+2023-12-03 17:08:54,279 - DEBUG - Duplicate found: Plovdiv with ID 6315
+2023-12-03 17:08:54,329 - DEBUG - Duplicate found: Polotsk (st) with ID 6338
+2023-12-03 17:08:54,329 - DEBUG - Duplicate found: Polotsk (nd) with ID 6339
+2023-12-03 17:08:54,392 - DEBUG - Duplicate found: Pork Chop Hill with ID 6367
+2023-12-03 17:08:54,408 - DEBUG - Duplicate found: Port Hudson with ID 6375
+2023-12-03 17:08:54,415 - DEBUG - Duplicate found: Porto Bello with ID 6379
+2023-12-03 17:08:54,416 - DEBUG - Duplicate found: Porto Bello with ID 6380
+2023-12-03 17:08:54,496 - DEBUG - Duplicate found: Praga with ID 6416
+2023-12-03 17:08:54,496 - DEBUG - Duplicate found: Praga with ID 6417
+2023-12-03 17:08:54,573 - DEBUG - Duplicate found: Przemysl (nd) with ID 6451
+2023-12-03 17:08:54,637 - DEBUG - Duplicate found: Pullalur with ID 6480
+2023-12-03 17:08:54,658 - DEBUG - Duplicate found: Pusan (nd) with ID 6490
+2023-12-03 17:08:54,659 - DEBUG - Duplicate found: Pusan Perimeter (st) with ID 6491
+2023-12-03 17:08:54,675 - DEBUG - Duplicate found: Pyongyang (st) with ID 6499
+2023-12-03 17:08:54,675 - DEBUG - Duplicate found: Pyongyang (nd) with ID 6500
+2023-12-03 17:08:54,713 - DEBUG - Duplicate found: Quang Tri (st) with ID 6518
+2023-12-03 17:08:54,713 - DEBUG - Duplicate found: Quang Tri (nd) with ID 6519
+2023-12-03 17:08:54,838 - DEBUG - Duplicate found: Ramleh with ID 6574
+2023-12-03 17:08:54,838 - DEBUG - Duplicate found: Ramleh with ID 6575
+2023-12-03 17:08:54,838 - DEBUG - Duplicate found: Ramleh with ID 6576
+2023-12-03 17:08:54,876 - DEBUG - Duplicate found: Rappahannock Station with ID 6593
+2023-12-03 17:08:54,954 - DEBUG - Duplicate found: Reams Station (nd) with ID 6627
+2023-12-03 17:08:54,966 - DEBUG - Duplicate found: Redan (nd) with ID 6633
+2023-12-03 17:08:55,104 - DEBUG - Duplicate found: Ridanieh with ID 6690
+2023-12-03 17:08:55,123 - DEBUG - Duplicate found: Riga (st) with ID 6699
+2023-12-03 17:08:55,123 - DEBUG - Duplicate found: Riga (nd) with ID 6700
+2023-12-03 17:08:55,126 - DEBUG - Duplicate found: Rijeka with ID 6702
+2023-12-03 17:08:55,253 - DEBUG - Duplicate found: Romano with ID 6757
+2023-12-03 17:08:55,289 - DEBUG - Duplicate found: Roodewal, Orange Free State with ID 6773
+2023-12-03 17:08:55,289 - DEBUG - Duplicate found: Roodewal, Transvaal with ID 6774
+2023-12-03 17:08:55,361 - DEBUG - Duplicate found: Rowletts Station with ID 6806
+2023-12-03 17:08:55,396 - DEBUG - Duplicate found: Ruschuk (nd) with ID 6822
+2023-12-03 17:08:55,488 - DEBUG - Duplicate found: Sagunto with ID 6862
+2023-12-03 17:08:55,488 - DEBUG - Duplicate found: Saguntum with ID 6863
+2023-12-03 17:08:55,488 - DEBUG - Duplicate found: Saguntum with ID 6864
+2023-12-03 17:08:55,502 - DEBUG - Duplicate found: St Albans with ID 6871
+2023-12-03 17:08:55,502 - DEBUG - Duplicate found: St Albans with ID 6872
+2023-12-03 17:08:55,525 - DEBUG - Duplicate found: St Clairs Defeat with ID 6883
+2023-12-03 17:08:55,534 - DEBUG - Duplicate found: St Dizier (nd) with ID 6888
+2023-12-03 17:08:55,569 - DEBUG - Duplicate found: St Johns (nd) with ID 6904
+2023-12-03 17:08:55,670 - DEBUG - Duplicate found: Salamanca Forts, Spain with ID 6950
+2023-12-03 17:08:55,721 - DEBUG - Duplicate found: Salsu with ID 6974
+2023-12-03 17:08:55,730 - DEBUG - Duplicate found: Saltville (nd) with ID 6979
+2023-12-03 17:08:55,744 - DEBUG - Duplicate found: Samalu with ID 6986
+2023-12-03 17:08:55,788 - DEBUG - Duplicate found: San Andres with ID 7006
+2023-12-03 17:08:55,790 - DEBUG - Duplicate found: San Antonio, with ID 7008
+2023-12-03 17:08:55,790 - DEBUG - Duplicate found: SanAntonio, Texas with ID 7009
+2023-12-03 17:08:55,790 - DEBUG - Duplicate found: San Antonio, Texas (nd) with ID 7010
+2023-12-03 17:08:55,820 - DEBUG - Duplicate found: San Felipe with ID 7024
+2023-12-03 17:08:55,879 - DEBUG - Duplicate found: San Juan, Puerto Rico (nd) with ID 7050
+2023-12-03 17:08:55,879 - DEBUG - Duplicate found: San Juan with ID 7051
+2023-12-03 17:08:55,907 - DEBUG - Duplicate found: San Marcial with ID 7064
+2023-12-03 17:08:55,947 - DEBUG - Duplicate found: San Saba with ID 7082
+2023-12-03 17:08:55,947 - DEBUG - Duplicate found: San Saba with ID 7083
+2023-12-03 17:08:56,017 - DEBUG - Duplicate found: Santa Rosa de Copan with ID 7114
+2023-12-03 17:08:56,019 - DEBUG - Duplicate found: Santa Rosa de Copan with ID 7116
+2023-12-03 17:08:56,019 - DEBUG - Duplicate found: Santa Rosa de Copan with ID 7117
+2023-12-03 17:08:56,034 - DEBUG - Duplicate found: Santo Domingo with ID 7124
+2023-12-03 17:08:56,034 - DEBUG - Duplicate found: Santo Domingo with ID 7125
+2023-12-03 17:08:56,034 - DEBUG - Duplicate found: Santo Domingo with ID 7126
+2023-12-03 17:08:56,034 - DEBUG - Duplicate found: Santo Domingo with ID 7127
+2023-12-03 17:08:56,034 - DEBUG - Duplicate found: Santo Domingo with ID 7128
+2023-12-03 17:08:56,034 - DEBUG - Duplicate found: Santo Domingo with ID 7129
+2023-12-03 17:08:56,034 - DEBUG - Duplicate found: Santo Domingo with ID 7130
+2023-12-03 17:08:56,069 - DEBUG - Duplicate found: Saragossa (st) with ID 7146
+2023-12-03 17:08:56,090 - DEBUG - Duplicate found: Saratoga, New York (nd) with ID 7156
+2023-12-03 17:08:56,099 - DEBUG - Duplicate found: Sari Bair with ID 7161
+2023-12-03 17:08:56,235 - DEBUG - Duplicate found: ndSchweidnitz with ID 7222
+2023-12-03 17:08:56,272 - DEBUG - Duplicate found: Sedan with ID 7239
+2023-12-03 17:08:56,329 - DEBUG - Duplicate found: Sens with ID 7265
+2023-12-03 17:08:56,329 - DEBUG - Duplicate found: Sens with ID 7266
+2023-12-03 17:08:56,339 - DEBUG - Duplicate found: Seoul (nd) with ID 7271
+2023-12-03 17:08:56,339 - DEBUG - Duplicate found: Seoul with ID 7272
+2023-12-03 17:08:56,374 - DEBUG - Duplicate found: Seven Pines with ID 7288
+2023-12-03 17:08:56,464 - DEBUG - Duplicate found: Shenyang with ID 7327
+2023-12-03 17:08:56,480 - DEBUG - Duplicate found: Shijo Nawate with ID 7335
+2023-12-03 17:08:56,497 - DEBUG - Duplicate found: Shimonoseki with ID 7343
+2023-12-03 17:08:56,513 - DEBUG - Duplicate found: Shiroyama with ID 7351
+2023-12-03 17:08:56,555 - DEBUG - Duplicate found: Sicilian Vespers with ID 7370
+2023-12-03 17:08:56,570 - DEBUG - Duplicate found: Sidi Mesri (nd) with ID 7377
+2023-12-03 17:08:56,597 - DEBUG - Duplicate found: Siffin with ID 7390
+2023-12-03 17:08:56,600 - DEBUG - Duplicate found: Sihayos Kraal with ID 7392
+2023-12-03 17:08:56,604 - DEBUG - Duplicate found: Sikander Bagh with ID 7395
+2023-12-03 17:08:56,624 - DEBUG - Duplicate found: Silistria with ID 7404
+2023-12-03 17:08:56,625 - DEBUG - Duplicate found: Silistria with ID 7405
+2023-12-03 17:08:56,625 - DEBUG - Duplicate found: Silistria with ID 7406
+2023-12-03 17:08:56,625 - DEBUG - Duplicate found: Silistria with ID 7407
+2023-12-03 17:08:56,625 - DEBUG - Duplicate found: Silistria with ID 7408
+2023-12-03 17:08:56,635 - DEBUG - Duplicate found: Simmons Bluff with ID 7413
+2023-12-03 17:08:56,696 - DEBUG - Duplicate found: Sissek with ID 7440
+2023-12-03 17:08:56,698 - DEBUG - Duplicate found: Sitibaldi with ID 7442
+2023-12-03 17:08:56,712 - DEBUG - Duplicate found: Skalitz with ID 7449
+2023-12-03 17:08:56,874 - DEBUG - Duplicate found: Somorrostro (nd) with ID 7520
+2023-12-03 17:08:56,884 - DEBUG - Duplicate found: Songhua (st) with ID 7525
+2023-12-03 17:08:56,884 - DEBUG - Duplicate found: Songhua (nd) with ID 7526
+2023-12-03 17:08:56,958 - DEBUG - Duplicate found: Sphakteria with ID 7559
+2023-12-03 17:08:57,138 - DEBUG - Duplicate found: Strasbourg with ID 7636
+2023-12-03 17:08:57,145 - DEBUG - Duplicate found: Strymon with ID 7640
+2023-12-03 17:08:57,168 - DEBUG - Duplicate found: Suez Canal (st) with ID 7651
+2023-12-03 17:08:57,168 - DEBUG - Duplicate found: Suez Canal (nd) with ID 7652
+2023-12-03 17:08:57,168 - DEBUG - Duplicate found: Suez Canal (rd) with ID 7653
+2023-12-03 17:08:57,244 - DEBUG - Duplicate found: Suvla Bay with ID 7687
+2023-12-03 17:08:57,279 - DEBUG - Duplicate found: Swift Creek with ID 7703
+2023-12-03 17:08:57,307 - DEBUG - Duplicate found: Syracuse Harbour with ID 7716
+2023-12-03 17:08:57,307 - DEBUG - Duplicate found: Syr Darya with ID 7717
+2023-12-03 17:08:57,343 - DEBUG - Duplicate found: Tacambaro (nd) with ID 7733
+2023-12-03 17:08:57,428 - DEBUG - Duplicate found: Talavera de la Reina with ID 7771
+2023-12-03 17:08:57,570 - DEBUG - Duplicate found: Tarragona with ID 7833
+2023-12-03 17:08:57,570 - DEBUG - Duplicate found: Tarragona with ID 7834
+2023-12-03 17:08:57,597 - DEBUG - Duplicate found: Tatayiba with ID 7846
+2023-12-03 17:08:57,609 - DEBUG - Duplicate found: Tauromenium with ID 7852
+2023-12-03 17:08:57,609 - DEBUG - Duplicate found: Tauromenium with ID 7853
+2023-12-03 17:08:57,617 - DEBUG - Duplicate found: Te Ahuahu, Taranaki with ID 7857
+2023-12-03 17:08:57,655 - DEBUG - Duplicate found: TelelZataar with ID 7874
+2023-12-03 17:08:57,662 - DEBUG - Duplicate found: Tembien (nd) with ID 7878
+2023-12-03 17:08:57,788 - DEBUG - Duplicate found: Thermopylae with ID 7932
+2023-12-03 17:08:57,788 - DEBUG - Duplicate found: Thermopylae with ID 7933
+2023-12-03 17:08:57,788 - DEBUG - Duplicate found: Thermopylae with ID 7934
+2023-12-03 17:08:57,788 - DEBUG - Duplicate found: Thessalonica with ID 7935
+2023-12-03 17:08:57,788 - DEBUG - Duplicate found: Thessalonica with ID 7936
+2023-12-03 17:08:57,789 - DEBUG - Duplicate found: Thessalonica with ID 7937
+2023-12-03 17:08:57,789 - DEBUG - Duplicate found: Thessalonica with ID 7938
+2023-12-03 17:08:57,789 - DEBUG - Duplicate found: Thessalonica with ID 7939
+2023-12-03 17:08:57,832 - DEBUG - Duplicate found: Tianjin (nd) with ID 7959
+2023-12-03 17:08:57,833 - DEBUG - Duplicate found: Tianjin with ID 7960
+2023-12-03 17:08:57,833 - DEBUG - Duplicate found: Tianjin with ID 7961
+2023-12-03 17:08:57,833 - DEBUG - Duplicate found: Tianjin with ID 7962
+2023-12-03 17:08:57,930 - DEBUG - Duplicate found: Tobruk (st) with ID 8005
+2023-12-03 17:08:57,931 - DEBUG - Duplicate found: Tobruk (nd) with ID 8006
+2023-12-03 17:08:57,947 - DEBUG - Duplicate found: Toledo with ID 8014
+2023-12-03 17:08:58,107 - DEBUG - Duplicate found: Trakhe with ID 8084
+2023-12-03 17:08:58,114 - DEBUG - Duplicate found: Trapani with ID 8088
+2023-12-03 17:08:58,156 - DEBUG - Duplicate found: Tricameron with ID 8107
+2023-12-03 17:08:58,160 - DEBUG - Duplicate found: Trichinopoly (st) with ID 8110
+2023-12-03 17:08:58,160 - DEBUG - Duplicate found: Trichinopoly (nd) with ID 8111
+2023-12-03 17:08:58,160 - DEBUG - Duplicate found: Trichinopoly (rd) with ID 8112
+2023-12-03 17:08:58,187 - DEBUG - Duplicate found: Trinomalee with ID 8125
+2023-12-03 17:08:58,208 - DEBUG - Duplicate found: Tripoli, Libya (st) with ID 8135
+2023-12-03 17:08:58,253 - DEBUG - Duplicate found: Tsaritsyn with ID 8156
+2023-12-03 17:08:58,253 - DEBUG - Duplicate found: Tsaritsyn with ID 8157
+2023-12-03 17:08:58,276 - DEBUG - Duplicate found: Tudela (nd) with ID 8168
+2023-12-03 17:08:58,288 - DEBUG - Duplicate found: Tulagi (nd) with ID 8174
+2023-12-03 17:08:58,348 - DEBUG - Duplicate found: Turtukai (nd) with ID 8201
+2023-12-03 17:08:58,348 - DEBUG - Duplicate found: Turtukai with ID 8202
+2023-12-03 17:08:58,348 - DEBUG - Duplicate found: Tutrakan with ID 8203
+2023-12-03 17:08:58,354 - DEBUG - Duplicate found: Tuyuti with ID 8207
+2023-12-03 17:08:58,355 - DEBUG - Duplicate found: Tuyuti with ID 8208
+2023-12-03 17:08:58,361 - DEBUG - Duplicate found: Twt Hill with ID 8212
+2023-12-03 17:08:58,389 - DEBUG - Duplicate found: Udaynala with ID 8225
+2023-12-03 17:08:58,400 - DEBUG - Duplicate found: Ufa (st) with ID 8231
+2023-12-03 17:08:58,400 - DEBUG - Duplicate found: Ufa (nd) with ID 8232
+2023-12-03 17:08:58,407 - DEBUG - Duplicate found: Ujigawa with ID 8236
+2023-12-03 17:08:58,499 - DEBUG - Duplicate found: Utica (nd) with ID 8277
+2023-12-03 17:08:58,499 - DEBUG - Duplicate found: Utica with ID 8278
+2023-12-03 17:08:58,541 - DEBUG - Duplicate found: Valencia, Venezuela (nd) with ID 8297
+2023-12-03 17:08:58,614 - DEBUG - Duplicate found: Vasaq with ID 8330
+2023-12-03 17:08:58,626 - DEBUG - Duplicate found: Vaux (st) with ID 8336
+2023-12-03 17:08:58,626 - DEBUG - Duplicate found: Vaux (nd) with ID 8337
+2023-12-03 17:08:58,651 - DEBUG - Duplicate found: Velestino (nd) with ID 8348
+2023-12-03 17:08:58,674 - DEBUG - Duplicate found: Vellur with ID 8359
+2023-12-03 17:08:58,698 - DEBUG - Duplicate found: Vera (nd) with ID 8370
+2023-12-03 17:08:58,707 - DEBUG - Duplicate found: Veracruz Incident with ID 8375
+2023-12-03 17:08:58,712 - DEBUG - Duplicate found: Verdun with ID 8378
+2023-12-03 17:08:58,712 - DEBUG - Duplicate found: Verdun with ID 8379
+2023-12-03 17:08:58,712 - DEBUG - Duplicate found: Verdun with ID 8380
+2023-12-03 17:08:58,712 - DEBUG - Duplicate found: Verdun with ID 8381
+2023-12-03 17:08:58,799 - DEBUG - Duplicate found: Vigo Bay with ID 8419
+2023-12-03 17:08:58,806 - DEBUG - Duplicate found: Vilande with ID 8423
+2023-12-03 17:08:58,825 - DEBUG - Duplicate found: Villafranca de Oria with ID 8432
+2023-12-03 17:08:58,834 - DEBUG - Duplicate found: Villalar with ID 8437
+2023-12-03 17:08:58,864 - DEBUG - Duplicate found: Vilna (st) with ID 8451
+2023-12-03 17:08:58,864 - DEBUG - Duplicate found: Vilna (nd) with ID 8452
+2023-12-03 17:08:59,012 - DEBUG - Duplicate found: Wagon Box Fight with ID 8518
+2023-12-03 17:08:59,017 - DEBUG - Duplicate found: Wahoo Swamp with ID 8521
+2023-12-03 17:08:59,048 - DEBUG - Duplicate found: Walaja with ID 8535
+2023-12-03 17:08:59,048 - DEBUG - Duplicate found: Walcheren with ID 8536
+2023-12-03 17:08:59,048 - DEBUG - Duplicate found: Walcheren with ID 8537
+2023-12-03 17:08:59,067 - DEBUG - Duplicate found: Wandewash with ID 8546
+2023-12-03 17:08:59,095 - DEBUG - Duplicate found: Warsaw (st) with ID 8559
+2023-12-03 17:08:59,097 - DEBUG - Duplicate found: Warsaw (st) with ID 8561
+2023-12-03 17:08:59,097 - DEBUG - Duplicate found: Warsaw (nd) with ID 8562
+2023-12-03 17:08:59,146 - DEBUG - Duplicate found: Waynesborough, Georgia with ID 8584
+2023-12-03 17:08:59,173 - DEBUG - Duplicate found: Wenden with ID 8596
+2023-12-03 17:08:59,174 - DEBUG - Duplicate found: Wenden with ID 8597
+2023-12-03 17:08:59,195 - DEBUG - Duplicate found: Western Approaches (nd) with ID 8607
+2023-12-03 17:08:59,195 - DEBUG - Duplicate found: Western Hubei with ID 8608
+2023-12-03 17:08:59,311 - DEBUG - Duplicate found: Winchester, Virginia with ID 8659
+2023-12-03 17:08:59,312 - DEBUG - Duplicate found: Winchester, Virginia with ID 8660
+2023-12-03 17:08:59,312 - DEBUG - Duplicate found: Winchester with ID 8661
+2023-12-03 17:08:59,312 - DEBUG - Duplicate found: Windhoek with ID 8662
+2023-12-03 17:08:59,383 - DEBUG - Duplicate found: Wuchang (st) with ID 8694
+2023-12-03 17:08:59,383 - DEBUG - Duplicate found: Wuchang (nd) with ID 8695
+2023-12-03 17:08:59,431 - DEBUG - Duplicate found: Xiaoling with ID 8717
+2023-12-03 17:08:59,467 - DEBUG - Duplicate found: Yanbu (st) with ID 8734
+2023-12-03 17:08:59,467 - DEBUG - Duplicate found: Yanbu (nd) with ID 8735
+2023-12-03 17:08:59,485 - DEBUG - Duplicate found: Yarmuk with ID 8744
+2023-12-03 17:08:59,485 - DEBUG - Duplicate found: Yarmuk with ID 8745
+2023-12-03 17:08:59,490 - DEBUG - Duplicate found: YataitiCora with ID 8748
+2023-12-03 17:08:59,492 - DEBUG - Duplicate found: Yaunis Khan with ID 8750
+2023-12-03 17:08:59,495 - DEBUG - Duplicate found: Ye with ID 8752
+2023-12-03 17:08:59,590 - DEBUG - Duplicate found: Yuxian with ID 8795
+2023-12-03 17:08:59,633 - DEBUG - Duplicate found: Zanzur (nd) with ID 8815
+2023-12-03 17:08:59,638 - DEBUG - Duplicate found: Zapote River with ID 8818
+2023-12-03 17:08:59,704 - DEBUG - Duplicate found: Zilikats Nek (nd) with ID 8848
+2023-12-03 17:08:59,746 - DEBUG - Duplicate found: Zubiri (nd) with ID 8867
+2023-12-03 17:08:59,758 - DEBUG - Duplicate found: Zurich (nd) with ID 8873
+2023-12-03 17:08:59,758 - DEBUG - Duplicate found: Zurich (rd) with ID 8874
+2023-12-03 17:08:59,770 - DEBUG - Duplicate found: Zuyper Sluys with ID 8880
+2023-12-03 17:09:00,142 - INFO - Processed data saved to: Processed_LPF_Conflated.json
+2023-12-03 17:13:45,994 - DEBUG - Conflated duplicate: Abadan
+2023-12-03 17:13:45,994 - DEBUG - Conflated duplicate: Aboukir
+2023-12-03 17:13:45,994 - DEBUG - Conflated duplicate: Abu Ageila
+2023-12-03 17:13:45,994 - DEBUG - Conflated duplicate: Abydos
+2023-12-03 17:13:45,994 - DEBUG - Conflated duplicate: Accra
+2023-12-03 17:13:45,994 - DEBUG - Conflated duplicate: Acragas
+2023-12-03 17:13:45,994 - DEBUG - Conflated duplicate: Acre
+2023-12-03 17:13:45,995 - DEBUG - Conflated duplicate: Acre
+2023-12-03 17:13:45,995 - DEBUG - Conflated duplicate: Acre
+2023-12-03 17:13:45,995 - DEBUG - Conflated duplicate: Acre
+2023-12-03 17:13:45,995 - DEBUG - Conflated duplicate: Acre
+2023-12-03 17:13:45,995 - DEBUG - Conflated duplicate: Acropolis
+2023-12-03 17:13:45,995 - DEBUG - Conflated duplicate: Adda
+2023-12-03 17:13:45,995 - DEBUG - Conflated duplicate: Addis Ababa
+2023-12-03 17:13:45,995 - DEBUG - Conflated duplicate: Addis Ababa
+2023-12-03 17:13:45,995 - DEBUG - Conflated duplicate: Aden
+2023-12-03 17:13:45,995 - DEBUG - Conflated duplicate: Aden
+2023-12-03 17:13:45,995 - DEBUG - Conflated duplicate: Aden
+2023-12-03 17:13:45,995 - DEBUG - Conflated duplicate: Adobe Walls
+2023-12-03 17:13:45,995 - DEBUG - Conflated duplicate: Adowa
+2023-12-03 17:13:45,995 - DEBUG - Conflated duplicate: Adrianople
+2023-12-03 17:13:45,995 - DEBUG - Conflated duplicate: Adrianople
+2023-12-03 17:13:45,995 - DEBUG - Conflated duplicate: Adrianople
+2023-12-03 17:13:45,995 - DEBUG - Conflated duplicate: Adrianople
+2023-12-03 17:13:45,995 - DEBUG - Conflated duplicate: Adrianople
+2023-12-03 17:13:45,995 - DEBUG - Conflated duplicate: Adrianople
+2023-12-03 17:13:45,995 - DEBUG - Conflated duplicate: Adrianople
+2023-12-03 17:13:45,995 - DEBUG - Conflated duplicate: Adrianople
+2023-12-03 17:13:45,995 - DEBUG - Conflated duplicate: Aduatuca
+2023-12-03 17:13:45,995 - DEBUG - Conflated duplicate: Agordat
+2023-12-03 17:13:45,995 - DEBUG - Conflated duplicate: Agra
+2023-12-03 17:13:45,995 - DEBUG - Conflated duplicate: Agra
+2023-12-03 17:13:45,995 - DEBUG - Conflated duplicate: Agra
+2023-12-03 17:13:45,995 - DEBUG - Conflated duplicate: Agra
+2023-12-03 17:13:45,996 - DEBUG - Conflated duplicate: Ahmadabad
+2023-12-03 17:13:45,996 - DEBUG - Conflated duplicate: Ahmadnagar
+2023-12-03 17:13:45,996 - DEBUG - Conflated duplicate: Ahmadnagar
+2023-12-03 17:13:45,996 - DEBUG - Conflated duplicate: Ahwaz
+2023-12-03 17:13:45,996 - DEBUG - Conflated duplicate: Aire
+2023-12-03 17:13:45,996 - DEBUG - Conflated duplicate: Aisne
+2023-12-03 17:13:45,996 - DEBUG - Conflated duplicate: Aisne
+2023-12-03 17:13:45,996 - DEBUG - Conflated duplicate: Aisne
+2023-12-03 17:13:45,996 - DEBUG - Conflated duplicate: Akhaltsikhe
+2023-12-03 17:13:45,996 - DEBUG - Conflated duplicate: Alba de Tormes
+2023-12-03 17:13:45,996 - DEBUG - Conflated duplicate: Albert
+2023-12-03 17:13:45,996 - DEBUG - Conflated duplicate: Albert
+2023-12-03 17:13:45,996 - DEBUG - Conflated duplicate: Alcantara
+2023-12-03 17:13:45,996 - DEBUG - Conflated duplicate: Alcantara
+2023-12-03 17:13:45,996 - DEBUG - Conflated duplicate: Alcolea
+2023-12-03 17:13:45,996 - DEBUG - Conflated duplicate: Aldenhoven
+2023-12-03 17:13:45,996 - DEBUG - Conflated duplicate: Aleppo
+2023-12-03 17:13:45,996 - DEBUG - Conflated duplicate: Aleppo
+2023-12-03 17:13:45,996 - DEBUG - Conflated duplicate: Aleppo
+2023-12-03 17:13:45,996 - DEBUG - Conflated duplicate: Aleppo
+2023-12-03 17:13:45,996 - DEBUG - Conflated duplicate: Aleppo
+2023-12-03 17:13:45,996 - DEBUG - Conflated duplicate: Aleppo
+2023-12-03 17:13:45,996 - DEBUG - Conflated duplicate: Alessandria
+2023-12-03 17:13:45,996 - DEBUG - Conflated duplicate: Alexandria
+2023-12-03 17:13:45,996 - DEBUG - Conflated duplicate: Alexandria
+2023-12-03 17:13:45,996 - DEBUG - Conflated duplicate: Alexandria
+2023-12-03 17:13:45,996 - DEBUG - Conflated duplicate: Alexandria
+2023-12-03 17:13:45,997 - DEBUG - Conflated duplicate: Alexandria
+2023-12-03 17:13:45,997 - DEBUG - Conflated duplicate: Alexandria
+2023-12-03 17:13:45,997 - DEBUG - Conflated duplicate: Alexandria
+2023-12-03 17:13:45,997 - DEBUG - Conflated duplicate: Alexandria
+2023-12-03 17:13:45,997 - DEBUG - Conflated duplicate: Alexandria
+2023-12-03 17:13:45,997 - DEBUG - Conflated duplicate: Al Faw
+2023-12-03 17:13:45,997 - DEBUG - Conflated duplicate: Algeciras
+2023-12-03 17:13:45,997 - DEBUG - Conflated duplicate: Algeciras
+2023-12-03 17:13:45,997 - DEBUG - Conflated duplicate: Algiers
+2023-12-03 17:13:45,997 - DEBUG - Conflated duplicate: Algiers
+2023-12-03 17:13:45,997 - DEBUG - Conflated duplicate: Algiers
+2023-12-03 17:13:45,997 - DEBUG - Conflated duplicate: Algiers
+2023-12-03 17:13:45,997 - DEBUG - Conflated duplicate: Algiers
+2023-12-03 17:13:45,997 - DEBUG - Conflated duplicate: Algiers
+2023-12-03 17:13:45,997 - DEBUG - Conflated duplicate: Algiers
+2023-12-03 17:13:45,997 - DEBUG - Conflated duplicate: Algiers
+2023-12-03 17:13:45,997 - DEBUG - Conflated duplicate: Algiers
+2023-12-03 17:13:45,997 - DEBUG - Conflated duplicate: Algiers
+2023-12-03 17:13:45,997 - DEBUG - Conflated duplicate: Algiers
+2023-12-03 17:13:45,997 - DEBUG - Conflated duplicate: Alicante
+2023-12-03 17:13:45,997 - DEBUG - Conflated duplicate: Alicante
+2023-12-03 17:13:45,997 - DEBUG - Conflated duplicate: Aligarh
+2023-12-03 17:13:45,997 - DEBUG - Conflated duplicate: Ali Masjid
+2023-12-03 17:13:45,997 - DEBUG - Conflated duplicate: Ali Masjid
+2023-12-03 17:13:45,997 - DEBUG - Conflated duplicate: Alkmaar
+2023-12-03 17:13:45,997 - DEBUG - Conflated duplicate: Almeida
+2023-12-03 17:13:45,997 - DEBUG - Conflated duplicate: Almeida
+2023-12-03 17:13:45,997 - DEBUG - Conflated duplicate: Almenar
+2023-12-03 17:13:45,997 - DEBUG - Conflated duplicate: Almeria
+2023-12-03 17:13:45,998 - DEBUG - Conflated duplicate: Alnwick
+2023-12-03 17:13:45,998 - DEBUG - Conflated duplicate: Alnwick
+2023-12-03 17:13:45,998 - DEBUG - Conflated duplicate: Alta
+2023-12-03 17:13:45,998 - DEBUG - Conflated duplicate: Alvsborg
+2023-12-03 17:13:45,998 - DEBUG - Conflated duplicate: Amara
+2023-12-03 17:13:45,998 - DEBUG - Conflated duplicate: Amba Alagi
+2023-12-03 17:13:45,998 - DEBUG - Conflated duplicate: Amberg
+2023-12-03 17:13:45,998 - DEBUG - Conflated duplicate: Ambon
+2023-12-03 17:13:45,998 - DEBUG - Conflated duplicate: Ambur
+2023-12-03 17:13:45,998 - DEBUG - Conflated duplicate: Amida
+2023-12-03 17:13:45,998 - DEBUG - Conflated duplicate: Amida
+2023-12-03 17:13:45,998 - DEBUG - Conflated duplicate: Amiens
+2023-12-03 17:13:45,998 - DEBUG - Conflated duplicate: Amiens
+2023-12-03 17:13:45,998 - DEBUG - Conflated duplicate: Amorium
+2023-12-03 17:13:45,998 - DEBUG - Conflated duplicate: Amritsar
+2023-12-03 17:13:45,998 - DEBUG - Conflated duplicate: Amritsar
+2023-12-03 17:13:45,998 - DEBUG - Conflated duplicate: Amritsar
+2023-12-03 17:13:45,998 - DEBUG - Conflated duplicate: Anahuac
+2023-12-03 17:13:45,998 - DEBUG - Conflated duplicate: Anandpur
+2023-12-03 17:13:45,998 - DEBUG - Conflated duplicate: Anchialus
+2023-12-03 17:13:45,998 - DEBUG - Conflated duplicate: Anchialus
+2023-12-03 17:13:45,998 - DEBUG - Conflated duplicate: Ancona
+2023-12-03 17:13:45,998 - DEBUG - Conflated duplicate: Ancona
+2023-12-03 17:13:45,998 - DEBUG - Conflated duplicate: Andernach
+2023-12-03 17:13:45,998 - DEBUG - Conflated duplicate: Andernach
+2023-12-03 17:13:45,998 - DEBUG - Conflated duplicate: Anqing
+2023-12-03 17:13:45,998 - DEBUG - Conflated duplicate: Antioch, Syria
+2023-12-03 17:13:45,998 - DEBUG - Conflated duplicate: Antioch, Syria
+2023-12-03 17:13:45,998 - DEBUG - Conflated duplicate: Antioch, Syria
+2023-12-03 17:13:45,999 - DEBUG - Conflated duplicate: Antioch, Syria
+2023-12-03 17:13:45,999 - DEBUG - Conflated duplicate: Antioch, Syria
+2023-12-03 17:13:45,999 - DEBUG - Conflated duplicate: Antioch, Syria
+2023-12-03 17:13:45,999 - DEBUG - Conflated duplicate: Antioch, Syria
+2023-12-03 17:13:45,999 - DEBUG - Conflated duplicate: Antwerp
+2023-12-03 17:13:45,999 - DEBUG - Conflated duplicate: Antwerp
+2023-12-03 17:13:45,999 - DEBUG - Conflated duplicate: Antwerp
+2023-12-03 17:13:45,999 - DEBUG - Conflated duplicate: Antwerp
+2023-12-03 17:13:45,999 - DEBUG - Conflated duplicate: Antwerp
+2023-12-03 17:13:45,999 - DEBUG - Conflated duplicate: Aquileia
+2023-12-03 17:13:45,999 - DEBUG - Conflated duplicate: Aquileia
+2023-12-03 17:13:45,999 - DEBUG - Conflated duplicate: Aquileia
+2023-12-03 17:13:45,999 - DEBUG - Conflated duplicate: Aquileia
+2023-12-03 17:13:45,999 - DEBUG - Conflated duplicate: Arakan
+2023-12-03 17:13:45,999 - DEBUG - Conflated duplicate: Arakan
+2023-12-03 17:13:45,999 - DEBUG - Conflated duplicate: Arcadiopolis
+2023-12-03 17:13:45,999 - DEBUG - Conflated duplicate: Arcot
+2023-12-03 17:13:45,999 - DEBUG - Conflated duplicate: Ardennes
+2023-12-03 17:13:45,999 - DEBUG - Conflated duplicate: Ardennes
+2023-12-03 17:13:45,999 - DEBUG - Conflated duplicate: Argentoratum
+2023-12-03 17:13:45,999 - DEBUG - Conflated duplicate: Argos
+2023-12-03 17:13:45,999 - DEBUG - Conflated duplicate: Arkona
+2023-12-03 17:13:45,999 - DEBUG - Conflated duplicate: Arles
+2023-12-03 17:13:45,999 - DEBUG - Conflated duplicate: Arles
+2023-12-03 17:13:45,999 - DEBUG - Conflated duplicate: Arles
+2023-12-03 17:13:45,999 - DEBUG - Conflated duplicate: Arles
+2023-12-03 17:13:45,999 - DEBUG - Conflated duplicate: Arni
+2023-12-03 17:13:46,000 - DEBUG - Conflated duplicate: Arquijas
+2023-12-03 17:13:46,000 - DEBUG - Conflated duplicate: Arras
+2023-12-03 17:13:46,000 - DEBUG - Conflated duplicate: Arras
+2023-12-03 17:13:46,000 - DEBUG - Conflated duplicate: Arras
+2023-12-03 17:13:46,000 - DEBUG - Conflated duplicate: Arras
+2023-12-03 17:13:46,000 - DEBUG - Conflated duplicate: Artah
+2023-12-03 17:13:46,000 - DEBUG - Conflated duplicate: Artaxata
+2023-12-03 17:13:46,000 - DEBUG - Conflated duplicate: Arundel
+2023-12-03 17:13:46,000 - DEBUG - Conflated duplicate: Ascalon
+2023-12-03 17:13:46,000 - DEBUG - Conflated duplicate: Ascalon
+2023-12-03 17:13:46,000 - DEBUG - Conflated duplicate: Ascalon
+2023-12-03 17:13:46,000 - DEBUG - Conflated duplicate: Aschaffenburg
+2023-12-03 17:13:46,000 - DEBUG - Conflated duplicate: Asculum, Apulia
+2023-12-03 17:13:46,000 - DEBUG - Conflated duplicate: Ashmoun Canal
+2023-12-03 17:13:46,000 - DEBUG - Conflated duplicate: Asirgarh
+2023-12-03 17:13:46,000 - DEBUG - Conflated duplicate: Astrakhan
+2023-12-03 17:13:46,000 - DEBUG - Conflated duplicate: Atbara
+2023-12-03 17:13:46,000 - DEBUG - Conflated duplicate: Athens, Greece
+2023-12-03 17:13:46,000 - DEBUG - Conflated duplicate: Athens, Greece
+2023-12-03 17:13:46,000 - DEBUG - Conflated duplicate: Atlantic
+2023-12-03 17:13:46,000 - DEBUG - Conflated duplicate: Augsburg
+2023-12-03 17:13:46,000 - DEBUG - Conflated duplicate: Ava
+2023-12-03 17:13:46,000 - DEBUG - Conflated duplicate: Ava
+2023-12-03 17:13:46,000 - DEBUG - Conflated duplicate: Avignon
+2023-12-03 17:13:46,000 - DEBUG - Conflated duplicate: Avignon
+2023-12-03 17:13:46,000 - DEBUG - Conflated duplicate: Avranches
+2023-12-03 17:13:46,000 - DEBUG - Conflated duplicate: Ayutthaya
+2023-12-03 17:13:46,000 - DEBUG - Conflated duplicate: Ayutthaya
+2023-12-03 17:13:46,001 - DEBUG - Conflated duplicate: Ayutthaya
+2023-12-03 17:13:46,001 - DEBUG - Conflated duplicate: Azaz
+2023-12-03 17:13:46,001 - DEBUG - Conflated duplicate: Azov
+2023-12-03 17:13:46,001 - DEBUG - Conflated duplicate: Azov
+2023-12-03 17:13:46,001 - DEBUG - Conflated duplicate: Babylon, Iraq
+2023-12-03 17:13:46,001 - DEBUG - Conflated duplicate: Babylon, Iraq
+2023-12-03 17:13:46,001 - DEBUG - Conflated duplicate: Bach Dang
+2023-12-03 17:13:46,001 - DEBUG - Conflated duplicate: Badajoz
+2023-12-03 17:13:46,001 - DEBUG - Conflated duplicate: Badajoz
+2023-12-03 17:13:46,001 - DEBUG - Conflated duplicate: Badme
+2023-12-03 17:13:46,001 - DEBUG - Conflated duplicate: Baetis
+2023-12-03 17:13:46,001 - DEBUG - Conflated duplicate: Baghdad
+2023-12-03 17:13:46,001 - DEBUG - Conflated duplicate: Baghdad
+2023-12-03 17:13:46,001 - DEBUG - Conflated duplicate: Baghdad
+2023-12-03 17:13:46,001 - DEBUG - Conflated duplicate: Baghdad
+2023-12-03 17:13:46,001 - DEBUG - Conflated duplicate: Baghdad
+2023-12-03 17:13:46,001 - DEBUG - Conflated duplicate: Baghdad
+2023-12-03 17:13:46,001 - DEBUG - Conflated duplicate: Baghdad
+2023-12-03 17:13:46,001 - DEBUG - Conflated duplicate: Baghdad
+2023-12-03 17:13:46,001 - DEBUG - Conflated duplicate: Baghdad
+2023-12-03 17:13:46,001 - DEBUG - Conflated duplicate: Baghdad
+2023-12-03 17:13:46,001 - DEBUG - Conflated duplicate: Baghdad
+2023-12-03 17:13:46,001 - DEBUG - Conflated duplicate: Baghdad
+2023-12-03 17:13:46,001 - DEBUG - Conflated duplicate: Bagradas
+2023-12-03 17:13:46,001 - DEBUG - Conflated duplicate: Bagradas
+2023-12-03 17:13:46,001 - DEBUG - Conflated duplicate: Bahrain
+2023-12-03 17:13:46,001 - DEBUG - Conflated duplicate: Baku
+2023-12-03 17:13:46,001 - DEBUG - Conflated duplicate: Balkans
+2023-12-03 17:13:46,002 - DEBUG - Conflated duplicate: Balkh
+2023-12-03 17:13:46,002 - DEBUG - Conflated duplicate: Balkh
+2023-12-03 17:13:46,002 - DEBUG - Conflated duplicate: Balkh
+2023-12-03 17:13:46,002 - DEBUG - Conflated duplicate: Bamburgh
+2023-12-03 17:13:46,002 - DEBUG - Conflated duplicate: Bamian
+2023-12-03 17:13:46,002 - DEBUG - Conflated duplicate: Baniyas
+2023-12-03 17:13:46,002 - DEBUG - Conflated duplicate: Bantam
+2023-12-03 17:13:46,002 - DEBUG - Conflated duplicate: Bantry Bay
+2023-12-03 17:13:46,002 - DEBUG - Conflated duplicate: Bapaume
+2023-12-03 17:13:46,002 - DEBUG - Conflated duplicate: Barcelona, Spain
+2023-12-03 17:13:46,002 - DEBUG - Conflated duplicate: Barcelona, Spain
+2023-12-03 17:13:46,002 - DEBUG - Conflated duplicate: Barcelona, Spain
+2023-12-03 17:13:46,002 - DEBUG - Conflated duplicate: Barcelona, Spain
+2023-12-03 17:13:46,002 - DEBUG - Conflated duplicate: Barcelona, Spain
+2023-12-03 17:13:46,002 - DEBUG - Conflated duplicate: Barcelona, Spain
+2023-12-03 17:13:46,002 - DEBUG - Conflated duplicate: Barcelona, Spain
+2023-12-03 17:13:46,002 - DEBUG - Conflated duplicate: Barcelona, Spain
+2023-12-03 17:13:46,002 - DEBUG - Conflated duplicate: Barcelona, Spain
+2023-12-03 17:13:46,002 - DEBUG - Conflated duplicate: Barentu
+2023-12-03 17:13:46,002 - DEBUG - Conflated duplicate: Bari
+2023-12-03 17:13:46,002 - DEBUG - Conflated duplicate: Bari
+2023-12-03 17:13:46,002 - DEBUG - Conflated duplicate: Basra
+2023-12-03 17:13:46,002 - DEBUG - Conflated duplicate: Basra
+2023-12-03 17:13:46,002 - DEBUG - Conflated duplicate: Basra
+2023-12-03 17:13:46,002 - DEBUG - Conflated duplicate: Basra
+2023-12-03 17:13:46,002 - DEBUG - Conflated duplicate: Basra
+2023-12-03 17:13:46,002 - DEBUG - Conflated duplicate: Basra
+2023-12-03 17:13:46,002 - DEBUG - Conflated duplicate: Basra
+2023-12-03 17:13:46,002 - DEBUG - Conflated duplicate: Bassano
+2023-12-03 17:13:46,003 - DEBUG - Conflated duplicate: Bassein, Burma
+2023-12-03 17:13:46,003 - DEBUG - Conflated duplicate: Bassein, India
+2023-12-03 17:13:46,003 - DEBUG - Conflated duplicate: Bataan
+2023-12-03 17:13:46,003 - DEBUG - Conflated duplicate: Batavia
+2023-12-03 17:13:46,003 - DEBUG - Conflated duplicate: Batavia
+2023-12-03 17:13:46,003 - DEBUG - Conflated duplicate: Baton Rouge
+2023-12-03 17:13:46,003 - DEBUG - Conflated duplicate: Baton Rouge
+2023-12-03 17:13:46,003 - DEBUG - Conflated duplicate: Baza
+2023-12-03 17:13:46,003 - DEBUG - Conflated duplicate: Beachy Head
+2023-12-03 17:13:46,003 - DEBUG - Conflated duplicate: Beersheba
+2023-12-03 17:13:46,003 - DEBUG - Conflated duplicate: Beijing
+2023-12-03 17:13:46,003 - DEBUG - Conflated duplicate: Beijing
+2023-12-03 17:13:46,003 - DEBUG - Conflated duplicate: Beijing
+2023-12-03 17:13:46,003 - DEBUG - Conflated duplicate: Beijing
+2023-12-03 17:13:46,003 - DEBUG - Conflated duplicate: Beijing
+2023-12-03 17:13:46,003 - DEBUG - Conflated duplicate: Beijing
+2023-12-03 17:13:46,003 - DEBUG - Conflated duplicate: Beijing
+2023-12-03 17:13:46,003 - DEBUG - Conflated duplicate: Beirut
+2023-12-03 17:13:46,003 - DEBUG - Conflated duplicate: Beirut
+2023-12-03 17:13:46,003 - DEBUG - Conflated duplicate: Beirut
+2023-12-03 17:13:46,003 - DEBUG - Conflated duplicate: Beirut
+2023-12-03 17:13:46,003 - DEBUG - Conflated duplicate: Belchite
+2023-12-03 17:13:46,003 - DEBUG - Conflated duplicate: Belchite
+2023-12-03 17:13:46,003 - DEBUG - Conflated duplicate: Belfast
+2023-12-03 17:13:46,003 - DEBUG - Conflated duplicate: Belgrade
+2023-12-03 17:13:46,003 - DEBUG - Conflated duplicate: Belgrade
+2023-12-03 17:13:46,003 - DEBUG - Conflated duplicate: Belgrade
+2023-12-03 17:13:46,003 - DEBUG - Conflated duplicate: Belgrade
+2023-12-03 17:13:46,003 - DEBUG - Conflated duplicate: Belgrade
+2023-12-03 17:13:46,003 - DEBUG - Conflated duplicate: Belgrade
+2023-12-03 17:13:46,004 - DEBUG - Conflated duplicate: Belgrade
+2023-12-03 17:13:46,004 - DEBUG - Conflated duplicate: Belgrade
+2023-12-03 17:13:46,004 - DEBUG - Conflated duplicate: Belgrade
+2023-12-03 17:13:46,004 - DEBUG - Conflated duplicate: Belgrade
+2023-12-03 17:13:46,004 - DEBUG - Conflated duplicate: Belgrade
+2023-12-03 17:13:46,004 - DEBUG - Conflated duplicate: Belgrade
+2023-12-03 17:13:46,004 - DEBUG - Conflated duplicate: Bender
+2023-12-03 17:13:46,004 - DEBUG - Conflated duplicate: Beneventum
+2023-12-03 17:13:46,004 - DEBUG - Conflated duplicate: Beneventum
+2023-12-03 17:13:46,004 - DEBUG - Conflated duplicate: Benin
+2023-12-03 17:13:46,004 - DEBUG - Conflated duplicate: Berat
+2023-12-03 17:13:46,004 - DEBUG - Conflated duplicate: Berezina
+2023-12-03 17:13:46,004 - DEBUG - Conflated duplicate: BergenopZoom
+2023-12-03 17:13:46,004 - DEBUG - Conflated duplicate: BergenopZoom
+2023-12-03 17:13:46,004 - DEBUG - Conflated duplicate: BergenopZoom
+2023-12-03 17:13:46,004 - DEBUG - Conflated duplicate: Berlin
+2023-12-03 17:13:46,004 - DEBUG - Conflated duplicate: Berwick
+2023-12-03 17:13:46,004 - DEBUG - Conflated duplicate: Berwick
+2023-12-03 17:13:46,004 - DEBUG - Conflated duplicate: Berwick
+2023-12-03 17:13:46,004 - DEBUG - Conflated duplicate: Beth Horon
+2023-12-03 17:13:46,004 - DEBUG - Conflated duplicate: Bhamo
+2023-12-03 17:13:46,004 - DEBUG - Conflated duplicate: Bharatpur
+2023-12-03 17:13:46,004 - DEBUG - Conflated duplicate: Biberach
+2023-12-03 17:13:46,004 - DEBUG - Conflated duplicate: Bijapur
+2023-12-03 17:13:46,004 - DEBUG - Conflated duplicate: Bijapur
+2023-12-03 17:13:46,004 - DEBUG - Conflated duplicate: Bilbao
+2023-12-03 17:13:46,005 - DEBUG - Conflated duplicate: Bilbao
+2023-12-03 17:13:46,005 - DEBUG - Conflated duplicate: Bilbao
+2023-12-03 17:13:46,005 - DEBUG - Conflated duplicate: Bilbao
+2023-12-03 17:13:46,005 - DEBUG - Conflated duplicate: Bilbao
+2023-12-03 17:13:46,005 - DEBUG - Conflated duplicate: Bilbao
+2023-12-03 17:13:46,005 - DEBUG - Conflated duplicate: Bogota
+2023-12-03 17:13:46,005 - DEBUG - Conflated duplicate: Bogota
+2023-12-03 17:13:46,005 - DEBUG - Conflated duplicate: BoisleDuc
+2023-12-03 17:13:46,005 - DEBUG - Conflated duplicate: Bokhara
+2023-12-03 17:13:46,005 - DEBUG - Conflated duplicate: Bokhara
+2023-12-03 17:13:46,005 - DEBUG - Conflated duplicate: Bordeaux
+2023-12-03 17:13:46,005 - DEBUG - Conflated duplicate: Bordeaux
+2023-12-03 17:13:46,005 - DEBUG - Conflated duplicate: Borghetto
+2023-12-03 17:13:46,005 - DEBUG - Conflated duplicate: Bornholm
+2023-12-03 17:13:46,005 - DEBUG - Conflated duplicate: Bornos
+2023-12-03 17:13:46,005 - DEBUG - Conflated duplicate: Bougie
+2023-12-03 17:13:46,005 - DEBUG - Conflated duplicate: Boulogne
+2023-12-03 17:13:46,005 - DEBUG - Conflated duplicate: Boulogne
+2023-12-03 17:13:46,005 - DEBUG - Conflated duplicate: Boulogne
+2023-12-03 17:13:46,005 - DEBUG - Conflated duplicate: Breda
+2023-12-03 17:13:46,005 - DEBUG - Conflated duplicate: Breda
+2023-12-03 17:13:46,005 - DEBUG - Conflated duplicate: Breisach
+2023-12-03 17:13:46,005 - DEBUG - Conflated duplicate: Breitenfeld
+2023-12-03 17:13:46,005 - DEBUG - Conflated duplicate: Brescia
+2023-12-03 17:13:46,005 - DEBUG - Conflated duplicate: Brescia
+2023-12-03 17:13:46,005 - DEBUG - Conflated duplicate: Brescia
+2023-12-03 17:13:46,006 - DEBUG - Conflated duplicate: Breslau
+2023-12-03 17:13:46,006 - DEBUG - Conflated duplicate: Breslau
+2023-12-03 17:13:46,006 - DEBUG - Conflated duplicate: Brest
+2023-12-03 17:13:46,006 - DEBUG - Conflated duplicate: Brest
+2023-12-03 17:13:46,006 - DEBUG - Conflated duplicate: Brest
+2023-12-03 17:13:46,006 - DEBUG - Conflated duplicate: BrestLitovsk
+2023-12-03 17:13:46,006 - DEBUG - Conflated duplicate: Bristol
+2023-12-03 17:13:46,006 - DEBUG - Conflated duplicate: Bruges
+2023-12-03 17:13:46,006 - DEBUG - Conflated duplicate: Brzezany
+2023-12-03 17:13:46,006 - DEBUG - Conflated duplicate: Buda
+2023-12-03 17:13:46,006 - DEBUG - Conflated duplicate: Buda
+2023-12-03 17:13:46,006 - DEBUG - Conflated duplicate: Buda
+2023-12-03 17:13:46,006 - DEBUG - Conflated duplicate: Buda
+2023-12-03 17:13:46,006 - DEBUG - Conflated duplicate: Buda
+2023-12-03 17:13:46,006 - DEBUG - Conflated duplicate: Budapest
+2023-12-03 17:13:46,006 - DEBUG - Conflated duplicate: Budapest
+2023-12-03 17:13:46,006 - DEBUG - Conflated duplicate: Buenos Aires
+2023-12-03 17:13:46,006 - DEBUG - Conflated duplicate: Buesaco
+2023-12-03 17:13:46,006 - DEBUG - Conflated duplicate: Bull Run
+2023-12-03 17:13:46,006 - DEBUG - Conflated duplicate: Burgos
+2023-12-03 17:13:46,007 - DEBUG - Conflated duplicate: Cabo de Gata
+2023-12-03 17:13:46,007 - DEBUG - Conflated duplicate: Cadiz
+2023-12-03 17:13:46,007 - DEBUG - Conflated duplicate: Cadiz
+2023-12-03 17:13:46,007 - DEBUG - Conflated duplicate: Cadiz
+2023-12-03 17:13:46,007 - DEBUG - Conflated duplicate: Cadiz
+2023-12-03 17:13:46,007 - DEBUG - Conflated duplicate: Cadiz
+2023-12-03 17:13:46,007 - DEBUG - Conflated duplicate: Cadiz
+2023-12-03 17:13:46,007 - DEBUG - Conflated duplicate: Caen
+2023-12-03 17:13:46,007 - DEBUG - Conflated duplicate: Caen
+2023-12-03 17:13:46,007 - DEBUG - Conflated duplicate: Caen
+2023-12-03 17:13:46,007 - DEBUG - Conflated duplicate: Cagancha
+2023-12-03 17:13:46,007 - DEBUG - Conflated duplicate: Cairo
+2023-12-03 17:13:46,007 - DEBUG - Conflated duplicate: Calais
+2023-12-03 17:13:46,007 - DEBUG - Conflated duplicate: Calais
+2023-12-03 17:13:46,007 - DEBUG - Conflated duplicate: Calais
+2023-12-03 17:13:46,007 - DEBUG - Conflated duplicate: Calcutta
+2023-12-03 17:13:46,007 - DEBUG - Conflated duplicate: Calderon
+2023-12-03 17:13:46,007 - DEBUG - Conflated duplicate: Caldiero
+2023-12-03 17:13:46,007 - DEBUG - Conflated duplicate: Calicut
+2023-12-03 17:13:46,007 - DEBUG - Conflated duplicate: Callao
+2023-12-03 17:13:46,007 - DEBUG - Conflated duplicate: Callao
+2023-12-03 17:13:46,007 - DEBUG - Conflated duplicate: Callao
+2023-12-03 17:13:46,008 - DEBUG - Conflated duplicate: Callinicum
+2023-12-03 17:13:46,008 - DEBUG - Conflated duplicate: Cambrai
+2023-12-03 17:13:46,008 - DEBUG - Conflated duplicate: Cancha Rayada
+2023-12-03 17:13:46,008 - DEBUG - Conflated duplicate: Cannae
+2023-12-03 17:13:46,008 - DEBUG - Conflated duplicate: Canton
+2023-12-03 17:13:46,008 - DEBUG - Conflated duplicate: Canudos
+2023-12-03 17:13:46,008 - DEBUG - Conflated duplicate: Cape Bon
+2023-12-03 17:13:46,008 - DEBUG - Conflated duplicate: Cape Finisterre
+2023-12-03 17:13:46,008 - DEBUG - Conflated duplicate: Cape Matapan
+2023-12-03 17:13:46,008 - DEBUG - Conflated duplicate: Cape Matapan
+2023-12-03 17:13:46,008 - DEBUG - Conflated duplicate: Cape Passaro
+2023-12-03 17:13:46,008 - DEBUG - Conflated duplicate: Cape Palos
+2023-12-03 17:13:46,008 - DEBUG - Conflated duplicate: Cape St Vincent
+2023-12-03 17:13:46,008 - DEBUG - Conflated duplicate: Cape St Vincent
+2023-12-03 17:13:46,008 - DEBUG - Conflated duplicate: Cape St Vincent
+2023-12-03 17:13:46,008 - DEBUG - Conflated duplicate: Capua
+2023-12-03 17:13:46,008 - DEBUG - Conflated duplicate: Carabobo
+2023-12-03 17:13:46,008 - DEBUG - Conflated duplicate: Carcassonne
+2023-12-03 17:13:46,008 - DEBUG - Conflated duplicate: Carhampton
+2023-12-03 17:13:46,008 - DEBUG - Conflated duplicate: Carrickfergus
+2023-12-03 17:13:46,008 - DEBUG - Conflated duplicate: Cartagena, Colombia
+2023-12-03 17:13:46,008 - DEBUG - Conflated duplicate: Cartagena, Colombia
+2023-12-03 17:13:46,008 - DEBUG - Conflated duplicate: Cartagena, Colombia
+2023-12-03 17:13:46,008 - DEBUG - Conflated duplicate: Cartagena, Colombia
+2023-12-03 17:13:46,008 - DEBUG - Conflated duplicate: Cartagena, Colombia
+2023-12-03 17:13:46,008 - DEBUG - Conflated duplicate: Cartagena, Spain
+2023-12-03 17:13:46,009 - DEBUG - Conflated duplicate: Carthage, Tunisia
+2023-12-03 17:13:46,009 - DEBUG - Conflated duplicate: Carthage, Tunisia
+2023-12-03 17:13:46,009 - DEBUG - Conflated duplicate: Carthage, Tunisia
+2023-12-03 17:13:46,009 - DEBUG - Conflated duplicate: Carthage, Tunisia
+2023-12-03 17:13:46,009 - DEBUG - Conflated duplicate: Carthage, Tunisia
+2023-12-03 17:13:46,009 - DEBUG - Conflated duplicate: Casablanca
+2023-12-03 17:13:46,009 - DEBUG - Conflated duplicate: Casale
+2023-12-03 17:13:46,009 - DEBUG - Conflated duplicate: Casale
+2023-12-03 17:13:46,009 - DEBUG - Conflated duplicate: Casilinum
+2023-12-03 17:13:46,009 - DEBUG - Conflated duplicate: Cassano
+2023-12-03 17:13:46,009 - DEBUG - Conflated duplicate: Cassano
+2023-12-03 17:13:46,009 - DEBUG - Conflated duplicate: Cassano
+2023-12-03 17:13:46,009 - DEBUG - Conflated duplicate: Cassel
+2023-12-03 17:13:46,009 - DEBUG - Conflated duplicate: Cassel
+2023-12-03 17:13:46,009 - DEBUG - Conflated duplicate: Cassel
+2023-12-03 17:13:46,009 - DEBUG - Conflated duplicate: Castalla
+2023-12-03 17:13:46,009 - DEBUG - Conflated duplicate: Castelnuovo, Albania
+2023-12-03 17:13:46,009 - DEBUG - Conflated duplicate: Castro Urdiales
+2023-12-03 17:13:46,009 - DEBUG - Conflated duplicate: Catania
+2023-12-03 17:13:46,009 - DEBUG - Conflated duplicate: Cattaro
+2023-12-03 17:13:46,010 - DEBUG - Conflated duplicate: Cepeda
+2023-12-03 17:13:46,010 - DEBUG - Conflated duplicate: Ceuta
+2023-12-03 17:13:46,010 - DEBUG - Conflated duplicate: Chaeronea
+2023-12-03 17:13:46,010 - DEBUG - Conflated duplicate: Chalons
+2023-12-03 17:13:46,010 - DEBUG - Conflated duplicate: Chalons
+2023-12-03 17:13:46,010 - DEBUG - Conflated duplicate: Champagne
+2023-12-03 17:13:46,010 - DEBUG - Conflated duplicate: Chanda, Uttar Pradesh
+2023-12-03 17:13:46,011 - DEBUG - Conflated duplicate: Changan
+2023-12-03 17:13:46,011 - DEBUG - Conflated duplicate: Changan
+2023-12-03 17:13:46,011 - DEBUG - Conflated duplicate: Changchun
+2023-12-03 17:13:46,011 - DEBUG - Conflated duplicate: Changsha
+2023-12-03 17:13:46,011 - DEBUG - Conflated duplicate: Changsha
+2023-12-03 17:13:46,011 - DEBUG - Conflated duplicate: Changsha
+2023-12-03 17:13:46,011 - DEBUG - Conflated duplicate: Changsha
+2023-12-03 17:13:46,011 - DEBUG - Conflated duplicate: Changsha
+2023-12-03 17:13:46,011 - DEBUG - Conflated duplicate: Charasia
+2023-12-03 17:13:46,011 - DEBUG - Conflated duplicate: Charford
+2023-12-03 17:13:46,011 - DEBUG - Conflated duplicate: Charleroi
+2023-12-03 17:13:46,011 - DEBUG - Conflated duplicate: Charleroi
+2023-12-03 17:13:46,011 - DEBUG - Conflated duplicate: Charleroi
+2023-12-03 17:13:46,011 - DEBUG - Conflated duplicate: Charleroi
+2023-12-03 17:13:46,011 - DEBUG - Conflated duplicate: Charleston, South Carolina
+2023-12-03 17:13:46,011 - DEBUG - Conflated duplicate: Charleston, South Carolina
+2023-12-03 17:13:46,011 - DEBUG - Conflated duplicate: ChateauThierry
+2023-12-03 17:13:46,011 - DEBUG - Conflated duplicate: Chelyabinsk
+2023-12-03 17:13:46,011 - DEBUG - Conflated duplicate: Cherbourg
+2023-12-03 17:13:46,011 - DEBUG - Conflated duplicate: Cherbourg
+2023-12-03 17:13:46,011 - DEBUG - Conflated duplicate: Chhamb
+2023-12-03 17:13:46,011 - DEBUG - Conflated duplicate: Chigirin
+2023-12-03 17:13:46,011 - DEBUG - Conflated duplicate: Chios
+2023-12-03 17:13:46,011 - DEBUG - Conflated duplicate: Chios
+2023-12-03 17:13:46,011 - DEBUG - Conflated duplicate: Chios
+2023-12-03 17:13:46,012 - DEBUG - Conflated duplicate: Chios
+2023-12-03 17:13:46,012 - DEBUG - Conflated duplicate: Chios
+2023-12-03 17:13:46,012 - DEBUG - Conflated duplicate: Chitor
+2023-12-03 17:13:46,012 - DEBUG - Conflated duplicate: Chongju
+2023-12-03 17:13:46,012 - DEBUG - Conflated duplicate: Cienfuegos
+2023-12-03 17:13:46,012 - DEBUG - Conflated duplicate: Ciudad Juarez
+2023-12-03 17:13:46,012 - DEBUG - Conflated duplicate: Ciudad Rodrigo
+2023-12-03 17:13:46,012 - DEBUG - Conflated duplicate: Clonmel
+2023-12-03 17:13:46,012 - DEBUG - Conflated duplicate: Coimbra, Portugal
+2023-12-03 17:13:46,012 - DEBUG - Conflated duplicate: Coimbra, Portugal
+2023-12-03 17:13:46,012 - DEBUG - Conflated duplicate: Colombo
+2023-12-03 17:13:46,012 - DEBUG - Conflated duplicate: Colombo
+2023-12-03 17:13:46,012 - DEBUG - Conflated duplicate: Colombo
+2023-12-03 17:13:46,012 - DEBUG - Conflated duplicate: Colonia do Sacrimento
+2023-12-03 17:13:46,012 - DEBUG - Conflated duplicate: Colonia do Sacrimento
+2023-12-03 17:13:46,012 - DEBUG - Conflated duplicate: Comayagua
+2023-12-03 17:13:46,012 - DEBUG - Conflated duplicate: Comayagua
+2023-12-03 17:13:46,012 - DEBUG - Conflated duplicate: Comayagua
+2023-12-03 17:13:46,012 - DEBUG - Conflated duplicate: Constantinople
+2023-12-03 17:13:46,012 - DEBUG - Conflated duplicate: Constantinople
+2023-12-03 17:13:46,012 - DEBUG - Conflated duplicate: Constantinople
+2023-12-03 17:13:46,012 - DEBUG - Conflated duplicate: Constantinople
+2023-12-03 17:13:46,012 - DEBUG - Conflated duplicate: Constantinople
+2023-12-03 17:13:46,012 - DEBUG - Conflated duplicate: Constantinople
+2023-12-03 17:13:46,012 - DEBUG - Conflated duplicate: Constantinople
+2023-12-03 17:13:46,013 - DEBUG - Conflated duplicate: Constantinople
+2023-12-03 17:13:46,013 - DEBUG - Conflated duplicate: Constantinople
+2023-12-03 17:13:46,013 - DEBUG - Conflated duplicate: Constantinople
+2023-12-03 17:13:46,013 - DEBUG - Conflated duplicate: Constantinople
+2023-12-03 17:13:46,013 - DEBUG - Conflated duplicate: Constantinople
+2023-12-03 17:13:46,013 - DEBUG - Conflated duplicate: Copenhagen
+2023-12-03 17:13:46,013 - DEBUG - Conflated duplicate: Copenhagen
+2023-12-03 17:13:46,013 - DEBUG - Conflated duplicate: Copenhagen
+2023-12-03 17:13:46,013 - DEBUG - Conflated duplicate: Copenhagen
+2023-12-03 17:13:46,013 - DEBUG - Conflated duplicate: Copenhagen
+2023-12-03 17:13:46,013 - DEBUG - Conflated duplicate: Copenhagen
+2023-12-03 17:13:46,013 - DEBUG - Conflated duplicate: Corbridge
+2023-12-03 17:13:46,013 - DEBUG - Conflated duplicate: Corfu
+2023-12-03 17:13:46,013 - DEBUG - Conflated duplicate: Corfu
+2023-12-03 17:13:46,013 - DEBUG - Conflated duplicate: Corfu
+2023-12-03 17:13:46,013 - DEBUG - Conflated duplicate: Corinth, Greece
+2023-12-03 17:13:46,013 - DEBUG - Conflated duplicate: Corinth, Greece
+2023-12-03 17:13:46,013 - DEBUG - Conflated duplicate: Corinth, Greece
+2023-12-03 17:13:46,013 - DEBUG - Conflated duplicate: Cork
+2023-12-03 17:13:46,013 - DEBUG - Conflated duplicate: Coronea
+2023-12-03 17:13:46,013 - DEBUG - Conflated duplicate: Corregidor
+2023-12-03 17:13:46,013 - DEBUG - Conflated duplicate: Cotyaeum
+2023-12-03 17:13:46,013 - DEBUG - Conflated duplicate: Courtrai
+2023-12-03 17:13:46,013 - DEBUG - Conflated duplicate: Courtrai
+2023-12-03 17:13:46,013 - DEBUG - Conflated duplicate: Cracow
+2023-12-03 17:13:46,013 - DEBUG - Conflated duplicate: Cracow
+2023-12-03 17:13:46,013 - DEBUG - Conflated duplicate: Cremona
+2023-12-03 17:13:46,013 - DEBUG - Conflated duplicate: Cremona
+2023-12-03 17:13:46,013 - DEBUG - Conflated duplicate: Crete
+2023-12-03 17:13:46,013 - DEBUG - Conflated duplicate: Ctesiphon
+2023-12-03 17:13:46,014 - DEBUG - Conflated duplicate: Ctesiphon
+2023-12-03 17:13:46,014 - DEBUG - Conflated duplicate: Cuautla
+2023-12-03 17:13:46,014 - DEBUG - Conflated duplicate: Cuddalore
+2023-12-03 17:13:46,014 - DEBUG - Conflated duplicate: Cuddalore
+2023-12-03 17:13:46,014 - DEBUG - Conflated duplicate: Cumae
+2023-12-03 17:13:46,014 - DEBUG - Conflated duplicate: Custozza
+2023-12-03 17:13:46,014 - DEBUG - Conflated duplicate: Cuzco
+2023-12-03 17:13:46,014 - DEBUG - Conflated duplicate: Cuzco
+2023-12-03 17:13:46,014 - DEBUG - Conflated duplicate: Cuzco
+2023-12-03 17:13:46,014 - DEBUG - Conflated duplicate: Cynoscephalae
+2023-12-03 17:13:46,014 - DEBUG - Conflated duplicate: Cyzicus
+2023-12-03 17:13:46,014 - DEBUG - Conflated duplicate: Cyzicus
+2023-12-03 17:13:46,014 - DEBUG - Conflated duplicate: Czernowitz
+2023-12-03 17:13:46,014 - DEBUG - Conflated duplicate: Dagu Forts
+2023-12-03 17:13:46,014 - DEBUG - Conflated duplicate: Dagu Forts
+2023-12-03 17:13:46,014 - DEBUG - Conflated duplicate: Dagu Forts
+2023-12-03 17:13:46,014 - DEBUG - Conflated duplicate: Damascus
+2023-12-03 17:13:46,014 - DEBUG - Conflated duplicate: Damascus
+2023-12-03 17:13:46,014 - DEBUG - Conflated duplicate: Damascus
+2023-12-03 17:13:46,014 - DEBUG - Conflated duplicate: Damascus
+2023-12-03 17:13:46,014 - DEBUG - Conflated duplicate: Damascus
+2023-12-03 17:13:46,014 - DEBUG - Conflated duplicate: Damascus
+2023-12-03 17:13:46,014 - DEBUG - Conflated duplicate: Damascus
+2023-12-03 17:13:46,014 - DEBUG - Conflated duplicate: Damietta
+2023-12-03 17:13:46,014 - DEBUG - Conflated duplicate: Danang
+2023-12-03 17:13:46,014 - DEBUG - Conflated duplicate: Danang
+2023-12-03 17:13:46,014 - DEBUG - Conflated duplicate: Danubyu
+2023-12-03 17:13:46,014 - DEBUG - Conflated duplicate: Danzig
+2023-12-03 17:13:46,015 - DEBUG - Conflated duplicate: Danzig
+2023-12-03 17:13:46,015 - DEBUG - Conflated duplicate: Danzig
+2023-12-03 17:13:46,015 - DEBUG - Conflated duplicate: Danzig
+2023-12-03 17:13:46,015 - DEBUG - Conflated duplicate: Danzig
+2023-12-03 17:13:46,015 - DEBUG - Conflated duplicate: Danzig
+2023-12-03 17:13:46,015 - DEBUG - Conflated duplicate: Dara
+2023-12-03 17:13:46,015 - DEBUG - Conflated duplicate: Dara
+2023-12-03 17:13:46,015 - DEBUG - Conflated duplicate: Dardanelles
+2023-12-03 17:13:46,015 - DEBUG - Conflated duplicate: Dardanelles
+2023-12-03 17:13:46,015 - DEBUG - Conflated duplicate: Dardanelles
+2023-12-03 17:13:46,015 - DEBUG - Conflated duplicate: Dardanelles
+2023-12-03 17:13:46,015 - DEBUG - Conflated duplicate: Dardanelles
+2023-12-03 17:13:46,015 - DEBUG - Conflated duplicate: Darghiyya
+2023-12-03 17:13:46,015 - DEBUG - Conflated duplicate: Daulatabad
+2023-12-03 17:13:46,015 - DEBUG - Conflated duplicate: Debra Tabor
+2023-12-03 17:13:46,015 - DEBUG - Conflated duplicate: Dee
+2023-12-03 17:13:46,015 - DEBUG - Conflated duplicate: Deerfield
+2023-12-03 17:13:46,015 - DEBUG - Conflated duplicate: Delhi
+2023-12-03 17:13:46,015 - DEBUG - Conflated duplicate: Delhi
+2023-12-03 17:13:46,015 - DEBUG - Conflated duplicate: Delhi
+2023-12-03 17:13:46,015 - DEBUG - Conflated duplicate: Delhi
+2023-12-03 17:13:46,015 - DEBUG - Conflated duplicate: Delhi
+2023-12-03 17:13:46,015 - DEBUG - Conflated duplicate: Delhi
+2023-12-03 17:13:46,015 - DEBUG - Conflated duplicate: Delhi
+2023-12-03 17:13:46,015 - DEBUG - Conflated duplicate: Deogiri
+2023-12-03 17:13:46,015 - DEBUG - Conflated duplicate: Deogiri
+2023-12-03 17:13:46,015 - DEBUG - Conflated duplicate: Derna
+2023-12-03 17:13:46,015 - DEBUG - Conflated duplicate: Detroit
+2023-12-03 17:13:46,016 - DEBUG - Conflated duplicate: Dijon
+2023-12-03 17:13:46,016 - DEBUG - Conflated duplicate: Dinghai
+2023-12-03 17:13:46,016 - DEBUG - Conflated duplicate: Diu
+2023-12-03 17:13:46,016 - DEBUG - Conflated duplicate: Diu
+2023-12-03 17:13:46,016 - DEBUG - Conflated duplicate: Dogger Bank
+2023-12-03 17:13:46,016 - DEBUG - Conflated duplicate: Dogger Bank
+2023-12-03 17:13:46,016 - DEBUG - Conflated duplicate: Doiran
+2023-12-03 17:13:46,016 - DEBUG - Conflated duplicate: Dominica
+2023-12-03 17:13:46,016 - DEBUG - Conflated duplicate: Dominica
+2023-12-03 17:13:46,016 - DEBUG - Conflated duplicate: Dominica
+2023-12-03 17:13:46,016 - DEBUG - Conflated duplicate: Donaldsonville
+2023-12-03 17:13:46,016 - DEBUG - Conflated duplicate: Dorpat
+2023-12-03 17:13:46,016 - DEBUG - Conflated duplicate: Dorpat
+2023-12-03 17:13:46,016 - DEBUG - Conflated duplicate: Dorylaeum
+2023-12-03 17:13:46,016 - DEBUG - Conflated duplicate: Dresden
+2023-12-03 17:13:46,016 - DEBUG - Conflated duplicate: Dreux
+2023-12-03 17:13:46,016 - DEBUG - Conflated duplicate: Drewrys Bluff
+2023-12-03 17:13:46,016 - DEBUG - Conflated duplicate: Dublin
+2023-12-03 17:13:46,016 - DEBUG - Conflated duplicate: Dunbar
+2023-12-03 17:13:46,016 - DEBUG - Conflated duplicate: Dunbar
+2023-12-03 17:13:46,016 - DEBUG - Conflated duplicate: Dunkirk
+2023-12-03 17:13:46,016 - DEBUG - Conflated duplicate: Dunkirk
+2023-12-03 17:13:46,016 - DEBUG - Conflated duplicate: Dunkirk
+2023-12-03 17:13:46,016 - DEBUG - Conflated duplicate: Duppel
+2023-12-03 17:13:46,016 - DEBUG - Conflated duplicate: Durango
+2023-12-03 17:13:46,016 - DEBUG - Conflated duplicate: Durham
+2023-12-03 17:13:46,016 - DEBUG - Conflated duplicate: Durham
+2023-12-03 17:13:46,017 - DEBUG - Conflated duplicate: Dyrrhachium
+2023-12-03 17:13:46,017 - DEBUG - Conflated duplicate: Dyrrhachium
+2023-12-03 17:13:46,017 - DEBUG - Conflated duplicate: Dyrrhachium
+2023-12-03 17:13:46,017 - DEBUG - Conflated duplicate: Ebro
+2023-12-03 17:13:46,017 - DEBUG - Conflated duplicate: Ebro
+2023-12-03 17:13:46,017 - DEBUG - Conflated duplicate: Echmiadzin
+2023-12-03 17:13:46,017 - DEBUG - Conflated duplicate: Edessa
+2023-12-03 17:13:46,017 - DEBUG - Conflated duplicate: Edessa
+2023-12-03 17:13:46,017 - DEBUG - Conflated duplicate: Edessa
+2023-12-03 17:13:46,017 - DEBUG - Conflated duplicate: Edessa
+2023-12-03 17:13:46,017 - DEBUG - Conflated duplicate: Edessa
+2023-12-03 17:13:46,017 - DEBUG - Conflated duplicate: Edessa
+2023-12-03 17:13:46,017 - DEBUG - Conflated duplicate: Ekaterinburg
+2023-12-03 17:13:46,017 - DEBUG - Conflated duplicate: El Agheila
+2023-12-03 17:13:46,017 - DEBUG - Conflated duplicate: Elasa
+2023-12-03 17:13:46,017 - DEBUG - Conflated duplicate: Elba
+2023-12-03 17:13:46,017 - DEBUG - Conflated duplicate: Elba
+2023-12-03 17:13:46,017 - DEBUG - Conflated duplicate: Elizabethville
+2023-12-03 17:13:46,017 - DEBUG - Conflated duplicate: Ely
+2023-12-03 17:13:46,017 - DEBUG - Conflated duplicate: Erivan
+2023-12-03 17:13:46,017 - DEBUG - Conflated duplicate: Erivan
+2023-12-03 17:13:46,017 - DEBUG - Conflated duplicate: Erivan
+2023-12-03 17:13:46,017 - DEBUG - Conflated duplicate: Erivan
+2023-12-03 17:13:46,017 - DEBUG - Conflated duplicate: Erivan
+2023-12-03 17:13:46,018 - DEBUG - Conflated duplicate: Erzincan
+2023-12-03 17:13:46,018 - DEBUG - Conflated duplicate: Erzurum
+2023-12-03 17:13:46,018 - DEBUG - Conflated duplicate: Erzurum
+2023-12-03 17:13:46,018 - DEBUG - Conflated duplicate: Erzurum
+2023-12-03 17:13:46,018 - DEBUG - Conflated duplicate: Estella
+2023-12-03 17:13:46,018 - DEBUG - Conflated duplicate: Esztergom
+2023-12-03 17:13:46,018 - DEBUG - Conflated duplicate: Esztergom
+2023-12-03 17:13:46,018 - DEBUG - Conflated duplicate: Etchoe
+2023-12-03 17:13:46,018 - DEBUG - Conflated duplicate: Eurymedon
+2023-12-03 17:13:46,018 - DEBUG - Conflated duplicate: Exeter
+2023-12-03 17:13:46,018 - DEBUG - Conflated duplicate: Faesulae
+2023-12-03 17:13:46,018 - DEBUG - Conflated duplicate: Falkirk
+2023-12-03 17:13:46,018 - DEBUG - Conflated duplicate: Farrukhabad
+2023-12-03 17:13:46,018 - DEBUG - Conflated duplicate: Farrukhabad
+2023-12-03 17:13:46,018 - DEBUG - Conflated duplicate: Fatehabad
+2023-12-03 17:13:46,018 - DEBUG - Conflated duplicate: Fatehpur
+2023-12-03 17:13:46,018 - DEBUG - Conflated duplicate: Faventia
+2023-12-03 17:13:46,019 - DEBUG - Conflated duplicate: Fez
+2023-12-03 17:13:46,019 - DEBUG - Conflated duplicate: Figueras
+2023-12-03 17:13:46,019 - DEBUG - Conflated duplicate: Fish River
+2023-12-03 17:13:46,019 - DEBUG - Conflated duplicate: Fish River
+2023-12-03 17:13:46,019 - DEBUG - Conflated duplicate: Flanders
+2023-12-03 17:13:46,019 - DEBUG - Conflated duplicate: Fleurus
+2023-12-03 17:13:46,019 - DEBUG - Conflated duplicate: Fleurus
+2023-12-03 17:13:46,019 - DEBUG - Conflated duplicate: Florina
+2023-12-03 17:13:46,019 - DEBUG - Conflated duplicate: Florina
+2023-12-03 17:13:46,019 - DEBUG - Conflated duplicate: Fort Bowyer
+2023-12-03 17:13:46,019 - DEBUG - Conflated duplicate: Fort Defiance
+2023-12-03 17:13:46,019 - DEBUG - Conflated duplicate: Fort Donelson
+2023-12-03 17:13:46,019 - DEBUG - Conflated duplicate: Fort Erie
+2023-12-03 17:13:46,019 - DEBUG - Conflated duplicate: Fort Fisher
+2023-12-03 17:13:46,019 - DEBUG - Conflated duplicate: Fort McAllister
+2023-12-03 17:13:46,019 - DEBUG - Conflated duplicate: Fort Niagara
+2023-12-03 17:13:46,019 - DEBUG - Conflated duplicate: Fort St David
+2023-12-03 17:13:46,019 - DEBUG - Conflated duplicate: Fort Ticonderoga
+2023-12-03 17:13:46,019 - DEBUG - Conflated duplicate: Fort Ticonderoga
+2023-12-03 17:13:46,020 - DEBUG - Conflated duplicate: Fort Ticonderoga
+2023-12-03 17:13:46,020 - DEBUG - Conflated duplicate: Franklin
+2023-12-03 17:13:46,020 - DEBUG - Conflated duplicate: Fredericia
+2023-12-03 17:13:46,020 - DEBUG - Conflated duplicate: Fredericksburg
+2023-12-03 17:13:46,020 - DEBUG - Conflated duplicate: Fredrikshamn
+2023-12-03 17:13:46,020 - DEBUG - Conflated duplicate: Freiburg, Wurttemberg
+2023-12-03 17:13:46,020 - DEBUG - Conflated duplicate: Fuentarrabia
+2023-12-03 17:13:46,020 - DEBUG - Conflated duplicate: Fuzhou
+2023-12-03 17:13:46,020 - DEBUG - Conflated duplicate: Gaeta
+2023-12-03 17:13:46,020 - DEBUG - Conflated duplicate: Gaeta
+2023-12-03 17:13:46,020 - DEBUG - Conflated duplicate: Gaeta
+2023-12-03 17:13:46,020 - DEBUG - Conflated duplicate: Gallabat
+2023-12-03 17:13:46,020 - DEBUG - Conflated duplicate: Gallipoli
+2023-12-03 17:13:46,020 - DEBUG - Conflated duplicate: Gallipoli
+2023-12-03 17:13:46,020 - DEBUG - Conflated duplicate: Gallipoli
+2023-12-03 17:13:46,020 - DEBUG - Conflated duplicate: Galveston
+2023-12-03 17:13:46,020 - DEBUG - Conflated duplicate: Garigliano
+2023-12-03 17:13:46,020 - DEBUG - Conflated duplicate: Garigliano
+2023-12-03 17:13:46,020 - DEBUG - Conflated duplicate: Garigliano
+2023-12-03 17:13:46,020 - DEBUG - Conflated duplicate: Gaza
+2023-12-03 17:13:46,020 - DEBUG - Conflated duplicate: Gaza
+2023-12-03 17:13:46,021 - DEBUG - Conflated duplicate: Gaza
+2023-12-03 17:13:46,021 - DEBUG - Conflated duplicate: Gaza
+2023-12-03 17:13:46,021 - DEBUG - Conflated duplicate: Genoa
+2023-12-03 17:13:46,021 - DEBUG - Conflated duplicate: Genoa
+2023-12-03 17:13:46,021 - DEBUG - Conflated duplicate: Genoa
+2023-12-03 17:13:46,021 - DEBUG - Conflated duplicate: Genoa
+2023-12-03 17:13:46,021 - DEBUG - Conflated duplicate: Geok Tepe
+2023-12-03 17:13:46,021 - DEBUG - Conflated duplicate: Gerona
+2023-12-03 17:13:46,021 - DEBUG - Conflated duplicate: Gerona
+2023-12-03 17:13:46,021 - DEBUG - Conflated duplicate: Gertruydenberg
+2023-12-03 17:13:46,021 - DEBUG - Conflated duplicate: Ghazni
+2023-12-03 17:13:46,021 - DEBUG - Conflated duplicate: Ghazni
+2023-12-03 17:13:46,021 - DEBUG - Conflated duplicate: Ghazni
+2023-12-03 17:13:46,021 - DEBUG - Conflated duplicate: Ghazni
+2023-12-03 17:13:46,021 - DEBUG - Conflated duplicate: Gheria, Bengal
+2023-12-03 17:13:46,021 - DEBUG - Conflated duplicate: Gibraltar
+2023-12-03 17:13:46,021 - DEBUG - Conflated duplicate: Gibraltar
+2023-12-03 17:13:46,021 - DEBUG - Conflated duplicate: Gibraltar
+2023-12-03 17:13:46,021 - DEBUG - Conflated duplicate: Gijon
+2023-12-03 17:13:46,021 - DEBUG - Conflated duplicate: Gingee
+2023-12-03 17:13:46,021 - DEBUG - Conflated duplicate: Gingee
+2023-12-03 17:13:46,022 - DEBUG - Conflated duplicate: Gingee
+2023-12-03 17:13:46,022 - DEBUG - Conflated duplicate: Gisikon
+2023-12-03 17:13:46,022 - DEBUG - Conflated duplicate: Giurgiu
+2023-12-03 17:13:46,022 - DEBUG - Conflated duplicate: Givenchy
+2023-12-03 17:13:46,022 - DEBUG - Conflated duplicate: Goa
+2023-12-03 17:13:46,022 - DEBUG - Conflated duplicate: Goa
+2023-12-03 17:13:46,022 - DEBUG - Conflated duplicate: Goodwin Sands
+2023-12-03 17:13:46,022 - DEBUG - Conflated duplicate: Goree
+2023-12-03 17:13:46,022 - DEBUG - Conflated duplicate: Grammos
+2023-12-03 17:13:46,022 - DEBUG - Conflated duplicate: Granada, Nicaragua
+2023-12-03 17:13:46,022 - DEBUG - Conflated duplicate: Granville
+2023-12-03 17:13:46,022 - DEBUG - Conflated duplicate: Gravelines
+2023-12-03 17:13:46,022 - DEBUG - Conflated duplicate: Greece
+2023-12-03 17:13:46,022 - DEBUG - Conflated duplicate: Grenada
+2023-12-03 17:13:46,022 - DEBUG - Conflated duplicate: Grenada
+2023-12-03 17:13:46,022 - DEBUG - Conflated duplicate: Grodno
+2023-12-03 17:13:46,022 - DEBUG - Conflated duplicate: Groningen
+2023-12-03 17:13:46,022 - DEBUG - Conflated duplicate: Grozny
+2023-12-03 17:13:46,022 - DEBUG - Conflated duplicate: Guadeloupe
+2023-12-03 17:13:46,022 - DEBUG - Conflated duplicate: Guadeloupe
+2023-12-03 17:13:46,022 - DEBUG - Conflated duplicate: Guadeloupe
+2023-12-03 17:13:46,022 - DEBUG - Conflated duplicate: Guadeloupe
+2023-12-03 17:13:46,022 - DEBUG - Conflated duplicate: Guam
+2023-12-03 17:13:46,022 - DEBUG - Conflated duplicate: Guam
+2023-12-03 17:13:46,023 - DEBUG - Conflated duplicate: Guangzhou
+2023-12-03 17:13:46,023 - DEBUG - Conflated duplicate: Guangzhou
+2023-12-03 17:13:46,023 - DEBUG - Conflated duplicate: Guangzhou
+2023-12-03 17:13:46,023 - DEBUG - Conflated duplicate: Guangzhou
+2023-12-03 17:13:46,023 - DEBUG - Conflated duplicate: Guararapes
+2023-12-03 17:13:46,023 - DEBUG - Conflated duplicate: Guatemala City
+2023-12-03 17:13:46,023 - DEBUG - Conflated duplicate: Guernica
+2023-12-03 17:13:46,023 - DEBUG - Conflated duplicate: Guetaria
+2023-12-03 17:13:46,023 - DEBUG - Conflated duplicate: Guinegate
+2023-12-03 17:13:46,023 - DEBUG - Conflated duplicate: Gujrat, Pakistan
+2023-12-03 17:13:46,023 - DEBUG - Conflated duplicate: Gwalior
+2023-12-03 17:13:46,023 - DEBUG - Conflated duplicate: Haicheng
+2023-12-03 17:13:46,023 - DEBUG - Conflated duplicate: Hakata Bay
+2023-12-03 17:13:46,023 - DEBUG - Conflated duplicate: Halys
+2023-12-03 17:13:46,023 - DEBUG - Conflated duplicate: Hamadan
+2023-12-03 17:13:46,023 - DEBUG - Conflated duplicate: Hamadan
+2023-12-03 17:13:46,023 - DEBUG - Conflated duplicate: Hamadan
+2023-12-03 17:13:46,023 - DEBUG - Conflated duplicate: Hanau
+2023-12-03 17:13:46,023 - DEBUG - Conflated duplicate: Handan
+2023-12-03 17:13:46,023 - DEBUG - Conflated duplicate: Hangzhou
+2023-12-03 17:13:46,023 - DEBUG - Conflated duplicate: Hangzhou
+2023-12-03 17:13:46,023 - DEBUG - Conflated duplicate: Hangzhou
+2023-12-03 17:13:46,023 - DEBUG - Conflated duplicate: Hanoi
+2023-12-03 17:13:46,023 - DEBUG - Conflated duplicate: Hanoi
+2023-12-03 17:13:46,023 - DEBUG - Conflated duplicate: Hanoi
+2023-12-03 17:13:46,024 - DEBUG - Conflated duplicate: Hansi
+2023-12-03 17:13:46,024 - DEBUG - Conflated duplicate: Harfleur
+2023-12-03 17:13:46,024 - DEBUG - Conflated duplicate: Harran
+2023-12-03 17:13:46,024 - DEBUG - Conflated duplicate: Hatchers Run
+2023-12-03 17:13:46,024 - DEBUG - Conflated duplicate: Havana
+2023-12-03 17:13:46,024 - DEBUG - Conflated duplicate: Havana
+2023-12-03 17:13:46,024 - DEBUG - Conflated duplicate: Hejaz
+2023-12-03 17:13:46,024 - DEBUG - Conflated duplicate: Heliopolis
+2023-12-03 17:13:46,024 - DEBUG - Conflated duplicate: Helsingborg
+2023-12-03 17:13:46,024 - DEBUG - Conflated duplicate: Helsinki
+2023-12-03 17:13:46,024 - DEBUG - Conflated duplicate: Heraclea, Anatolia
+2023-12-03 17:13:46,024 - DEBUG - Conflated duplicate: Heraclea, Anatolia
+2023-12-03 17:13:46,024 - DEBUG - Conflated duplicate: Herat
+2023-12-03 17:13:46,024 - DEBUG - Conflated duplicate: Herat
+2023-12-03 17:13:46,024 - DEBUG - Conflated duplicate: Herat
+2023-12-03 17:13:46,024 - DEBUG - Conflated duplicate: Herat
+2023-12-03 17:13:46,024 - DEBUG - Conflated duplicate: Herat
+2023-12-03 17:13:46,024 - DEBUG - Conflated duplicate: Herat
+2023-12-03 17:13:46,024 - DEBUG - Conflated duplicate: Herat
+2023-12-03 17:13:46,024 - DEBUG - Conflated duplicate: Herat
+2023-12-03 17:13:46,024 - DEBUG - Conflated duplicate: Herat
+2023-12-03 17:13:46,024 - DEBUG - Conflated duplicate: Herat
+2023-12-03 17:13:46,025 - DEBUG - Conflated duplicate: Herat
+2023-12-03 17:13:46,025 - DEBUG - Conflated duplicate: Herat
+2023-12-03 17:13:46,025 - DEBUG - Conflated duplicate: Herat
+2023-12-03 17:13:46,025 - DEBUG - Conflated duplicate: Herdonea
+2023-12-03 17:13:46,025 - DEBUG - Conflated duplicate: Hericourt
+2023-12-03 17:13:46,025 - DEBUG - Conflated duplicate: Hermannstadt
+2023-12-03 17:13:46,025 - DEBUG - Conflated duplicate: Himera
+2023-12-03 17:13:46,025 - DEBUG - Conflated duplicate: Hochstadt
+2023-12-03 17:13:46,025 - DEBUG - Conflated duplicate: Homs
+2023-12-03 17:13:46,025 - DEBUG - Conflated duplicate: Hormuz
+2023-12-03 17:13:46,025 - DEBUG - Conflated duplicate: Hormuz
+2023-12-03 17:13:46,025 - DEBUG - Conflated duplicate: Hoyerswerda
+2023-12-03 17:13:46,025 - DEBUG - Conflated duplicate: Huachi
+2023-12-03 17:13:46,025 - DEBUG - Conflated duplicate: Hue
+2023-12-03 17:13:46,025 - DEBUG - Conflated duplicate: Hue
+2023-12-03 17:13:46,025 - DEBUG - Conflated duplicate: Hull
+2023-12-03 17:13:46,025 - DEBUG - Conflated duplicate: Huningue
+2023-12-03 17:13:46,025 - DEBUG - Conflated duplicate: Ilerda
+2023-12-03 17:13:46,025 - DEBUG - Conflated duplicate: Imjin
+2023-12-03 17:13:46,025 - DEBUG - Conflated duplicate: Immae
+2023-12-03 17:13:46,025 - DEBUG - Conflated duplicate: Imus
+2023-12-03 17:13:46,025 - DEBUG - Conflated duplicate: Independence
+2023-12-03 17:13:46,025 - DEBUG - Conflated duplicate: Indus
+2023-12-03 17:13:46,025 - DEBUG - Conflated duplicate: Ingavi
+2023-12-03 17:13:46,026 - DEBUG - Conflated duplicate: Inverlochy
+2023-12-03 17:13:46,026 - DEBUG - Conflated duplicate: Inverurie
+2023-12-03 17:13:46,026 - DEBUG - Conflated duplicate: Ionian Islands
+2023-12-03 17:13:46,026 - DEBUG - Conflated duplicate: Iringa
+2023-12-03 17:13:46,026 - DEBUG - Conflated duplicate: Isfahan
+2023-12-03 17:13:46,026 - DEBUG - Conflated duplicate: Isfahan
+2023-12-03 17:13:46,026 - DEBUG - Conflated duplicate: Isfahan
+2023-12-03 17:13:46,026 - DEBUG - Conflated duplicate: Isonzo (st)
+2023-12-03 17:13:46,026 - DEBUG - Conflated duplicate: Isonzo (nd)
+2023-12-03 17:13:46,026 - DEBUG - Conflated duplicate: Issus
+2023-12-03 17:13:46,026 - DEBUG - Conflated duplicate: Jaffa
+2023-12-03 17:13:46,026 - DEBUG - Conflated duplicate: Jaffa
+2023-12-03 17:13:46,026 - DEBUG - Conflated duplicate: Jaffa
+2023-12-03 17:13:46,026 - DEBUG - Conflated duplicate: Jagaraga
+2023-12-03 17:13:46,026 - DEBUG - Conflated duplicate: Jajce
+2023-12-03 17:13:46,026 - DEBUG - Conflated duplicate: Jalalabad
+2023-12-03 17:13:46,026 - DEBUG - Conflated duplicate: Jalalabad
+2023-12-03 17:13:46,026 - DEBUG - Conflated duplicate: Jamestown
+2023-12-03 17:13:46,026 - DEBUG - Conflated duplicate: Jamrud
+2023-12-03 17:13:46,026 - DEBUG - Conflated duplicate: Jebel Akhdar
+2023-12-03 17:13:46,026 - DEBUG - Conflated duplicate: Jeddah
+2023-12-03 17:13:46,026 - DEBUG - Conflated duplicate: Jenin
+2023-12-03 17:13:46,026 - DEBUG - Conflated duplicate: Jerusalem
+2023-12-03 17:13:46,026 - DEBUG - Conflated duplicate: Jerusalem
+2023-12-03 17:13:46,026 - DEBUG - Conflated duplicate: Jerusalem
+2023-12-03 17:13:46,026 - DEBUG - Conflated duplicate: Jerusalem
+2023-12-03 17:13:46,027 - DEBUG - Conflated duplicate: Jerusalem
+2023-12-03 17:13:46,027 - DEBUG - Conflated duplicate: Jerusalem
+2023-12-03 17:13:46,027 - DEBUG - Conflated duplicate: Jerusalem
+2023-12-03 17:13:46,027 - DEBUG - Conflated duplicate: Jerusalem
+2023-12-03 17:13:46,027 - DEBUG - Conflated duplicate: Jerusalem
+2023-12-03 17:13:46,027 - DEBUG - Conflated duplicate: Jerusalem
+2023-12-03 17:13:46,027 - DEBUG - Conflated duplicate: Jiankang
+2023-12-03 17:13:46,027 - DEBUG - Conflated duplicate: Jijiga
+2023-12-03 17:13:46,027 - DEBUG - Conflated duplicate: Jinan
+2023-12-03 17:13:46,027 - DEBUG - Conflated duplicate: Jogjakarta
+2023-12-03 17:13:46,027 - DEBUG - Conflated duplicate: Joppa
+2023-12-03 17:13:46,027 - DEBUG - Conflated duplicate: Joppa
+2023-12-03 17:13:46,027 - DEBUG - Conflated duplicate: Kabul
+2023-12-03 17:13:46,027 - DEBUG - Conflated duplicate: Kabul
+2023-12-03 17:13:46,027 - DEBUG - Conflated duplicate: Kabul
+2023-12-03 17:13:46,027 - DEBUG - Conflated duplicate: Kabul
+2023-12-03 17:13:46,027 - DEBUG - Conflated duplicate: Kabul
+2023-12-03 17:13:46,027 - DEBUG - Conflated duplicate: Kabul
+2023-12-03 17:13:46,027 - DEBUG - Conflated duplicate: Kabul
+2023-12-03 17:13:46,027 - DEBUG - Conflated duplicate: Kabul
+2023-12-03 17:13:46,027 - DEBUG - Conflated duplicate: Kabul
+2023-12-03 17:13:46,027 - DEBUG - Conflated duplicate: Kabul
+2023-12-03 17:13:46,027 - DEBUG - Conflated duplicate: Kabul
+2023-12-03 17:13:46,027 - DEBUG - Conflated duplicate: Kabul
+2023-12-03 17:13:46,027 - DEBUG - Conflated duplicate: Kabul
+2023-12-03 17:13:46,027 - DEBUG - Conflated duplicate: Kabul
+2023-12-03 17:13:46,027 - DEBUG - Conflated duplicate: Kaffa
+2023-12-03 17:13:46,027 - DEBUG - Conflated duplicate: Kagoshima
+2023-12-03 17:13:46,027 - DEBUG - Conflated duplicate: Kagoshima
+2023-12-03 17:13:46,027 - DEBUG - Conflated duplicate: Kaifeng
+2023-12-03 17:13:46,027 - DEBUG - Conflated duplicate: Kaifeng
+2023-12-03 17:13:46,028 - DEBUG - Conflated duplicate: Kaifeng
+2023-12-03 17:13:46,028 - DEBUG - Conflated duplicate: Kaiserslautern
+2023-12-03 17:13:46,028 - DEBUG - Conflated duplicate: Kalisch
+2023-12-03 17:13:46,028 - DEBUG - Conflated duplicate: Kalka
+2023-12-03 17:13:46,028 - DEBUG - Conflated duplicate: Kalyan
+2023-12-03 17:13:46,028 - DEBUG - Conflated duplicate: Kamakura
+2023-12-03 17:13:46,028 - DEBUG - Conflated duplicate: Kamieniec
+2023-12-03 17:13:46,028 - DEBUG - Conflated duplicate: Kanauj
+2023-12-03 17:13:46,028 - DEBUG - Conflated duplicate: Kanauj
+2023-12-03 17:13:46,028 - DEBUG - Conflated duplicate: Kanchi
+2023-12-03 17:13:46,028 - DEBUG - Conflated duplicate: Kanchi
+2023-12-03 17:13:46,028 - DEBUG - Conflated duplicate: Kandahar
+2023-12-03 17:13:46,028 - DEBUG - Conflated duplicate: Kandahar
+2023-12-03 17:13:46,028 - DEBUG - Conflated duplicate: Kandahar
+2023-12-03 17:13:46,028 - DEBUG - Conflated duplicate: Kandahar
+2023-12-03 17:13:46,028 - DEBUG - Conflated duplicate: Kandahar
+2023-12-03 17:13:46,028 - DEBUG - Conflated duplicate: Kandahar
+2023-12-03 17:13:46,028 - DEBUG - Conflated duplicate: Kandahar
+2023-12-03 17:13:46,028 - DEBUG - Conflated duplicate: Kandahar
+2023-12-03 17:13:46,028 - DEBUG - Conflated duplicate: Kandahar
+2023-12-03 17:13:46,028 - DEBUG - Conflated duplicate: Kandahar
+2023-12-03 17:13:46,028 - DEBUG - Conflated duplicate: Kandahar
+2023-12-03 17:13:46,028 - DEBUG - Conflated duplicate: Kandahar
+2023-12-03 17:13:46,028 - DEBUG - Conflated duplicate: Kandahar
+2023-12-03 17:13:46,028 - DEBUG - Conflated duplicate: Kandahar
+2023-12-03 17:13:46,028 - DEBUG - Conflated duplicate: Kandahar
+2023-12-03 17:13:46,028 - DEBUG - Conflated duplicate: Kandy
+2023-12-03 17:13:46,028 - DEBUG - Conflated duplicate: Kandy
+2023-12-03 17:13:46,028 - DEBUG - Conflated duplicate: Karakorum
+2023-12-03 17:13:46,028 - DEBUG - Conflated duplicate: Karbala
+2023-12-03 17:13:46,029 - DEBUG - Conflated duplicate: Karpenision
+2023-12-03 17:13:46,029 - DEBUG - Conflated duplicate: Kars
+2023-12-03 17:13:46,029 - DEBUG - Conflated duplicate: Kars
+2023-12-03 17:13:46,029 - DEBUG - Conflated duplicate: Kars
+2023-12-03 17:13:46,029 - DEBUG - Conflated duplicate: Kasganj
+2023-12-03 17:13:46,029 - DEBUG - Conflated duplicate: Katwa
+2023-12-03 17:13:46,029 - DEBUG - Conflated duplicate: Katwa
+2023-12-03 17:13:46,029 - DEBUG - Conflated duplicate: Kayseri
+2023-12-03 17:13:46,029 - DEBUG - Conflated duplicate: Kazan
+2023-12-03 17:13:46,029 - DEBUG - Conflated duplicate: Kazan
+2023-12-03 17:13:46,029 - DEBUG - Conflated duplicate: Kazan
+2023-12-03 17:13:46,029 - DEBUG - Conflated duplicate: Kehl
+2023-12-03 17:13:46,029 - DEBUG - Conflated duplicate: Kerch
+2023-12-03 17:13:46,029 - DEBUG - Conflated duplicate: Kerch
+2023-12-03 17:13:46,029 - DEBUG - Conflated duplicate: Keren
+2023-12-03 17:13:46,029 - DEBUG - Conflated duplicate: Kerman
+2023-12-03 17:13:46,029 - DEBUG - Conflated duplicate: Kerman
+2023-12-03 17:13:46,029 - DEBUG - Conflated duplicate: Kernstown
+2023-12-03 17:13:46,029 - DEBUG - Conflated duplicate: Kerulen
+2023-12-03 17:13:46,029 - DEBUG - Conflated duplicate: Khajwa
+2023-12-03 17:13:46,029 - DEBUG - Conflated duplicate: Khania
+2023-12-03 17:13:46,029 - DEBUG - Conflated duplicate: Khe Sanh
+2023-12-03 17:13:46,029 - DEBUG - Conflated duplicate: Khiva
+2023-12-03 17:13:46,029 - DEBUG - Conflated duplicate: Khoi
+2023-12-03 17:13:46,029 - DEBUG - Conflated duplicate: Khorramshahr
+2023-12-03 17:13:46,029 - DEBUG - Conflated duplicate: Khost
+2023-12-03 17:13:46,029 - DEBUG - Conflated duplicate: Khotin
+2023-12-03 17:13:46,029 - DEBUG - Conflated duplicate: Khotin
+2023-12-03 17:13:46,030 - DEBUG - Conflated duplicate: Khotin
+2023-12-03 17:13:46,030 - DEBUG - Conflated duplicate: Khotin
+2023-12-03 17:13:46,030 - DEBUG - Conflated duplicate: Khujbaz
+2023-12-03 17:13:46,030 - DEBUG - Conflated duplicate: Kiev
+2023-12-03 17:13:46,030 - DEBUG - Conflated duplicate: Kiev
+2023-12-03 17:13:46,030 - DEBUG - Conflated duplicate: Kiev
+2023-12-03 17:13:46,030 - DEBUG - Conflated duplicate: Kiev
+2023-12-03 17:13:46,030 - DEBUG - Conflated duplicate: Kiev
+2023-12-03 17:13:46,030 - DEBUG - Conflated duplicate: Kiev
+2023-12-03 17:13:46,030 - DEBUG - Conflated duplicate: Kinburn
+2023-12-03 17:13:46,030 - DEBUG - Conflated duplicate: Kinston
+2023-12-03 17:13:46,030 - DEBUG - Conflated duplicate: Kolberg
+2023-12-03 17:13:46,030 - DEBUG - Conflated duplicate: Kolberg
+2023-12-03 17:13:46,030 - DEBUG - Conflated duplicate: Komarom
+2023-12-03 17:13:46,030 - DEBUG - Conflated duplicate: Kondavidu
+2023-12-03 17:13:46,030 - DEBUG - Conflated duplicate: Konigsberg
+2023-12-03 17:13:46,030 - DEBUG - Conflated duplicate: Koppal
+2023-12-03 17:13:46,030 - DEBUG - Conflated duplicate: Korsun
+2023-12-03 17:13:46,030 - DEBUG - Conflated duplicate: Kossovo
+2023-12-03 17:13:46,030 - DEBUG - Conflated duplicate: Kossovo
+2023-12-03 17:13:46,030 - DEBUG - Conflated duplicate: Kossovo
+2023-12-03 17:13:46,030 - DEBUG - Conflated duplicate: Kovno
+2023-12-03 17:13:46,030 - DEBUG - Conflated duplicate: Kowloon
+2023-12-03 17:13:46,030 - DEBUG - Conflated duplicate: Kronstadt
+2023-12-03 17:13:46,030 - DEBUG - Conflated duplicate: Kruje, Albania
+2023-12-03 17:13:46,030 - DEBUG - Conflated duplicate: Kruje, Albania
+2023-12-03 17:13:46,031 - DEBUG - Conflated duplicate: Kruje, Albania
+2023-12-03 17:13:46,031 - DEBUG - Conflated duplicate: Kuban
+2023-12-03 17:13:46,031 - DEBUG - Conflated duplicate: Kufah
+2023-12-03 17:13:46,031 - DEBUG - Conflated duplicate: Kumbi
+2023-12-03 17:13:46,031 - DEBUG - Conflated duplicate: KutalAmara
+2023-12-03 17:13:46,031 - DEBUG - Conflated duplicate: Kuwait
+2023-12-03 17:13:46,031 - DEBUG - Conflated duplicate: Kyoto
+2023-12-03 17:13:46,031 - DEBUG - Conflated duplicate: Kyoto
+2023-12-03 17:13:46,031 - DEBUG - Conflated duplicate: Kyoto
+2023-12-03 17:13:46,031 - DEBUG - Conflated duplicate: Kyoto
+2023-12-03 17:13:46,031 - DEBUG - Conflated duplicate: Lade
+2023-12-03 17:13:46,031 - DEBUG - Conflated duplicate: Lagos Bay
+2023-12-03 17:13:46,031 - DEBUG - Conflated duplicate: La Guaira
+2023-12-03 17:13:46,031 - DEBUG - Conflated duplicate: Lahore
+2023-12-03 17:13:46,031 - DEBUG - Conflated duplicate: Lahore
+2023-12-03 17:13:46,031 - DEBUG - Conflated duplicate: Lahore
+2023-12-03 17:13:46,031 - DEBUG - Conflated duplicate: Lahore
+2023-12-03 17:13:46,031 - DEBUG - Conflated duplicate: Lake Champlain
+2023-12-03 17:13:46,031 - DEBUG - Conflated duplicate: Lake Vadimo
+2023-12-03 17:13:46,031 - DEBUG - Conflated duplicate: Landau
+2023-12-03 17:13:46,031 - DEBUG - Conflated duplicate: Landshut
+2023-12-03 17:13:46,031 - DEBUG - Conflated duplicate: Landshut
+2023-12-03 17:13:46,031 - DEBUG - Conflated duplicate: Langemark
+2023-12-03 17:13:46,031 - DEBUG - Conflated duplicate: Lang Son
+2023-12-03 17:13:46,031 - DEBUG - Conflated duplicate: Laon
+2023-12-03 17:13:46,031 - DEBUG - Conflated duplicate: Laon
+2023-12-03 17:13:46,031 - DEBUG - Conflated duplicate: La Rochelle
+2023-12-03 17:13:46,032 - DEBUG - Conflated duplicate: La Rochelle
+2023-12-03 17:13:46,032 - DEBUG - Conflated duplicate: La Rochelle
+2023-12-03 17:13:46,032 - DEBUG - Conflated duplicate: Las Guasimas
+2023-12-03 17:13:46,032 - DEBUG - Conflated duplicate: La Victoria
+2023-12-03 17:13:46,032 - DEBUG - Conflated duplicate: La Victoria
+2023-12-03 17:13:46,032 - DEBUG - Conflated duplicate: Le Cateau
+2023-12-03 17:13:46,032 - DEBUG - Conflated duplicate: Le Mans
+2023-12-03 17:13:46,032 - DEBUG - Conflated duplicate: Lemnos
+2023-12-03 17:13:46,032 - DEBUG - Conflated duplicate: Lemnos
+2023-12-03 17:13:46,032 - DEBUG - Conflated duplicate: Lemnos
+2023-12-03 17:13:46,032 - DEBUG - Conflated duplicate: Lepanto
+2023-12-03 17:13:46,032 - DEBUG - Conflated duplicate: Lerida
+2023-12-03 17:13:46,032 - DEBUG - Conflated duplicate: Lerida
+2023-12-03 17:13:46,032 - DEBUG - Conflated duplicate: Lerida
+2023-12-03 17:13:46,032 - DEBUG - Conflated duplicate: Lerida
+2023-12-03 17:13:46,032 - DEBUG - Conflated duplicate: Lerida
+2023-12-03 17:13:46,032 - DEBUG - Conflated duplicate: Lexington, Missouri
+2023-12-03 17:13:46,032 - DEBUG - Conflated duplicate: Liaoyang
+2023-12-03 17:13:46,032 - DEBUG - Conflated duplicate: Liege
+2023-12-03 17:13:46,032 - DEBUG - Conflated duplicate: Liege
+2023-12-03 17:13:46,032 - DEBUG - Conflated duplicate: Liegnitz
+2023-12-03 17:13:46,032 - DEBUG - Conflated duplicate: Lille
+2023-12-03 17:13:46,032 - DEBUG - Conflated duplicate: Lille
+2023-12-03 17:13:46,032 - DEBUG - Conflated duplicate: Lilybaeum
+2023-12-03 17:13:46,032 - DEBUG - Conflated duplicate: Limerick
+2023-12-03 17:13:46,032 - DEBUG - Conflated duplicate: Limerick
+2023-12-03 17:13:46,032 - DEBUG - Conflated duplicate: Limerick
+2023-12-03 17:13:46,032 - DEBUG - Conflated duplicate: Lincoln
+2023-12-03 17:13:46,033 - DEBUG - Conflated duplicate: Lindisfarne
+2023-12-03 17:13:46,033 - DEBUG - Conflated duplicate: Lingzhou
+2023-12-03 17:13:46,033 - DEBUG - Conflated duplicate: Lissa
+2023-12-03 17:13:46,033 - DEBUG - Conflated duplicate: Little Rock
+2023-12-03 17:13:46,033 - DEBUG - Conflated duplicate: Lodosa
+2023-12-03 17:13:46,033 - DEBUG - Conflated duplicate: Loftche
+2023-12-03 17:13:46,033 - DEBUG - Conflated duplicate: Louisbourg
+2023-12-03 17:13:46,033 - DEBUG - Conflated duplicate: Lovek
+2023-12-03 17:13:46,033 - DEBUG - Conflated duplicate: Luoyang
+2023-12-03 17:13:46,033 - DEBUG - Conflated duplicate: Luoyang
+2023-12-03 17:13:46,033 - DEBUG - Conflated duplicate: Luoyang
+2023-12-03 17:13:46,033 - DEBUG - Conflated duplicate: Luoyang
+2023-12-03 17:13:46,033 - DEBUG - Conflated duplicate: Luoyang
+2023-12-03 17:13:46,033 - DEBUG - Conflated duplicate: Luoyang
+2023-12-03 17:13:46,033 - DEBUG - Conflated duplicate: Lutsk
+2023-12-03 17:13:46,033 - DEBUG - Conflated duplicate: Lutterberg
+2023-12-03 17:13:46,033 - DEBUG - Conflated duplicate: Lutzen
+2023-12-03 17:13:46,033 - DEBUG - Conflated duplicate: Luxembourg
+2023-12-03 17:13:46,033 - DEBUG - Conflated duplicate: Lvov
+2023-12-03 17:13:46,033 - DEBUG - Conflated duplicate: Lvov
+2023-12-03 17:13:46,033 - DEBUG - Conflated duplicate: Maastricht
+2023-12-03 17:13:46,034 - DEBUG - Conflated duplicate: Maastricht
+2023-12-03 17:13:46,034 - DEBUG - Conflated duplicate: Maastricht
+2023-12-03 17:13:46,034 - DEBUG - Conflated duplicate: Macassar
+2023-12-03 17:13:46,034 - DEBUG - Conflated duplicate: Madeira
+2023-12-03 17:13:46,034 - DEBUG - Conflated duplicate: Magdeburg
+2023-12-03 17:13:46,034 - DEBUG - Conflated duplicate: Mainz
+2023-12-03 17:13:46,034 - DEBUG - Conflated duplicate: Mainz
+2023-12-03 17:13:46,034 - DEBUG - Conflated duplicate: Mainz
+2023-12-03 17:13:46,034 - DEBUG - Conflated duplicate: Makin
+2023-12-03 17:13:46,034 - DEBUG - Conflated duplicate: Malacca
+2023-12-03 17:13:46,034 - DEBUG - Conflated duplicate: Malacca
+2023-12-03 17:13:46,034 - DEBUG - Conflated duplicate: Malacca
+2023-12-03 17:13:46,034 - DEBUG - Conflated duplicate: Malaga
+2023-12-03 17:13:46,034 - DEBUG - Conflated duplicate: Malaga
+2023-12-03 17:13:46,034 - DEBUG - Conflated duplicate: Malakand
+2023-12-03 17:13:46,034 - DEBUG - Conflated duplicate: Malta
+2023-12-03 17:13:46,034 - DEBUG - Conflated duplicate: Malta
+2023-12-03 17:13:46,034 - DEBUG - Conflated duplicate: Manila
+2023-12-03 17:13:46,034 - DEBUG - Conflated duplicate: Manila
+2023-12-03 17:13:46,034 - DEBUG - Conflated duplicate: Manila
+2023-12-03 17:13:46,034 - DEBUG - Conflated duplicate: Manila
+2023-12-03 17:13:46,034 - DEBUG - Conflated duplicate: Manizales
+2023-12-03 17:13:46,034 - DEBUG - Conflated duplicate: Mannerheim Line
+2023-12-03 17:13:46,034 - DEBUG - Conflated duplicate: Mannheim
+2023-12-03 17:13:46,034 - DEBUG - Conflated duplicate: Mannheim
+2023-12-03 17:13:46,034 - DEBUG - Conflated duplicate: Mannheim
+2023-12-03 17:13:46,034 - DEBUG - Conflated duplicate: Mantinea
+2023-12-03 17:13:46,035 - DEBUG - Conflated duplicate: Mantinea
+2023-12-03 17:13:46,035 - DEBUG - Conflated duplicate: Mantua
+2023-12-03 17:13:46,035 - DEBUG - Conflated duplicate: Manzikert
+2023-12-03 17:13:46,035 - DEBUG - Conflated duplicate: Maracaibo
+2023-12-03 17:13:46,035 - DEBUG - Conflated duplicate: Marcellae
+2023-12-03 17:13:46,035 - DEBUG - Conflated duplicate: Maritza
+2023-12-03 17:13:46,035 - DEBUG - Conflated duplicate: Marj Rahit
+2023-12-03 17:13:46,035 - DEBUG - Conflated duplicate: Marne
+2023-12-03 17:13:46,035 - DEBUG - Conflated duplicate: Marseilles
+2023-12-03 17:13:46,035 - DEBUG - Conflated duplicate: Marseilles
+2023-12-03 17:13:46,035 - DEBUG - Conflated duplicate: Marseilles
+2023-12-03 17:13:46,035 - DEBUG - Conflated duplicate: Marstrand
+2023-12-03 17:13:46,035 - DEBUG - Conflated duplicate: Martaban
+2023-12-03 17:13:46,035 - DEBUG - Conflated duplicate: Martinique
+2023-12-03 17:13:46,035 - DEBUG - Conflated duplicate: Martinique
+2023-12-03 17:13:46,035 - DEBUG - Conflated duplicate: Martinique
+2023-12-03 17:13:46,035 - DEBUG - Conflated duplicate: Martinique
+2023-12-03 17:13:46,035 - DEBUG - Conflated duplicate: Martinique
+2023-12-03 17:13:46,035 - DEBUG - Conflated duplicate: Martinique
+2023-12-03 17:13:46,035 - DEBUG - Conflated duplicate: Martinique
+2023-12-03 17:13:46,035 - DEBUG - Conflated duplicate: Massawa
+2023-12-03 17:13:46,035 - DEBUG - Conflated duplicate: Massawa
+2023-12-03 17:13:46,035 - DEBUG - Conflated duplicate: Massilia
+2023-12-03 17:13:46,035 - DEBUG - Conflated duplicate: Masurian Lakes
+2023-12-03 17:13:46,035 - DEBUG - Conflated duplicate: Matamaros
+2023-12-03 17:13:46,036 - DEBUG - Conflated duplicate: Mecca
+2023-12-03 17:13:46,036 - DEBUG - Conflated duplicate: Mecca
+2023-12-03 17:13:46,036 - DEBUG - Conflated duplicate: Mecca
+2023-12-03 17:13:46,036 - DEBUG - Conflated duplicate: Mecca
+2023-12-03 17:13:46,037 - DEBUG - Conflated duplicate: Medina, Saudi Arabia
+2023-12-03 17:13:46,037 - DEBUG - Conflated duplicate: Medina, Saudi Arabia
+2023-12-03 17:13:46,037 - DEBUG - Conflated duplicate: Medina, Saudi Arabia
+2023-12-03 17:13:46,037 - DEBUG - Conflated duplicate: Medina, Saudi Arabia
+2023-12-03 17:13:46,037 - DEBUG - Conflated duplicate: Medway
+2023-12-03 17:13:46,037 - DEBUG - Conflated duplicate: Meerut
+2023-12-03 17:13:46,037 - DEBUG - Conflated duplicate: Megiddo
+2023-12-03 17:13:46,037 - DEBUG - Conflated duplicate: Megiddo
+2023-12-03 17:13:46,037 - DEBUG - Conflated duplicate: Mehran
+2023-12-03 17:13:46,037 - DEBUG - Conflated duplicate: Mehran
+2023-12-03 17:13:46,037 - DEBUG - Conflated duplicate: Melilla
+2023-12-03 17:13:46,037 - DEBUG - Conflated duplicate: Melilla
+2023-12-03 17:13:46,037 - DEBUG - Conflated duplicate: Melitene
+2023-12-03 17:13:46,037 - DEBUG - Conflated duplicate: Melitopol
+2023-12-03 17:13:46,037 - DEBUG - Conflated duplicate: Meloria
+2023-12-03 17:13:46,037 - DEBUG - Conflated duplicate: Memphis, Tennessee
+2023-12-03 17:13:46,037 - DEBUG - Conflated duplicate: Merida
+2023-12-03 17:13:46,037 - DEBUG - Conflated duplicate: Merida
+2023-12-03 17:13:46,037 - DEBUG - Conflated duplicate: Mers el Kebir
+2023-12-03 17:13:46,037 - DEBUG - Conflated duplicate: Merv
+2023-12-03 17:13:46,037 - DEBUG - Conflated duplicate: Merv
+2023-12-03 17:13:46,037 - DEBUG - Conflated duplicate: Meshed
+2023-12-03 17:13:46,037 - DEBUG - Conflated duplicate: Messana
+2023-12-03 17:13:46,037 - DEBUG - Conflated duplicate: Messina
+2023-12-03 17:13:46,037 - DEBUG - Conflated duplicate: Messina
+2023-12-03 17:13:46,037 - DEBUG - Conflated duplicate: Messina
+2023-12-03 17:13:46,037 - DEBUG - Conflated duplicate: Messina
+2023-12-03 17:13:46,037 - DEBUG - Conflated duplicate: Messina
+2023-12-03 17:13:46,037 - DEBUG - Conflated duplicate: Messina
+2023-12-03 17:13:46,037 - DEBUG - Conflated duplicate: Messina
+2023-12-03 17:13:46,038 - DEBUG - Conflated duplicate: Messines
+2023-12-03 17:13:46,038 - DEBUG - Conflated duplicate: Methone
+2023-12-03 17:13:46,038 - DEBUG - Conflated duplicate: Methone
+2023-12-03 17:13:46,038 - DEBUG - Conflated duplicate: Metz
+2023-12-03 17:13:46,038 - DEBUG - Conflated duplicate: Metz
+2023-12-03 17:13:46,038 - DEBUG - Conflated duplicate: Meuse
+2023-12-03 17:13:46,038 - DEBUG - Conflated duplicate: Mexico City
+2023-12-03 17:13:46,038 - DEBUG - Conflated duplicate: Michilimackinac
+2023-12-03 17:13:46,038 - DEBUG - Conflated duplicate: Milan
+2023-12-03 17:13:46,038 - DEBUG - Conflated duplicate: Milan
+2023-12-03 17:13:46,038 - DEBUG - Conflated duplicate: Milazzo
+2023-12-03 17:13:46,038 - DEBUG - Conflated duplicate: Miletus
+2023-12-03 17:13:46,038 - DEBUG - Conflated duplicate: Mincio
+2023-12-03 17:13:46,038 - DEBUG - Conflated duplicate: Minorca
+2023-12-03 17:13:46,038 - DEBUG - Conflated duplicate: Minorca
+2023-12-03 17:13:46,038 - DEBUG - Conflated duplicate: Minorca
+2023-12-03 17:13:46,038 - DEBUG - Conflated duplicate: Minsk
+2023-12-03 17:13:46,038 - DEBUG - Conflated duplicate: Minsk
+2023-12-03 17:13:46,038 - DEBUG - Conflated duplicate: Missolonghi
+2023-12-03 17:13:46,038 - DEBUG - Conflated duplicate: Mitla Pass
+2023-12-03 17:13:46,038 - DEBUG - Conflated duplicate: Mogadishu
+2023-12-03 17:13:46,038 - DEBUG - Conflated duplicate: Mogilev
+2023-12-03 17:13:46,038 - DEBUG - Conflated duplicate: Mombasa
+2023-12-03 17:13:46,038 - DEBUG - Conflated duplicate: Mombasa
+2023-12-03 17:13:46,038 - DEBUG - Conflated duplicate: Mombasa
+2023-12-03 17:13:46,038 - DEBUG - Conflated duplicate: Mombasa
+2023-12-03 17:13:46,038 - DEBUG - Conflated duplicate: Mombasa
+2023-12-03 17:13:46,038 - DEBUG - Conflated duplicate: Monastir
+2023-12-03 17:13:46,038 - DEBUG - Conflated duplicate: Monemvasia
+2023-12-03 17:13:46,039 - DEBUG - Conflated duplicate: Monjuich
+2023-12-03 17:13:46,039 - DEBUG - Conflated duplicate: Mons
+2023-12-03 17:13:46,039 - DEBUG - Conflated duplicate: Mons
+2023-12-03 17:13:46,039 - DEBUG - Conflated duplicate: Mons
+2023-12-03 17:13:46,039 - DEBUG - Conflated duplicate: Mons
+2023-12-03 17:13:46,039 - DEBUG - Conflated duplicate: Montebello
+2023-12-03 17:13:46,039 - DEBUG - Conflated duplicate: Monte Grappa
+2023-12-03 17:13:46,039 - DEBUG - Conflated duplicate: Montejurra
+2023-12-03 17:13:46,039 - DEBUG - Conflated duplicate: Montevideo
+2023-12-03 17:13:46,039 - DEBUG - Conflated duplicate: Montevideo
+2023-12-03 17:13:46,039 - DEBUG - Conflated duplicate: Montevideo
+2023-12-03 17:13:46,039 - DEBUG - Conflated duplicate: Montreal
+2023-12-03 17:13:46,039 - DEBUG - Conflated duplicate: Morella
+2023-12-03 17:13:46,039 - DEBUG - Conflated duplicate: Morella
+2023-12-03 17:13:46,039 - DEBUG - Conflated duplicate: Moscow
+2023-12-03 17:13:46,039 - DEBUG - Conflated duplicate: Moscow
+2023-12-03 17:13:46,039 - DEBUG - Conflated duplicate: Moscow
+2023-12-03 17:13:46,039 - DEBUG - Conflated duplicate: Moscow
+2023-12-03 17:13:46,039 - DEBUG - Conflated duplicate: Moscow
+2023-12-03 17:13:46,039 - DEBUG - Conflated duplicate: Muhlhausen
+2023-12-03 17:13:46,039 - DEBUG - Conflated duplicate: Muhlhausen
+2023-12-03 17:13:46,039 - DEBUG - Conflated duplicate: Mukden
+2023-12-03 17:13:46,039 - DEBUG - Conflated duplicate: Mukden
+2023-12-03 17:13:46,039 - DEBUG - Conflated duplicate: Mukden
+2023-12-03 17:13:46,039 - DEBUG - Conflated duplicate: Multan
+2023-12-03 17:13:46,040 - DEBUG - Conflated duplicate: Multan
+2023-12-03 17:13:46,040 - DEBUG - Conflated duplicate: Murfreesboro
+2023-12-03 17:13:46,040 - DEBUG - Conflated duplicate: Mursa
+2023-12-03 17:13:46,040 - DEBUG - Conflated duplicate: Muscat
+2023-12-03 17:13:46,040 - DEBUG - Conflated duplicate: Mutina
+2023-12-03 17:13:46,040 - DEBUG - Conflated duplicate: Mylae
+2023-12-03 17:13:46,040 - DEBUG - Conflated duplicate: Mytilene
+2023-12-03 17:13:46,040 - DEBUG - Conflated duplicate: Nacogdoches
+2023-12-03 17:13:46,040 - DEBUG - Conflated duplicate: Nacogdoches
+2023-12-03 17:13:46,040 - DEBUG - Conflated duplicate: Nafels
+2023-12-03 17:13:46,040 - DEBUG - Conflated duplicate: Namur
+2023-12-03 17:13:46,040 - DEBUG - Conflated duplicate: Namur
+2023-12-03 17:13:46,040 - DEBUG - Conflated duplicate: Namur
+2023-12-03 17:13:46,040 - DEBUG - Conflated duplicate: Nanchang
+2023-12-03 17:13:46,040 - DEBUG - Conflated duplicate: Nanchang
+2023-12-03 17:13:46,040 - DEBUG - Conflated duplicate: Nanchang
+2023-12-03 17:13:46,040 - DEBUG - Conflated duplicate: Nanchang
+2023-12-03 17:13:46,040 - DEBUG - Conflated duplicate: Nanchang
+2023-12-03 17:13:46,040 - DEBUG - Conflated duplicate: Nancy
+2023-12-03 17:13:46,040 - DEBUG - Conflated duplicate: Nancy
+2023-12-03 17:13:46,040 - DEBUG - Conflated duplicate: Nanjing
+2023-12-03 17:13:46,040 - DEBUG - Conflated duplicate: Nanjing
+2023-12-03 17:13:46,040 - DEBUG - Conflated duplicate: Nanjing
+2023-12-03 17:13:46,040 - DEBUG - Conflated duplicate: Nanjing
+2023-12-03 17:13:46,040 - DEBUG - Conflated duplicate: Nanjing
+2023-12-03 17:13:46,040 - DEBUG - Conflated duplicate: Nanjing
+2023-12-03 17:13:46,040 - DEBUG - Conflated duplicate: Nanjing
+2023-12-03 17:13:46,040 - DEBUG - Conflated duplicate: Nanjing
+2023-12-03 17:13:46,040 - DEBUG - Conflated duplicate: Nanjing
+2023-12-03 17:13:46,041 - DEBUG - Conflated duplicate: Nanjing
+2023-12-03 17:13:46,041 - DEBUG - Conflated duplicate: Nanjing
+2023-12-03 17:13:46,041 - DEBUG - Conflated duplicate: Naoussa
+2023-12-03 17:13:46,041 - DEBUG - Conflated duplicate: Napata
+2023-12-03 17:13:46,041 - DEBUG - Conflated duplicate: Naples
+2023-12-03 17:13:46,041 - DEBUG - Conflated duplicate: Naples
+2023-12-03 17:13:46,041 - DEBUG - Conflated duplicate: Naples
+2023-12-03 17:13:46,041 - DEBUG - Conflated duplicate: Naples
+2023-12-03 17:13:46,041 - DEBUG - Conflated duplicate: Naples
+2023-12-03 17:13:46,041 - DEBUG - Conflated duplicate: Narva
+2023-12-03 17:13:46,041 - DEBUG - Conflated duplicate: Narva
+2023-12-03 17:13:46,041 - DEBUG - Conflated duplicate: Narva
+2023-12-03 17:13:46,041 - DEBUG - Conflated duplicate: Narva
+2023-12-03 17:13:46,041 - DEBUG - Conflated duplicate: Nasiriya
+2023-12-03 17:13:46,041 - DEBUG - Conflated duplicate: Nauplia
+2023-12-03 17:13:46,041 - DEBUG - Conflated duplicate: Navarino
+2023-12-03 17:13:46,041 - DEBUG - Conflated duplicate: Navarino
+2023-12-03 17:13:46,041 - DEBUG - Conflated duplicate: N'Djamena
+2023-12-03 17:13:46,041 - DEBUG - Conflated duplicate: Neerwinden
+2023-12-03 17:13:46,041 - DEBUG - Conflated duplicate: Negapatam
+2023-12-03 17:13:46,041 - DEBUG - Conflated duplicate: Negapatam
+2023-12-03 17:13:46,041 - DEBUG - Conflated duplicate: Negapatam
+2023-12-03 17:13:46,041 - DEBUG - Conflated duplicate: Negroponte
+2023-12-03 17:13:46,041 - DEBUG - Conflated duplicate: Nesbit
+2023-12-03 17:13:46,041 - DEBUG - Conflated duplicate: Neuhausel
+2023-12-03 17:13:46,041 - DEBUG - Conflated duplicate: Neuwied
+2023-12-03 17:13:46,041 - DEBUG - Conflated duplicate: Nevis
+2023-12-03 17:13:46,041 - DEBUG - Conflated duplicate: Newbury
+2023-12-03 17:13:46,042 - DEBUG - Conflated duplicate: New Orleans
+2023-12-03 17:13:46,042 - DEBUG - Conflated duplicate: Newtonia
+2023-12-03 17:13:46,042 - DEBUG - Conflated duplicate: Nghia Lo
+2023-12-03 17:13:46,042 - DEBUG - Conflated duplicate: Nicaea
+2023-12-03 17:13:46,042 - DEBUG - Conflated duplicate: Nicaea
+2023-12-03 17:13:46,042 - DEBUG - Conflated duplicate: Nicomedia
+2023-12-03 17:13:46,042 - DEBUG - Conflated duplicate: Nicopolis, Bulgaria
+2023-12-03 17:13:46,042 - DEBUG - Conflated duplicate: Nieuport
+2023-12-03 17:13:46,042 - DEBUG - Conflated duplicate: Nile
+2023-12-03 17:13:46,042 - DEBUG - Conflated duplicate: Nineveh
+2023-12-03 17:13:46,042 - DEBUG - Conflated duplicate: Nineveh
+2023-12-03 17:13:46,042 - DEBUG - Conflated duplicate: Ningbo
+2023-12-03 17:13:46,042 - DEBUG - Conflated duplicate: Nish
+2023-12-03 17:13:46,042 - DEBUG - Conflated duplicate: Nish
+2023-12-03 17:13:46,042 - DEBUG - Conflated duplicate: Nish
+2023-12-03 17:13:46,042 - DEBUG - Conflated duplicate: Nish
+2023-12-03 17:13:46,042 - DEBUG - Conflated duplicate: Nish
+2023-12-03 17:13:46,042 - DEBUG - Conflated duplicate: Nishapur
+2023-12-03 17:13:46,042 - DEBUG - Conflated duplicate: Nishapur
+2023-12-03 17:13:46,042 - DEBUG - Conflated duplicate: Nisibis
+2023-12-03 17:13:46,042 - DEBUG - Conflated duplicate: Nola
+2023-12-03 17:13:46,042 - DEBUG - Conflated duplicate: Nola
+2023-12-03 17:13:46,042 - DEBUG - Conflated duplicate: Nordlingen
+2023-12-03 17:13:46,042 - DEBUG - Conflated duplicate: Northampton
+2023-12-03 17:13:46,042 - DEBUG - Conflated duplicate: Norwich
+2023-12-03 17:13:46,042 - DEBUG - Conflated duplicate: Novara
+2023-12-03 17:13:46,043 - DEBUG - Conflated duplicate: Novara
+2023-12-03 17:13:46,043 - DEBUG - Conflated duplicate: Novara
+2023-12-03 17:13:46,043 - DEBUG - Conflated duplicate: Novorossisk
+2023-12-03 17:13:46,043 - DEBUG - Conflated duplicate: Oaxaca
+2023-12-03 17:13:46,043 - DEBUG - Conflated duplicate: Oaxaca
+2023-12-03 17:13:46,043 - DEBUG - Conflated duplicate: Ochakov
+2023-12-03 17:13:46,043 - DEBUG - Conflated duplicate: Ochomogo
+2023-12-03 17:13:46,043 - DEBUG - Conflated duplicate: Odessa
+2023-12-03 17:13:46,043 - DEBUG - Conflated duplicate: Odessa
+2023-12-03 17:13:46,043 - DEBUG - Conflated duplicate: Odessa
+2023-12-03 17:13:46,043 - DEBUG - Conflated duplicate: Okhmatov
+2023-12-03 17:13:46,043 - DEBUG - Conflated duplicate: Oland
+2023-12-03 17:13:46,043 - DEBUG - Conflated duplicate: Oland
+2023-12-03 17:13:46,043 - DEBUG - Conflated duplicate: Old Baldy
+2023-12-03 17:13:46,043 - DEBUG - Conflated duplicate: Olmutz
+2023-12-03 17:13:46,043 - DEBUG - Conflated duplicate: Oran
+2023-12-03 17:13:46,043 - DEBUG - Conflated duplicate: Oran
+2023-12-03 17:13:46,043 - DEBUG - Conflated duplicate: Oran
+2023-12-03 17:13:46,043 - DEBUG - Conflated duplicate: Oran
+2023-12-03 17:13:46,043 - DEBUG - Conflated duplicate: Orbigo
+2023-12-03 17:13:46,043 - DEBUG - Conflated duplicate: Orel
+2023-12-03 17:13:46,043 - DEBUG - Conflated duplicate: Orenburg
+2023-12-03 17:13:46,043 - DEBUG - Conflated duplicate: Orleans
+2023-12-03 17:13:46,043 - DEBUG - Conflated duplicate: Orleans
+2023-12-03 17:13:46,043 - DEBUG - Conflated duplicate: Orsova
+2023-12-03 17:13:46,044 - DEBUG - Conflated duplicate: Orthez
+2023-12-03 17:13:46,044 - DEBUG - Conflated duplicate: Ostend
+2023-12-03 17:13:46,044 - DEBUG - Conflated duplicate: Ostia
+2023-12-03 17:13:46,044 - DEBUG - Conflated duplicate: Ostrolenka
+2023-12-03 17:13:46,044 - DEBUG - Conflated duplicate: Otranto
+2023-12-03 17:13:46,044 - DEBUG - Conflated duplicate: Ourcq
+2023-12-03 17:13:46,044 - DEBUG - Conflated duplicate: Oveida
+2023-12-03 17:13:46,044 - DEBUG - Conflated duplicate: Palace
+2023-12-03 17:13:46,044 - DEBUG - Conflated duplicate: Palermo
+2023-12-03 17:13:46,044 - DEBUG - Conflated duplicate: Palermo
+2023-12-03 17:13:46,044 - DEBUG - Conflated duplicate: Palermo
+2023-12-03 17:13:46,044 - DEBUG - Conflated duplicate: Palermo
+2023-12-03 17:13:46,044 - DEBUG - Conflated duplicate: Palermo
+2023-12-03 17:13:46,044 - DEBUG - Conflated duplicate: Palermo
+2023-12-03 17:13:46,044 - DEBUG - Conflated duplicate: Palmar, Mexico
+2023-12-03 17:13:46,044 - DEBUG - Conflated duplicate: Palmyra
+2023-12-03 17:13:46,044 - DEBUG - Conflated duplicate: Panama
+2023-12-03 17:13:46,044 - DEBUG - Conflated duplicate: Panhala
+2023-12-03 17:13:46,044 - DEBUG - Conflated duplicate: Panhala
+2023-12-03 17:13:46,044 - DEBUG - Conflated duplicate: Panipat
+2023-12-03 17:13:46,044 - DEBUG - Conflated duplicate: Panipat
+2023-12-03 17:13:46,044 - DEBUG - Conflated duplicate: Panjshir Valley
+2023-12-03 17:13:46,044 - DEBUG - Conflated duplicate: Paris
+2023-12-03 17:13:46,044 - DEBUG - Conflated duplicate: Paris
+2023-12-03 17:13:46,044 - DEBUG - Conflated duplicate: Paris
+2023-12-03 17:13:46,045 - DEBUG - Conflated duplicate: Paris
+2023-12-03 17:13:46,045 - DEBUG - Conflated duplicate: Paris
+2023-12-03 17:13:46,045 - DEBUG - Conflated duplicate: Paris
+2023-12-03 17:13:46,045 - DEBUG - Conflated duplicate: Paris
+2023-12-03 17:13:46,045 - DEBUG - Conflated duplicate: Parma
+2023-12-03 17:13:46,045 - DEBUG - Conflated duplicate: Parwan Durrah
+2023-12-03 17:13:46,045 - DEBUG - Conflated duplicate: Pasaquina
+2023-12-03 17:13:46,045 - DEBUG - Conflated duplicate: Patna
+2023-12-03 17:13:46,045 - DEBUG - Conflated duplicate: Patras
+2023-12-03 17:13:46,045 - DEBUG - Conflated duplicate: Pavia
+2023-12-03 17:13:46,045 - DEBUG - Conflated duplicate: Pavia
+2023-12-03 17:13:46,045 - DEBUG - Conflated duplicate: Pavia
+2023-12-03 17:13:46,045 - DEBUG - Conflated duplicate: Pavia
+2023-12-03 17:13:46,045 - DEBUG - Conflated duplicate: Pegu
+2023-12-03 17:13:46,045 - DEBUG - Conflated duplicate: Pegu
+2023-12-03 17:13:46,045 - DEBUG - Conflated duplicate: Pegu
+2023-12-03 17:13:46,045 - DEBUG - Conflated duplicate: Pegu
+2023-12-03 17:13:46,045 - DEBUG - Conflated duplicate: Pegu
+2023-12-03 17:13:46,045 - DEBUG - Conflated duplicate: Pelusium
+2023-12-03 17:13:46,045 - DEBUG - Conflated duplicate: Penacerrada
+2023-12-03 17:13:46,045 - DEBUG - Conflated duplicate: Pensacola
+2023-12-03 17:13:46,045 - DEBUG - Conflated duplicate: Pensacola
+2023-12-03 17:13:46,045 - DEBUG - Conflated duplicate: Penselwood
+2023-12-03 17:13:46,045 - DEBUG - Conflated duplicate: Perekop
+2023-12-03 17:13:46,045 - DEBUG - Conflated duplicate: Perekop
+2023-12-03 17:13:46,045 - DEBUG - Conflated duplicate: Perekop
+2023-12-03 17:13:46,045 - DEBUG - Conflated duplicate: Perekop
+2023-12-03 17:13:46,045 - DEBUG - Conflated duplicate: Perinthus
+2023-12-03 17:13:46,045 - DEBUG - Conflated duplicate: Perm
+2023-12-03 17:13:46,045 - DEBUG - Conflated duplicate: Perth
+2023-12-03 17:13:46,046 - DEBUG - Conflated duplicate: Pescadores
+2023-12-03 17:13:46,046 - DEBUG - Conflated duplicate: Peshawar
+2023-12-03 17:13:46,046 - DEBUG - Conflated duplicate: Peshawar
+2023-12-03 17:13:46,046 - DEBUG - Conflated duplicate: Peterwardein
+2023-12-03 17:13:46,046 - DEBUG - Conflated duplicate: Petra
+2023-12-03 17:13:46,046 - DEBUG - Conflated duplicate: Petra
+2023-12-03 17:13:46,046 - DEBUG - Conflated duplicate: Petrograd
+2023-12-03 17:13:46,046 - DEBUG - Conflated duplicate: Pharsalus
+2023-12-03 17:13:46,046 - DEBUG - Conflated duplicate: Philippines
+2023-12-03 17:13:46,046 - DEBUG - Conflated duplicate: Philippopolis
+2023-12-03 17:13:46,046 - DEBUG - Conflated duplicate: Philippsburg
+2023-12-03 17:13:46,046 - DEBUG - Conflated duplicate: Philippsburg
+2023-12-03 17:13:46,046 - DEBUG - Conflated duplicate: Phnom Penh
+2023-12-03 17:13:46,046 - DEBUG - Conflated duplicate: Phnom Penh
+2023-12-03 17:13:46,046 - DEBUG - Conflated duplicate: Piacenza
+2023-12-03 17:13:46,046 - DEBUG - Conflated duplicate: Pingyang
+2023-12-03 17:13:46,046 - DEBUG - Conflated duplicate: Pirna
+2023-12-03 17:13:46,046 - DEBUG - Conflated duplicate: Placentia
+2023-12-03 17:13:46,046 - DEBUG - Conflated duplicate: Placentia
+2023-12-03 17:13:46,046 - DEBUG - Conflated duplicate: Plataea
+2023-12-03 17:13:46,046 - DEBUG - Conflated duplicate: Poitiers
+2023-12-03 17:13:46,046 - DEBUG - Conflated duplicate: Polotsk
+2023-12-03 17:13:46,046 - DEBUG - Conflated duplicate: Poltava
+2023-12-03 17:13:46,046 - DEBUG - Conflated duplicate: Pondicherry
+2023-12-03 17:13:46,046 - DEBUG - Conflated duplicate: Pondicherry
+2023-12-03 17:13:46,047 - DEBUG - Conflated duplicate: Pondicherry
+2023-12-03 17:13:46,047 - DEBUG - Conflated duplicate: Poona
+2023-12-03 17:13:46,047 - DEBUG - Conflated duplicate: Poona
+2023-12-03 17:13:46,047 - DEBUG - Conflated duplicate: Port Arthur
+2023-12-03 17:13:46,047 - DEBUG - Conflated duplicate: Porto Bello
+2023-12-03 17:13:46,047 - DEBUG - Conflated duplicate: Porto Calvo
+2023-12-03 17:13:46,047 - DEBUG - Conflated duplicate: Port Royal, Nova Scotia
+2023-12-03 17:13:46,047 - DEBUG - Conflated duplicate: Port Royal, Nova Scotia
+2023-12-03 17:13:46,047 - DEBUG - Conflated duplicate: Port Royal, Nova Scotia
+2023-12-03 17:13:46,047 - DEBUG - Conflated duplicate: Potidaea
+2023-12-03 17:13:46,047 - DEBUG - Conflated duplicate: Powder
+2023-12-03 17:13:46,047 - DEBUG - Conflated duplicate: Poznan
+2023-12-03 17:13:46,047 - DEBUG - Conflated duplicate: Praga
+2023-12-03 17:13:46,047 - DEBUG - Conflated duplicate: Prague
+2023-12-03 17:13:46,047 - DEBUG - Conflated duplicate: Prague
+2023-12-03 17:13:46,047 - DEBUG - Conflated duplicate: Prague
+2023-12-03 17:13:46,047 - DEBUG - Conflated duplicate: Prague
+2023-12-03 17:13:46,047 - DEBUG - Conflated duplicate: Preston
+2023-12-03 17:13:46,047 - DEBUG - Conflated duplicate: Prome
+2023-12-03 17:13:46,047 - DEBUG - Conflated duplicate: Prome
+2023-12-03 17:13:46,047 - DEBUG - Conflated duplicate: Prome
+2023-12-03 17:13:46,047 - DEBUG - Conflated duplicate: Pskov
+2023-12-03 17:13:46,047 - DEBUG - Conflated duplicate: Puebla
+2023-12-03 17:13:46,047 - DEBUG - Conflated duplicate: Puebla
+2023-12-03 17:13:46,047 - DEBUG - Conflated duplicate: Puebla
+2023-12-03 17:13:46,047 - DEBUG - Conflated duplicate: Puebla
+2023-12-03 17:13:46,047 - DEBUG - Conflated duplicate: Puerto Cabello
+2023-12-03 17:13:46,047 - DEBUG - Conflated duplicate: Pultusk
+2023-12-03 17:13:46,048 - DEBUG - Conflated duplicate: Pydna
+2023-12-03 17:13:46,048 - DEBUG - Conflated duplicate: Pyongyang
+2023-12-03 17:13:46,048 - DEBUG - Conflated duplicate: Pyongyang
+2023-12-03 17:13:46,048 - DEBUG - Conflated duplicate: Pyongyang
+2023-12-03 17:13:46,048 - DEBUG - Conflated duplicate: Pyongyang
+2023-12-03 17:13:46,048 - DEBUG - Conflated duplicate: Qarqar
+2023-12-03 17:13:46,048 - DEBUG - Conflated duplicate: Quebec
+2023-12-03 17:13:46,048 - DEBUG - Conflated duplicate: Quebec
+2023-12-03 17:13:46,048 - DEBUG - Conflated duplicate: Quebec
+2023-12-03 17:13:46,048 - DEBUG - Conflated duplicate: Quebec
+2023-12-03 17:13:46,048 - DEBUG - Conflated duplicate: Quebec
+2023-12-03 17:13:46,048 - DEBUG - Conflated duplicate: Quilmes
+2023-12-03 17:13:46,048 - DEBUG - Conflated duplicate: Raab
+2023-12-03 17:13:46,048 - DEBUG - Conflated duplicate: Rafa
+2023-12-03 17:13:46,048 - DEBUG - Conflated duplicate: Rafa
+2023-12-03 17:13:46,048 - DEBUG - Conflated duplicate: Raigarh
+2023-12-03 17:13:46,048 - DEBUG - Conflated duplicate: Ramleh
+2023-12-03 17:13:46,048 - DEBUG - Conflated duplicate: Ramleh
+2023-12-03 17:13:46,048 - DEBUG - Conflated duplicate: Rangoon
+2023-12-03 17:13:46,048 - DEBUG - Conflated duplicate: Raphia
+2023-12-03 17:13:46,048 - DEBUG - Conflated duplicate: Ras alKhaimah
+2023-12-03 17:13:46,048 - DEBUG - Conflated duplicate: Ratanpur
+2023-12-03 17:13:46,048 - DEBUG - Conflated duplicate: Ravenna
+2023-12-03 17:13:46,048 - DEBUG - Conflated duplicate: Ravenna
+2023-12-03 17:13:46,048 - DEBUG - Conflated duplicate: Ravenna
+2023-12-03 17:13:46,048 - DEBUG - Conflated duplicate: Ravenna
+2023-12-03 17:13:46,048 - DEBUG - Conflated duplicate: Ravenna
+2023-12-03 17:13:46,049 - DEBUG - Conflated duplicate: Ravenna
+2023-12-03 17:13:46,049 - DEBUG - Conflated duplicate: Reading
+2023-12-03 17:13:46,049 - DEBUG - Conflated duplicate: Recife
+2023-12-03 17:13:46,049 - DEBUG - Conflated duplicate: Recife
+2023-12-03 17:13:46,049 - DEBUG - Conflated duplicate: Regensberg
+2023-12-03 17:13:46,049 - DEBUG - Conflated duplicate: Reval
+2023-12-03 17:13:46,049 - DEBUG - Conflated duplicate: Reval
+2023-12-03 17:13:46,049 - DEBUG - Conflated duplicate: Reval
+2023-12-03 17:13:46,049 - DEBUG - Conflated duplicate: Reval
+2023-12-03 17:13:46,049 - DEBUG - Conflated duplicate: Reval
+2023-12-03 17:13:46,049 - DEBUG - Conflated duplicate: Rheims
+2023-12-03 17:13:46,049 - DEBUG - Conflated duplicate: Rheims
+2023-12-03 17:13:46,049 - DEBUG - Conflated duplicate: Rhodes
+2023-12-03 17:13:46,049 - DEBUG - Conflated duplicate: Rhodes
+2023-12-03 17:13:46,049 - DEBUG - Conflated duplicate: Rhodes
+2023-12-03 17:13:46,049 - DEBUG - Conflated duplicate: Rhodes
+2023-12-03 17:13:46,049 - DEBUG - Conflated duplicate: Riga
+2023-12-03 17:13:46,049 - DEBUG - Conflated duplicate: Riga
+2023-12-03 17:13:46,049 - DEBUG - Conflated duplicate: Riga
+2023-12-03 17:13:46,049 - DEBUG - Conflated duplicate: Riga
+2023-12-03 17:13:46,049 - DEBUG - Conflated duplicate: Riga
+2023-12-03 17:13:46,049 - DEBUG - Conflated duplicate: Riga
+2023-12-03 17:13:46,049 - DEBUG - Conflated duplicate: Rimini
+2023-12-03 17:13:46,049 - DEBUG - Conflated duplicate: Rio de Janeiro
+2023-12-03 17:13:46,049 - DEBUG - Conflated duplicate: Rivas
+2023-12-03 17:13:46,049 - DEBUG - Conflated duplicate: Rivas
+2023-12-03 17:13:46,049 - DEBUG - Conflated duplicate: Riyadh
+2023-12-03 17:13:46,049 - DEBUG - Conflated duplicate: Rochester
+2023-12-03 17:13:46,049 - DEBUG - Conflated duplicate: Rochester
+2023-12-03 17:13:46,050 - DEBUG - Conflated duplicate: Rome
+2023-12-03 17:13:46,050 - DEBUG - Conflated duplicate: Rome
+2023-12-03 17:13:46,050 - DEBUG - Conflated duplicate: Rome
+2023-12-03 17:13:46,050 - DEBUG - Conflated duplicate: Rome
+2023-12-03 17:13:46,050 - DEBUG - Conflated duplicate: Rome
+2023-12-03 17:13:46,050 - DEBUG - Conflated duplicate: Rome
+2023-12-03 17:13:46,050 - DEBUG - Conflated duplicate: Rome
+2023-12-03 17:13:46,050 - DEBUG - Conflated duplicate: Rome
+2023-12-03 17:13:46,050 - DEBUG - Conflated duplicate: Roncesvalles
+2023-12-03 17:13:46,050 - DEBUG - Conflated duplicate: Rosas
+2023-12-03 17:13:46,050 - DEBUG - Conflated duplicate: Rosas
+2023-12-03 17:13:46,050 - DEBUG - Conflated duplicate: Rostov
+2023-12-03 17:13:46,050 - DEBUG - Conflated duplicate: Rostov
+2023-12-03 17:13:46,050 - DEBUG - Conflated duplicate: Rostov
+2023-12-03 17:13:46,050 - DEBUG - Conflated duplicate: Rouen
+2023-12-03 17:13:46,050 - DEBUG - Conflated duplicate: Rouen
+2023-12-03 17:13:46,050 - DEBUG - Conflated duplicate: Rouen
+2023-12-03 17:13:46,050 - DEBUG - Conflated duplicate: Roxburgh
+2023-12-03 17:13:46,050 - DEBUG - Conflated duplicate: Roxburgh
+2023-12-03 17:13:46,050 - DEBUG - Conflated duplicate: Sabac
+2023-12-03 17:13:46,050 - DEBUG - Conflated duplicate: Sabac
+2023-12-03 17:13:46,050 - DEBUG - Conflated duplicate: Sabine Pass
+2023-12-03 17:13:46,050 - DEBUG - Conflated duplicate: Sachon
+2023-12-03 17:13:46,050 - DEBUG - Conflated duplicate: Sagar
+2023-12-03 17:13:46,050 - DEBUG - Conflated duplicate: Saguntum
+2023-12-03 17:13:46,050 - DEBUG - Conflated duplicate: Saigon
+2023-12-03 17:13:46,050 - DEBUG - Conflated duplicate: Saigon
+2023-12-03 17:13:46,050 - DEBUG - Conflated duplicate: St Albans
+2023-12-03 17:13:46,051 - DEBUG - Conflated duplicate: St Augustine
+2023-12-03 17:13:46,051 - DEBUG - Conflated duplicate: St Augustine
+2023-12-03 17:13:46,051 - DEBUG - Conflated duplicate: St Augustine
+2023-12-03 17:13:46,051 - DEBUG - Conflated duplicate: St Denis, France
+2023-12-03 17:13:46,051 - DEBUG - Conflated duplicate: St Kitts
+2023-12-03 17:13:46,051 - DEBUG - Conflated duplicate: St Lucia
+2023-12-03 17:13:46,051 - DEBUG - Conflated duplicate: St Lucia
+2023-12-03 17:13:46,051 - DEBUG - Conflated duplicate: St Lucia
+2023-12-03 17:13:46,051 - DEBUG - Conflated duplicate: St Lucia
+2023-12-03 17:13:46,051 - DEBUG - Conflated duplicate: St Quentin
+2023-12-03 17:13:46,051 - DEBUG - Conflated duplicate: St Quentin
+2023-12-03 17:13:46,051 - DEBUG - Conflated duplicate: St Vincent
+2023-12-03 17:13:46,051 - DEBUG - Conflated duplicate: Saintes
+2023-12-03 17:13:46,051 - DEBUG - Conflated duplicate: Salamis, Cyprus
+2023-12-03 17:13:46,051 - DEBUG - Conflated duplicate: Salamis, Cyprus
+2023-12-03 17:13:46,051 - DEBUG - Conflated duplicate: Salonika
+2023-12-03 17:13:46,052 - DEBUG - Conflated duplicate: Salvador
+2023-12-03 17:13:46,052 - DEBUG - Conflated duplicate: Salvador
+2023-12-03 17:13:46,052 - DEBUG - Conflated duplicate: Salvador
+2023-12-03 17:13:46,052 - DEBUG - Conflated duplicate: Samarkand
+2023-12-03 17:13:46,052 - DEBUG - Conflated duplicate: Samarkand
+2023-12-03 17:13:46,052 - DEBUG - Conflated duplicate: Samarkand
+2023-12-03 17:13:46,052 - DEBUG - Conflated duplicate: Sambre
+2023-12-03 17:13:46,052 - DEBUG - Conflated duplicate: Sandomierz
+2023-12-03 17:13:46,052 - DEBUG - Conflated duplicate: Sandwich
+2023-12-03 17:13:46,052 - DEBUG - Conflated duplicate: San Francisco
+2023-12-03 17:13:46,052 - DEBUG - Conflated duplicate: San Isidro
+2023-12-03 17:13:46,052 - DEBUG - Conflated duplicate: San Lorenzo, Mexico
+2023-12-03 17:13:46,052 - DEBUG - Conflated duplicate: San Mateo, Philippines
+2023-12-03 17:13:46,052 - DEBUG - Conflated duplicate: San Saba
+2023-12-03 17:13:46,052 - DEBUG - Conflated duplicate: San Sebastian
+2023-12-03 17:13:46,052 - DEBUG - Conflated duplicate: Santa Cruz de Tenerife
+2023-12-03 17:13:46,052 - DEBUG - Conflated duplicate: Santander
+2023-12-03 17:13:46,052 - DEBUG - Conflated duplicate: Santa Rosa de Copan
+2023-12-03 17:13:46,052 - DEBUG - Conflated duplicate: Santa Rosa de Copan
+2023-12-03 17:13:46,052 - DEBUG - Conflated duplicate: Santiago de Cuba
+2023-12-03 17:13:46,052 - DEBUG - Conflated duplicate: Santo Domingo
+2023-12-03 17:13:46,052 - DEBUG - Conflated duplicate: Santo Domingo
+2023-12-03 17:13:46,052 - DEBUG - Conflated duplicate: Santo Domingo
+2023-12-03 17:13:46,052 - DEBUG - Conflated duplicate: Santo Domingo
+2023-12-03 17:13:46,052 - DEBUG - Conflated duplicate: Santo Domingo
+2023-12-03 17:13:46,052 - DEBUG - Conflated duplicate: Santo Domingo
+2023-12-03 17:13:46,052 - DEBUG - Conflated duplicate: Saragossa
+2023-12-03 17:13:46,053 - DEBUG - Conflated duplicate: Saragossa
+2023-12-03 17:13:46,053 - DEBUG - Conflated duplicate: Saragossa
+2023-12-03 17:13:46,053 - DEBUG - Conflated duplicate: Sarajevo
+2023-12-03 17:13:46,053 - DEBUG - Conflated duplicate: Sarmizegethusa
+2023-12-03 17:13:46,053 - DEBUG - Conflated duplicate: Satara
+2023-12-03 17:13:46,053 - DEBUG - Conflated duplicate: Savandrug
+2023-12-03 17:13:46,053 - DEBUG - Conflated duplicate: Savannah
+2023-12-03 17:13:46,053 - DEBUG - Conflated duplicate: Savannah
+2023-12-03 17:13:46,053 - DEBUG - Conflated duplicate: Schweidnitz
+2023-12-03 17:13:46,053 - DEBUG - Conflated duplicate: Scutari
+2023-12-03 17:13:46,053 - DEBUG - Conflated duplicate: Scutari
+2023-12-03 17:13:46,053 - DEBUG - Conflated duplicate: Seminara
+2023-12-03 17:13:46,053 - DEBUG - Conflated duplicate: Sens
+2023-12-03 17:13:46,053 - DEBUG - Conflated duplicate: Seringapatam
+2023-12-03 17:13:46,053 - DEBUG - Conflated duplicate: Sevastopol
+2023-12-03 17:13:46,053 - DEBUG - Conflated duplicate: Sevastopol
+2023-12-03 17:13:46,053 - DEBUG - Conflated duplicate: Sevastopol
+2023-12-03 17:13:46,053 - DEBUG - Conflated duplicate: Shaho
+2023-12-03 17:13:46,053 - DEBUG - Conflated duplicate: Shanghai
+2023-12-03 17:13:46,053 - DEBUG - Conflated duplicate: Shanghai
+2023-12-03 17:13:46,053 - DEBUG - Conflated duplicate: Shanghai
+2023-12-03 17:13:46,053 - DEBUG - Conflated duplicate: Shanghai
+2023-12-03 17:13:46,053 - DEBUG - Conflated duplicate: Shanhaiguan
+2023-12-03 17:13:46,053 - DEBUG - Conflated duplicate: Shanhaiguan
+2023-12-03 17:13:46,053 - DEBUG - Conflated duplicate: Shiraz
+2023-12-03 17:13:46,054 - DEBUG - Conflated duplicate: Shiraz
+2023-12-03 17:13:46,054 - DEBUG - Conflated duplicate: Shusha
+2023-12-03 17:13:46,054 - DEBUG - Conflated duplicate: Sialkot
+2023-12-03 17:13:46,054 - DEBUG - Conflated duplicate: Sialkot
+2023-12-03 17:13:46,054 - DEBUG - Conflated duplicate: Sidon
+2023-12-03 17:13:46,054 - DEBUG - Conflated duplicate: Sikasso
+2023-12-03 17:13:46,054 - DEBUG - Conflated duplicate: Silarus
+2023-12-03 17:13:46,054 - DEBUG - Conflated duplicate: Silistria
+2023-12-03 17:13:46,054 - DEBUG - Conflated duplicate: Silistria
+2023-12-03 17:13:46,054 - DEBUG - Conflated duplicate: Silistria
+2023-12-03 17:13:46,054 - DEBUG - Conflated duplicate: Silistria
+2023-12-03 17:13:46,054 - DEBUG - Conflated duplicate: Siping
+2023-12-03 17:13:46,054 - DEBUG - Conflated duplicate: Siping
+2023-12-03 17:13:46,054 - DEBUG - Conflated duplicate: Sirhind
+2023-12-03 17:13:46,054 - DEBUG - Conflated duplicate: Sirmium
+2023-12-03 17:13:46,054 - DEBUG - Conflated duplicate: Sirte
+2023-12-03 17:13:46,054 - DEBUG - Conflated duplicate: Siscia
+2023-12-03 17:13:46,054 - DEBUG - Conflated duplicate: Sittang
+2023-12-03 17:13:46,054 - DEBUG - Conflated duplicate: Sluys
+2023-12-03 17:13:46,054 - DEBUG - Conflated duplicate: Sluys
+2023-12-03 17:13:46,054 - DEBUG - Conflated duplicate: Sluys
+2023-12-03 17:13:46,054 - DEBUG - Conflated duplicate: Smolensk
+2023-12-03 17:13:46,054 - DEBUG - Conflated duplicate: Smolensk
+2023-12-03 17:13:46,054 - DEBUG - Conflated duplicate: Smolensk
+2023-12-03 17:13:46,054 - DEBUG - Conflated duplicate: Smolensk
+2023-12-03 17:13:46,054 - DEBUG - Conflated duplicate: Smolensk
+2023-12-03 17:13:46,054 - DEBUG - Conflated duplicate: Smolensk
+2023-12-03 17:13:46,055 - DEBUG - Conflated duplicate: Smolensk
+2023-12-03 17:13:46,055 - DEBUG - Conflated duplicate: Smolensk
+2023-12-03 17:13:46,055 - DEBUG - Conflated duplicate: Smyrna
+2023-12-03 17:13:46,055 - DEBUG - Conflated duplicate: Smyrna
+2023-12-03 17:13:46,055 - DEBUG - Conflated duplicate: Soissons
+2023-12-03 17:13:46,055 - DEBUG - Conflated duplicate: Soissons
+2023-12-03 17:13:46,055 - DEBUG - Conflated duplicate: Soissons
+2023-12-03 17:13:46,055 - DEBUG - Conflated duplicate: Soissons
+2023-12-03 17:13:46,055 - DEBUG - Conflated duplicate: Solomon Forks
+2023-12-03 17:13:46,055 - DEBUG - Conflated duplicate: Solomon Islands
+2023-12-03 17:13:46,055 - DEBUG - Conflated duplicate: Somme
+2023-12-03 17:13:46,055 - DEBUG - Conflated duplicate: Somosierra
+2023-12-03 17:13:46,055 - DEBUG - Conflated duplicate: Son Tay
+2023-12-03 17:13:46,055 - DEBUG - Conflated duplicate: Soor
+2023-12-03 17:13:46,055 - DEBUG - Conflated duplicate: Speyer
+2023-12-03 17:13:46,055 - DEBUG - Conflated duplicate: Springfield, Missouri
+2023-12-03 17:13:46,055 - DEBUG - Conflated duplicate: Steenwijk
+2023-12-03 17:13:46,055 - DEBUG - Conflated duplicate: Stirling
+2023-12-03 17:13:46,055 - DEBUG - Conflated duplicate: Stirling
+2023-12-03 17:13:46,055 - DEBUG - Conflated duplicate: Stirling
+2023-12-03 17:13:46,055 - DEBUG - Conflated duplicate: Stirling
+2023-12-03 17:13:46,055 - DEBUG - Conflated duplicate: Stockach
+2023-12-03 17:13:46,055 - DEBUG - Conflated duplicate: Stralsund
+2023-12-03 17:13:46,055 - DEBUG - Conflated duplicate: Stralsund
+2023-12-03 17:13:46,055 - DEBUG - Conflated duplicate: Stralsund
+2023-12-03 17:13:46,055 - DEBUG - Conflated duplicate: Stralsund
+2023-12-03 17:13:46,055 - DEBUG - Conflated duplicate: Surat
+2023-12-03 17:13:46,056 - DEBUG - Conflated duplicate: Surinam
+2023-12-03 17:13:46,056 - DEBUG - Conflated duplicate: Susangerd
+2023-12-03 17:13:46,056 - DEBUG - Conflated duplicate: Suwayda
+2023-12-03 17:13:46,056 - DEBUG - Conflated duplicate: Suzhou
+2023-12-03 17:13:46,056 - DEBUG - Conflated duplicate: Suzhou
+2023-12-03 17:13:46,056 - DEBUG - Conflated duplicate: Sveaborg
+2023-12-03 17:13:46,056 - DEBUG - Conflated duplicate: Svenskund
+2023-12-03 17:13:46,056 - DEBUG - Conflated duplicate: Syracuse
+2023-12-03 17:13:46,056 - DEBUG - Conflated duplicate: Syracuse
+2023-12-03 17:13:46,056 - DEBUG - Conflated duplicate: Syracuse
+2023-12-03 17:13:46,056 - DEBUG - Conflated duplicate: Syracuse
+2023-12-03 17:13:46,056 - DEBUG - Conflated duplicate: Syracuse
+2023-12-03 17:13:46,056 - DEBUG - Conflated duplicate: Syracuse
+2023-12-03 17:13:46,056 - DEBUG - Conflated duplicate: Syracuse
+2023-12-03 17:13:46,056 - DEBUG - Conflated duplicate: Tabriz
+2023-12-03 17:13:46,056 - DEBUG - Conflated duplicate: Tabriz
+2023-12-03 17:13:46,056 - DEBUG - Conflated duplicate: Tagliamento
+2023-12-03 17:13:46,056 - DEBUG - Conflated duplicate: Taif
+2023-12-03 17:13:46,056 - DEBUG - Conflated duplicate: Taiyuan
+2023-12-03 17:13:46,056 - DEBUG - Conflated duplicate: Taiyuan
+2023-12-03 17:13:46,056 - DEBUG - Conflated duplicate: Tamatave
+2023-12-03 17:13:46,056 - DEBUG - Conflated duplicate: Tampico
+2023-12-03 17:13:46,056 - DEBUG - Conflated duplicate: Tampico
+2023-12-03 17:13:46,056 - DEBUG - Conflated duplicate: Tanagra
+2023-12-03 17:13:46,056 - DEBUG - Conflated duplicate: Tannenberg
+2023-12-03 17:13:46,056 - DEBUG - Conflated duplicate: Tapae
+2023-12-03 17:13:46,056 - DEBUG - Conflated duplicate: Tapae
+2023-12-03 17:13:46,057 - DEBUG - Conflated duplicate: Tara
+2023-12-03 17:13:46,057 - DEBUG - Conflated duplicate: Taranto
+2023-12-03 17:13:46,057 - DEBUG - Conflated duplicate: Taraori
+2023-12-03 17:13:46,057 - DEBUG - Conflated duplicate: Taraori
+2023-12-03 17:13:46,057 - DEBUG - Conflated duplicate: Tarnopol
+2023-12-03 17:13:46,057 - DEBUG - Conflated duplicate: Tarq
+2023-12-03 17:13:46,057 - DEBUG - Conflated duplicate: Tarraco
+2023-12-03 17:13:46,057 - DEBUG - Conflated duplicate: Tarragona
+2023-12-03 17:13:46,057 - DEBUG - Conflated duplicate: Tarsus
+2023-12-03 17:13:46,057 - DEBUG - Conflated duplicate: Tashkent
+2023-12-03 17:13:46,057 - DEBUG - Conflated duplicate: Tauromenium
+2023-12-03 17:13:46,057 - DEBUG - Conflated duplicate: Tegucicalpa
+2023-12-03 17:13:46,057 - DEBUG - Conflated duplicate: Tegucicalpa
+2023-12-03 17:13:46,057 - DEBUG - Conflated duplicate: Temesvar
+2023-12-03 17:13:46,057 - DEBUG - Conflated duplicate: Temesvar
+2023-12-03 17:13:46,057 - DEBUG - Conflated duplicate: Temesvar
+2023-12-03 17:13:46,057 - DEBUG - Conflated duplicate: Tenochtitlan
+2023-12-03 17:13:46,057 - DEBUG - Conflated duplicate: Terek
+2023-12-03 17:13:46,057 - DEBUG - Conflated duplicate: Texel
+2023-12-03 17:13:46,057 - DEBUG - Conflated duplicate: Tezin
+2023-12-03 17:13:46,057 - DEBUG - Conflated duplicate: Thana
+2023-12-03 17:13:46,057 - DEBUG - Conflated duplicate: Thang Long
+2023-12-03 17:13:46,057 - DEBUG - Conflated duplicate: Thang Long
+2023-12-03 17:13:46,057 - DEBUG - Conflated duplicate: Thermopylae
+2023-12-03 17:13:46,057 - DEBUG - Conflated duplicate: Thermopylae
+2023-12-03 17:13:46,057 - DEBUG - Conflated duplicate: Thessalonica
+2023-12-03 17:13:46,057 - DEBUG - Conflated duplicate: Thessalonica
+2023-12-03 17:13:46,057 - DEBUG - Conflated duplicate: Thessalonica
+2023-12-03 17:13:46,058 - DEBUG - Conflated duplicate: Thessalonica
+2023-12-03 17:13:46,058 - DEBUG - Conflated duplicate: Thionville
+2023-12-03 17:13:46,058 - DEBUG - Conflated duplicate: Thionville
+2023-12-03 17:13:46,058 - DEBUG - Conflated duplicate: Tianjin
+2023-12-03 17:13:46,058 - DEBUG - Conflated duplicate: Tianjin
+2023-12-03 17:13:46,058 - DEBUG - Conflated duplicate: Tiruvadi
+2023-12-03 17:13:46,058 - DEBUG - Conflated duplicate: Tiruvadi
+2023-12-03 17:13:46,058 - DEBUG - Conflated duplicate: Tizzi Azza
+2023-12-03 17:13:46,058 - DEBUG - Conflated duplicate: Tobruk
+2023-12-03 17:13:46,058 - DEBUG - Conflated duplicate: Tokar
+2023-12-03 17:13:46,058 - DEBUG - Conflated duplicate: Tongguan
+2023-12-03 17:13:46,058 - DEBUG - Conflated duplicate: TorbatiJam
+2023-12-03 17:13:46,058 - DEBUG - Conflated duplicate: Torgovaya
+2023-12-03 17:13:46,058 - DEBUG - Conflated duplicate: Torreon
+2023-12-03 17:13:46,058 - DEBUG - Conflated duplicate: Tortosa
+2023-12-03 17:13:46,058 - DEBUG - Conflated duplicate: Toulon
+2023-12-03 17:13:46,058 - DEBUG - Conflated duplicate: Toulon
+2023-12-03 17:13:46,058 - DEBUG - Conflated duplicate: Toulon
+2023-12-03 17:13:46,058 - DEBUG - Conflated duplicate: Toulouse
+2023-12-03 17:13:46,058 - DEBUG - Conflated duplicate: Toulouse
+2023-12-03 17:13:46,058 - DEBUG - Conflated duplicate: Toulouse
+2023-12-03 17:13:46,058 - DEBUG - Conflated duplicate: Toulouse
+2023-12-03 17:13:46,058 - DEBUG - Conflated duplicate: Toulouse
+2023-12-03 17:13:46,058 - DEBUG - Conflated duplicate: Tournai
+2023-12-03 17:13:46,058 - DEBUG - Conflated duplicate: Tournai
+2023-12-03 17:13:46,058 - DEBUG - Conflated duplicate: Tournai
+2023-12-03 17:13:46,059 - DEBUG - Conflated duplicate: Trebbia
+2023-12-03 17:13:46,059 - DEBUG - Conflated duplicate: Trembowla
+2023-12-03 17:13:46,059 - DEBUG - Conflated duplicate: Trichinopoly
+2023-12-03 17:13:46,059 - DEBUG - Conflated duplicate: Trichinopoly
+2023-12-03 17:13:46,059 - DEBUG - Conflated duplicate: Trichinopoly
+2023-12-03 17:13:46,059 - DEBUG - Conflated duplicate: Trincomalee
+2023-12-03 17:13:46,059 - DEBUG - Conflated duplicate: Trincomalee
+2023-12-03 17:13:46,059 - DEBUG - Conflated duplicate: Trincomalee
+2023-12-03 17:13:46,059 - DEBUG - Conflated duplicate: Tripoli, Lebanon
+2023-12-03 17:13:46,059 - DEBUG - Conflated duplicate: Tripoli, Lebanon
+2023-12-03 17:13:46,059 - DEBUG - Conflated duplicate: Tripoli, Libya
+2023-12-03 17:13:46,059 - DEBUG - Conflated duplicate: Tripoli, Libya
+2023-12-03 17:13:46,059 - DEBUG - Conflated duplicate: Tripoli, Libya
+2023-12-03 17:13:46,059 - DEBUG - Conflated duplicate: Tripoli, Libya
+2023-12-03 17:13:46,059 - DEBUG - Conflated duplicate: Tsaritsyn
+2023-12-03 17:13:46,059 - DEBUG - Conflated duplicate: Tunis
+2023-12-03 17:13:46,059 - DEBUG - Conflated duplicate: Tunis
+2023-12-03 17:13:46,059 - DEBUG - Conflated duplicate: Tunis
+2023-12-03 17:13:46,059 - DEBUG - Conflated duplicate: Turin
+2023-12-03 17:13:46,059 - DEBUG - Conflated duplicate: Turin
+2023-12-03 17:13:46,059 - DEBUG - Conflated duplicate: Turin
+2023-12-03 17:13:46,059 - DEBUG - Conflated duplicate: Turnhout
+2023-12-03 17:13:46,059 - DEBUG - Conflated duplicate: Tuyuti
+2023-12-03 17:13:46,059 - DEBUG - Conflated duplicate: Tyre
+2023-12-03 17:13:46,059 - DEBUG - Conflated duplicate: Tyre
+2023-12-03 17:13:46,059 - DEBUG - Conflated duplicate: Tyre
+2023-12-03 17:13:46,059 - DEBUG - Conflated duplicate: Tyre
+2023-12-03 17:13:46,059 - DEBUG - Conflated duplicate: Ucles
+2023-12-03 17:13:46,059 - DEBUG - Conflated duplicate: Ufa
+2023-12-03 17:13:46,060 - DEBUG - Conflated duplicate: Ulm
+2023-12-03 17:13:46,060 - DEBUG - Conflated duplicate: Ulsan
+2023-12-03 17:13:46,060 - DEBUG - Conflated duplicate: Uman
+2023-12-03 17:13:46,060 - DEBUG - Conflated duplicate: Ushant
+2023-12-03 17:13:46,060 - DEBUG - Conflated duplicate: Ushant
+2023-12-03 17:13:46,060 - DEBUG - Conflated duplicate: Ushant
+2023-12-03 17:13:46,060 - DEBUG - Conflated duplicate: Utica (st)
+2023-12-03 17:13:46,060 - DEBUG - Conflated duplicate: Valencia, Alcantara
+2023-12-03 17:13:46,060 - DEBUG - Conflated duplicate: Valencia, Valencia
+2023-12-03 17:13:46,060 - DEBUG - Conflated duplicate: Valencia, Valencia
+2023-12-03 17:13:46,060 - DEBUG - Conflated duplicate: Valencia, Valencia
+2023-12-03 17:13:46,060 - DEBUG - Conflated duplicate: Valenciennes
+2023-12-03 17:13:46,060 - DEBUG - Conflated duplicate: Valenciennes
+2023-12-03 17:13:46,060 - DEBUG - Conflated duplicate: Valparaiso
+2023-12-03 17:13:46,060 - DEBUG - Conflated duplicate: Varberg
+2023-12-03 17:13:46,060 - DEBUG - Conflated duplicate: Vardar
+2023-12-03 17:13:46,060 - DEBUG - Conflated duplicate: Varna
+2023-12-03 17:13:46,060 - DEBUG - Conflated duplicate: Velletri
+2023-12-03 17:13:46,060 - DEBUG - Conflated duplicate: Vellore
+2023-12-03 17:13:46,060 - DEBUG - Conflated duplicate: Venice
+2023-12-03 17:13:46,060 - DEBUG - Conflated duplicate: Veracruz
+2023-12-03 17:13:46,060 - DEBUG - Conflated duplicate: Veracruz
+2023-12-03 17:13:46,060 - DEBUG - Conflated duplicate: Veracruz
+2023-12-03 17:13:46,060 - DEBUG - Conflated duplicate: Verdun
+2023-12-03 17:13:46,060 - DEBUG - Conflated duplicate: Verdun
+2023-12-03 17:13:46,061 - DEBUG - Conflated duplicate: Verdun
+2023-12-03 17:13:46,061 - DEBUG - Conflated duplicate: Verona
+2023-12-03 17:13:46,061 - DEBUG - Conflated duplicate: Verona
+2023-12-03 17:13:46,061 - DEBUG - Conflated duplicate: Verona
+2023-12-03 17:13:46,061 - DEBUG - Conflated duplicate: Verona
+2023-12-03 17:13:46,061 - DEBUG - Conflated duplicate: Vicenza
+2023-12-03 17:13:46,061 - DEBUG - Conflated duplicate: Vienna
+2023-12-03 17:13:46,061 - DEBUG - Conflated duplicate: Vienna
+2023-12-03 17:13:46,061 - DEBUG - Conflated duplicate: Vienna
+2023-12-03 17:13:46,061 - DEBUG - Conflated duplicate: Vienna
+2023-12-03 17:13:46,061 - DEBUG - Conflated duplicate: Vienna
+2023-12-03 17:13:46,061 - DEBUG - Conflated duplicate: Vienne
+2023-12-03 17:13:46,061 - DEBUG - Conflated duplicate: Vientiane
+2023-12-03 17:13:46,061 - DEBUG - Conflated duplicate: Villafranca
+2023-12-03 17:13:46,061 - DEBUG - Conflated duplicate: Villagarcia
+2023-12-03 17:13:46,061 - DEBUG - Conflated duplicate: Villmergen
+2023-12-03 17:13:46,061 - DEBUG - Conflated duplicate: Vilna
+2023-12-03 17:13:46,061 - DEBUG - Conflated duplicate: Vilna
+2023-12-03 17:13:46,061 - DEBUG - Conflated duplicate: Vilna
+2023-12-03 17:13:46,061 - DEBUG - Conflated duplicate: Vitebsk
+2023-12-03 17:13:46,061 - DEBUG - Conflated duplicate: Volturno
+2023-12-03 17:13:46,061 - DEBUG - Conflated duplicate: Voronezh
+2023-12-03 17:13:46,061 - DEBUG - Conflated duplicate: Vyazma
+2023-12-03 17:13:46,061 - DEBUG - Conflated duplicate: Vyborg
+2023-12-03 17:13:46,061 - DEBUG - Conflated duplicate: Vyborg
+2023-12-03 17:13:46,061 - DEBUG - Conflated duplicate: Waihand
+2023-12-03 17:13:46,061 - DEBUG - Conflated duplicate: Wakefield
+2023-12-03 17:13:46,061 - DEBUG - Conflated duplicate: Walcheren
+2023-12-03 17:13:46,062 - DEBUG - Conflated duplicate: Warangal
+2023-12-03 17:13:46,062 - DEBUG - Conflated duplicate: Warsaw
+2023-12-03 17:13:46,062 - DEBUG - Conflated duplicate: Warsaw
+2023-12-03 17:13:46,062 - DEBUG - Conflated duplicate: Warsaw
+2023-12-03 17:13:46,062 - DEBUG - Conflated duplicate: Warsaw (st)
+2023-12-03 17:13:46,062 - DEBUG - Conflated duplicate: Warsaw
+2023-12-03 17:13:46,062 - DEBUG - Conflated duplicate: Warsaw
+2023-12-03 17:13:46,062 - DEBUG - Conflated duplicate: Warsaw
+2023-12-03 17:13:46,062 - DEBUG - Conflated duplicate: Warsaw
+2023-12-03 17:13:46,062 - DEBUG - Conflated duplicate: Waterford
+2023-12-03 17:13:46,063 - DEBUG - Conflated duplicate: Weinsberg
+2023-12-03 17:13:46,063 - DEBUG - Conflated duplicate: Wenden
+2023-12-03 17:13:46,063 - DEBUG - Conflated duplicate: Wesel
+2023-12-03 17:13:46,063 - DEBUG - Conflated duplicate: Wilton
+2023-12-03 17:13:46,063 - DEBUG - Conflated duplicate: Winchester, Virginia
+2023-12-03 17:13:46,063 - DEBUG - Conflated duplicate: Wissembourg
+2023-12-03 17:13:46,063 - DEBUG - Conflated duplicate: Withlacoochee
+2023-12-03 17:13:46,063 - DEBUG - Conflated duplicate: Wodnesbeorg
+2023-12-03 17:13:46,063 - DEBUG - Conflated duplicate: Wuchang
+2023-12-03 17:13:46,063 - DEBUG - Conflated duplicate: Wuchang
+2023-12-03 17:13:46,063 - DEBUG - Conflated duplicate: Wuchang
+2023-12-03 17:13:46,063 - DEBUG - Conflated duplicate: Wuchang
+2023-12-03 17:13:46,063 - DEBUG - Conflated duplicate: Wurzburg
+2023-12-03 17:13:46,063 - DEBUG - Conflated duplicate: Xiangyang
+2023-12-03 17:13:46,063 - DEBUG - Conflated duplicate: Xuzhou
+2023-12-03 17:13:46,063 - DEBUG - Conflated duplicate: Yamazaki
+2023-12-03 17:13:46,063 - DEBUG - Conflated duplicate: Yarmuk
+2023-12-03 17:13:46,064 - DEBUG - Conflated duplicate: York, England
+2023-12-03 17:13:46,064 - DEBUG - Conflated duplicate: York, England
+2023-12-03 17:13:46,064 - DEBUG - Conflated duplicate: Yorktown
+2023-12-03 17:13:46,064 - DEBUG - Conflated duplicate: Ypres
+2023-12-03 17:13:46,064 - DEBUG - Conflated duplicate: Ypres
+2023-12-03 17:13:46,064 - DEBUG - Conflated duplicate: Ypres
+2023-12-03 17:13:46,064 - DEBUG - Conflated duplicate: Zab
+2023-12-03 17:13:46,064 - DEBUG - Conflated duplicate: Zamora
+2023-12-03 17:13:46,064 - DEBUG - Conflated duplicate: Zanzibar
+2023-12-03 17:13:46,064 - DEBUG - Conflated duplicate: Zapote Bridge
+2023-12-03 17:13:46,064 - DEBUG - Conflated duplicate: Zara
+2023-12-03 17:13:46,064 - DEBUG - Conflated duplicate: Zela
+2023-12-03 17:13:46,064 - DEBUG - Conflated duplicate: Zhenjiang
+2023-12-03 17:13:46,064 - DEBUG - Conflated duplicate: Zieriksee
+2023-12-03 17:13:46,064 - DEBUG - Conflated duplicate: Zitacuaro
+2023-12-03 17:13:46,064 - DEBUG - Conflated duplicate: Zutphen
+2023-12-03 17:13:46,410 - INFO - Processed data saved to: Processed_LPF_Conflated.json
