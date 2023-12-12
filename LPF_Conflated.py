@@ -1,94 +1,107 @@
 import csv
 import json
 import logging
+import math
 
-#TODO Kandahar is gone, put it back
-#TODO: Fix IDs such that they are integers
-#TODO: Possibly convert coordinates to miles, as longitude changes with the curves of the Earth
-#Use the proper GIS coordinate system
-#Make sure the years go from lowest to greatest and titles matches order
-#Add battles year to value description
-
+# Set up logging
 logging.basicConfig(filename='lpf_processing.log', level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
-def are_coordinates_close(coord1, coord2, threshold=0.1):
+# Function to calculate distance using Haversine formula
+def haversine(coord1, coord2):
+    R = 6371.0  # Earth radius in kilometers
+
+    lat1, lon1 = coord1
+    lat2, lon2 = coord2
+
+    phi1, phi2 = math.radians(lat1), math.radians(lat2)
+    delta_phi = math.radians(lat2 - lat1)
+    delta_lambda = math.radians(lon2 - lon1)
+
+    a = math.sin(delta_phi / 2)**2 + math.cos(phi1) * math.cos(phi2) * math.sin(delta_lambda / 2)**2
+    c = 2 * math.atan2(math.sqrt(a), math.sqrt(1 - a))
+
+    distance = R * c
+    return distance
+
+# Function to check if two sets of coordinates are close to each other
+def are_coordinates_close(coord1, coord2, threshold=1.1265):  # Threshold in kilometers (0.7 miles)
     if coord1 is None or coord2 is None:
         return False
-    return abs(coord1[0] - coord2[0]) <= threshold and abs(coord1[1] - coord2[1]) <= threshold
+    distance = haversine(coord1, coord2)
+    return distance <= threshold
 
+# Function to check the validity of coordinates
+def is_valid_coord(longitude, latitude):
+    try:
+        longitude = float(longitude)
+        latitude = float(latitude)
+        return -180 <= longitude <= 180 and -90 <= latitude <= 90
+    except ValueError:
+        return False
+
+# Function to process the CSV and create JSON with conflation of duplicates
 def process_csv_conflate_duplicates(csv_file_path):
-    events = []
-
-    with open(csv_file_path, encoding='utf-8') as csv_file:
-        csv_reader = csv.reader(csv_file)
-        next(csv_reader)
-
-        for row in csv_reader:
-            (
-                id, title, _, start_year, _, _, country_code, _,
-                _, identifier, _, longitude, latitude, *rest
-            ) = row
-
-            description = rest[-3].strip("[]' ") if len(rest) >= 3 else ''
-            coordinates = (float(longitude), float(latitude)) if longitude and latitude else None
-
-            event = {
-                "id": id,
-                "title": title,
-                "country_code": country_code,
-                "identifier": identifier,
-                "start": start_year,
-                "description": description,
-                "coordinates": coordinates
-            }
-            events.append(event)
-
     conflated_events = {}
 
-    for event in events:
-        title = event["title"]
-        coordinates = event["coordinates"]
+    with open(csv_file_path, encoding='utf-8') as csv_file:
+        csv_reader = csv.DictReader(csv_file)
 
-        if title in conflated_events:
-            existing_event = conflated_events[title]
-            existing_coordinates = existing_event['coordinates']
+        for row in csv_reader:
+            id = row['id']
+            title = row['title']
+            year = row['start']
+            country_code = row['ccodes']
+            identifier = row['aat_types']
+            longitude = row['lon']
+            latitude = row['lat']
+            description = row['description'] if row['description'] else "No description provided"
 
-            if are_coordinates_close(coordinates, existing_coordinates):
-                existing_event['timespans'].add(event['start'])
-                existing_event['descriptions'].add(event['description'])
-                existing_event['battle_count'] += 1
-            else:
-                modified_title = f"{title}_{coordinates}"
-                conflated_events[modified_title] = {
-                    'timespans': {event['start']},
-                    'descriptions': {event['description']},
-                    'battle_count': 1,
-                    'country_code': event['country_code'],
-                    'identifier': event['identifier'],
-                    'coordinates': event['coordinates']
+            # Skip rows with invalid or missing coordinates
+            if not is_valid_coord(longitude, latitude):
+                logging.error(f"Invalid coordinates for {title}: {longitude}, {latitude}")
+                continue
+            
+            # Convert coordinates to float
+            coordinates = (float(longitude), float(latitude))
+
+            # Create a unique description that includes the year
+            year_description = f"{description} ({year})"
+
+            if title not in conflated_events:
+                conflated_events[title] = {
+                    'id': id,
+                    'timespans': [],
+                    'descriptions': [],
+                    'battle_count': 0,
+                    'country_code': country_code,
+                    'identifier': identifier,
+                    'coordinates': coordinates,
+                    'toponyms': [title]
                 }
 
-        else:
-            conflated_events[title] = {
-                'timespans': {event['start']},
-                'descriptions': {event['description']},
-                'battle_count': 1,
-                'country_code': event['country_code'],
-                'identifier': event['identifier'],
-                'coordinates': event['coordinates']
-            }
+            event = conflated_events[title]
+            if not any(coord == coordinates for coord in event['coordinates']):
+                event['timespans'].append(year)
+                event['descriptions'].append(year_description)
+                event['battle_count'] += 1
 
+    # Sort timespans chronologically and format descriptions
+    for title, data in conflated_events.items():
+        data['timespans'].sort()
+        data['descriptions'] = "; ".join(data['descriptions']) + " -" + f" (Number of battles: {data['battle_count']})"
+
+    # Creating the final JSON structure
     features = []
     for title, data in conflated_events.items():
         feature = {
-            "@id": title,
+            "@id": data['id'],
             "type": "Feature",
             "properties": {
                 "title": title,
                 "ccodes": [data['country_code']] if data['country_code'] else []
             },
             "when": {
-                "timespans": [{"start": {"in": "; ".join(sorted(data['timespans']))}}]
+                "timespans": [{"start": {"in": "; ".join(data['timespans'])}}]
             },
             "types": [
                 {
@@ -96,12 +109,12 @@ def process_csv_conflate_duplicates(csv_file_path):
                     "label": "battlefield"
                 }
             ],
-            "names": [{"toponym": title}],
+            "names": [{"toponym": toponym} for toponym in data['toponyms']],
             "geometry": {
                 "type": "Point",
                 "coordinates": data['coordinates']
             },
-            "descriptions": [{"value": f"{'; '.join(data['descriptions'])} (Number of battles: {data['battle_count']})"}]
+            "descriptions": [{"value": data['descriptions']}]
         }
         features.append(feature)
 
@@ -113,11 +126,16 @@ def process_csv_conflate_duplicates(csv_file_path):
 
     return lpf_data
 
-csv_file_path = 'Original.csv'
-lpf_json_data = process_csv_conflate_duplicates(csv_file_path)
+# Main execution block
+def main():
+    csv_file_path = 'Original.csv'
+    lpf_json_data = process_csv_conflate_duplicates(csv_file_path)
 
-output_json_file_path = 'Processed_LPF_Conflated.json'
-with open(output_json_file_path, 'w', encoding='utf-8') as json_file:
-    json.dump(lpf_json_data, json_file, indent=4)
+    output_json_file_path = 'LPF_Conflated.geojson'
+    with open(output_json_file_path, 'w', encoding='utf-8') as json_file:
+        json.dump(lpf_json_data, json_file, indent=4)
 
-logging.info("Processed data saved to: " + output_json_file_path)
+    logging.info("Processed data saved to: " + output_json_file_path)
+
+if __name__ == "__main__":
+    main()
