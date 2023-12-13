@@ -24,7 +24,7 @@ def haversine(coord1, coord2):
     return distance
 
 # Function to check if two sets of coordinates are close to each other
-def are_coordinates_close(coord1, coord2, threshold=1.1265):  # Threshold in kilometers (0.7 miles)
+def are_coordinates_close(coord1, coord2, threshold=1.1):  # Threshold in kilometers (0.7 miles)
     if coord1 is None or coord2 is None:
         return False
     distance = haversine(coord1, coord2)
@@ -56,23 +56,25 @@ def process_csv_conflate_duplicates(csv_file_path):
             latitude = row['lat']
             description = row['description'] if row['description'] else "No description provided"
 
-            # Skip rows with invalid or missing coordinates
-            if not is_valid_coord(longitude, latitude):
-                logging.error(f"Invalid coordinates for {title}: {longitude}, {latitude}")
-                continue
-            
-            # Convert coordinates to float
-            coordinates = (float(longitude), float(latitude))
-
-            # Create a unique description that includes the year
-            year_description = f"{description} ({year})"
+            if is_valid_coord(longitude, latitude):
+                coordinates = (float(longitude), float(latitude))
+                year_description = f"{description} ({year})"
+            else:
+                coordinates = None
+                logging.warning(f"Missing or invalid coordinates for {title}. Using placeholder.")
+                # Include title in the description for entries with missing coordinates
+                year_description = f"{title}: {description} ({year})"
 
             if title not in conflated_events:
+                initial_battle_count = 0
+                if coordinates is None:
+                    initial_battle_count = 1
+
                 conflated_events[title] = {
                     'id': id,
                     'timespans': [],
                     'descriptions': [],
-                    'battle_count': 0,
+                    'battle_count': initial_battle_count,
                     'country_code': country_code,
                     'identifier': identifier,
                     'coordinates': coordinates,
@@ -80,10 +82,14 @@ def process_csv_conflate_duplicates(csv_file_path):
                 }
 
             event = conflated_events[title]
-            if not any(coord == coordinates for coord in event['coordinates']):
+            if coordinates is not None and not any(coord == coordinates for coord in event['coordinates']):
                 event['timespans'].append(year)
                 event['descriptions'].append(year_description)
                 event['battle_count'] += 1
+
+            # For entries with null coordinates, always add the description
+            if coordinates is None:
+                event['descriptions'].append(year_description)
 
     # Sort timespans chronologically and format descriptions
     for title, data in conflated_events.items():
