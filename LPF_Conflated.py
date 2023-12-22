@@ -78,9 +78,12 @@ def process_csv_conflate_duplicates(csv_file_path):
 
             event = conflated_events[title]
 
-            # Always add the year to timespans
-            if year not in event['timespans']:
-                event['timespans'].append(year)
+            # Handle years concatenated with semicolons
+            split_years = year.split(';') if ';' in year else [year]
+            for split_year in split_years:
+                clean_year = split_year.strip()
+                if clean_year not in event['timespans']:
+                    event['timespans'].append(clean_year)
 
             # Add year and description to event_descriptions
             event_description = f"{description} ({year})"
@@ -102,15 +105,18 @@ def process_csv_conflate_duplicates(csv_file_path):
     # Creating the final JSON structure
     features = []
     for title, data in conflated_events.items():
+        timespan_objects = [{"start": {"in": year}} for year in data['timespans']]
+        
         feature = {
             "@id": data['id'],
             "type": "Feature",
             "properties": {
                 "title": title,
-                "ccodes": [data['country_code']] if data['country_code'] else []
+                "ccodes": [data['country_code']] if data['country_code'] else [],
+                "description": data['descriptions']
             },
             "when": {
-                "timespans": [{"start": {"in": "; ".join(data['timespans'])}}]
+                "timespans": timespan_objects
             },
             "types": [
                 {
@@ -121,9 +127,8 @@ def process_csv_conflate_duplicates(csv_file_path):
             "names": [{"toponym": toponym} for toponym in data['toponyms']],
             "geometry": {
                 "type": "Point",
-                "coordinates": data['coordinates']
-            },
-            "descriptions": [{"value": data['descriptions']}]
+                "coordinates": data['coordinates'] if data['coordinates'] else [0, 0]  # Default to 0,0 if coordinates are not valid
+            }
         }
         features.append(feature)
 
