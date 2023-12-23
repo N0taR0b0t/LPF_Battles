@@ -1,0 +1,354 @@
+{
+    "type": "FeatureCollection",
+    "@context": "https://linkedpasts.org/assets/linkedplaces-context-v1.jsonld",
+    "features": [
+        {
+            "@id": "1",
+            "type": "Feature",
+            "properties": {
+                "title": "Aachen",
+                "ccodes": [
+                    "DE"
+                ],
+                "description": "['World War II'] (1944) - (Number of battles: 1)"
+            },
+            "when": {
+                "timespans": [
+                    {
+                        "start": {
+                            "in": "1944"
+                        }
+                    }
+                ]
+            },
+            "types": [
+                {
+                    "identifier": "300000835",
+                    "label": "battlefield"
+                }
+            ],
+            "names": [
+                {
+                    "toponym": "Aachen"
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0838868,
+                    50.7753455
+                ]
+            }
+        },
+        {
+            "@id": "2",
+            "type": "Feature",
+            "properties": {
+                "title": "Aardenburg",
+                "ccodes": [
+                    "NL"
+                ],
+                "description": "3rd Dutch War (1672) - (Number of battles: 1)"
+            },
+            "when": {
+                "timespans": [
+                    {
+                        "start": {
+                            "in": "1672"
+                        }
+                    }
+                ]
+            },
+            "types": [
+                {
+                    "identifier": "300000835",
+                    "label": "battlefield"
+                }
+            ],
+            "names": [
+                {
+                    "toponym": "Aardenburg"
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.4453328,
+                    51.2742727
+                ]
+            }
+        },
+        {
+            "@id": "3",
+            "type": "Feature",
+            "properties": {
+                "title": "Aa River",
+                "ccodes": [
+                    "LV"
+                ],
+                "description": "['World War I'] (1917) - (Number of battles: 1)"
+            },
+            "when": {
+                "timespans": [
+                    {
+                        "start": {
+                            "in": "1917"
+                        }
+                    }
+                ]
+            },
+            "types": [
+                {
+                    "identifier": "300000835",
+                    "label": "battlefield"
+                }
+            ],
+            "names": [
+                {
+                    "toponym": "Aa River"
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5755013,
+                    56.8206989
+                ]
+            }
+        },
+        {
+            "@id": "4",
+            "type": "Feature",
+            "properties": {
+                "title": "Aasle",
+                "ccodes": [
+                    "SE"
+                ],
+                "description": "Wars of Scandinavian Union (1389) - (Number of battles: 1)"
+            },
+            "when": {
+                "timespans": [
+                    {
+                        "start": {
+                            "in": "1389"
+                        }
+                    }
+                ]
+            },
+            "types": [
+                {
+                    "identifier": "300000835",
+                    "label": "battlefield"
+                }
+            ],
+            "names": [
+                {
+                    "toponym": "Aasle"
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6869345,
+                    58.1775353
+                ]
+            }
+        },
+        {
+            "@id": "5",
+            "type": "Feature",
+            "properties": {
+                "title": "Abadan",
+                "ccodes": [
+                    "IR"
+                ],
+                "description": "['Iraq-Iran War'] (1980); ['Iraq-Iran War'] (1981) - (Number of battles: 2)"
+            },
+            "when": {
+                "timespans": [
+                    {
+                        "start": {
+                            "in": "1980"
+                        }
+                    },
+                    {
+                        "start": {
+                            "in": "1981"
+                        }
+                    }
+                ]
+            },
+            "types": [
+                {
+                    "identifier": "300000835",
+                    "label": "battlefield"
+                }
+            ],
+            "names": [
+                {
+                    "toponym": "Abadan"
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.2934004,
+                    30.347296
+                ]
+            }
+        },
+        {
+            "@id": "7",
+            "type": "Feature",
+            "properties": {
+                "title": "Abagana",
+                "ccodes": [
+                    "NG"
+                ],
+                "description": "['Biafran War'] (1968) - (Number of battles: 1)"
+            },
+            "when": {
+                "timespans": [
+                    {
+                        "start": {
+                            "in": "1968"
+                        }
+                    }
+                ]
+            },
+            "types": [
+                {
+                    "identifier": "300000835",
+                    "label": "battlefield"
+                }
+            ],
+            "names": [
+                {
+                    "toponym": "Abagana"
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9799755,
+                    6.1864553
+                ]
+            }
+        },
+        {
+            "@id": "8",
+            "type": "Feature",
+            "properties": {
+                "title": "Abakrampa",
+                "ccodes": [
+                    "GH"
+                ],
+                "description": "2nd British Ashanti War (1873) - (Number of battles: 1)"
+            },
+            "when": {
+                "timespans": [
+                    {
+                        "start": {
+                            "in": "1873"
+                        }
+                    }
+                ]
+            },
+            "types": [
+                {
+                    "identifier": "300000835",
+                    "label": "battlefield"
+                }
+            ],
+            "names": [
+                {
+                    "toponym": "Abakrampa"
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.230904,
+                    5.245212
+                ]
+            }
+        },
+        {
+            "@id": "9",
+            "type": "Feature",
+            "properties": {
+                "title": "Abancay",
+                "ccodes": [
+                    "PE"
+                ],
+                "description": "['Civil War'] (1537) - (Number of battles: 1)"
+            },
+            "when": {
+                "timespans": [
+                    {
+                        "start": {
+                            "in": "1537"
+                        }
+                    }
+                ]
+            },
+            "types": [
+                {
+                    "identifier": "300000835",
+                    "label": "battlefield"
+                }
+            ],
+            "names": [
+                {
+                    "toponym": "Abancay"
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.8929,
+                    -13.6391954
+                ]
+            }
+        },
+        {
+            "@id": "10",
+            "type": "Feature",
+            "properties": {
+                "title": "Abbasabad",
+                "ccodes": [
+                    "IR"
+                ],
+                "description": "Russo-Persian Wars (1827) - (Number of battles: 1)"
+            },
+            "when": {
+                "timespans": [
+                    {
+                        "start": {
+                            "in": "1827"
+                        }
+                    }
+                ]
+            },
+            "types": [
+                {
+                    "identifier": "300000835",
+                    "label": "battlefield"
+                }
+            ],
+            "names": [
+                {
+                    "toponym": "Abbasabad"
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.1141183,
+                    36.7240776
+                ]
+            }
+        }
+    ]
+
+}
