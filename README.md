@@ -9,6 +9,7 @@ Descriptions Field: Modify the script to ensure that each description is an indi
 Remove "Number of Battles": The phrase "- (Number of battles: X)" should be removed from the description.
 
 NOTE:
+
 In the original data, there are edge cases where the data is not formatted consistently, such as the entry for the 2003 Baghdad Conflict:
 
 Baghdad	Historical Conflict Event Dataset	2003				['Gulf War                         War']
