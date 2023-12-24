@@ -1,7 +1,3 @@
-As of December 23rd 2023, neither LPF_Conflated.geojson nor sample.geojson were able to be uploaded to the WHG website.
-
-All upload attempts fail with no error message.
-
 Newly Implemented Features (but not yet tested for the purpose of quality assurance):
 
 Descriptions Field: Modified the script to ensure that each description is an individual element in a 'descriptions' list.
