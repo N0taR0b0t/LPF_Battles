@@ -12,4 +12,8 @@ NOTE:
 
 In the original data, there are edge cases where the data is not formatted consistently, such as the entry for the 2003 Baghdad Conflict (each underscore is an empty space):
 
-Baghdad	Historical Conflict Event Dataset	2003				['Gulf War_________________________War']
+Baghdad	Historical Conflict Event Dataset	2003 ['Gulf War_________________________War']
+
+Another example would be the entry for the 1939 conflict in Albania:
+
+Albania	Historical Conflict Event Dataset	1939 ['World War II', 'World War II']
