@@ -17,3 +17,5 @@ Baghdad	Historical Conflict Event Dataset	2003 ['Gulf War_______________________
 Another example would be the entry for the 1939 conflict in Albania:
 
 Albania	Historical Conflict Event Dataset	1939 ['World War II', 'World War II']
+
+I attempted to address unique edge cases, but unfortunately there are many.
