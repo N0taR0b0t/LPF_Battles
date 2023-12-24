@@ -24,11 +24,10 @@ def haversine(coord1, coord2):
     return distance
 
 # Function to check if two sets of coordinates are close to each other
-def are_coordinates_close(coord1, coord2, threshold=0.65):  # Threshold unit is kilometers (0.65 kilometers = 0.4 miles)
+def are_coordinates_close(coord1, coord2, threshold=0.65):  # Threshold unit is kilometers
     if coord1 is None or coord2 is None:
         return False
-    distance = haversine(coord1, coord2)
-    return distance <= threshold
+    return haversine(coord1, coord2) <= threshold
 
 # Function to check the validity of coordinates
 def is_valid_coord(longitude, latitude):
@@ -39,7 +38,9 @@ def is_valid_coord(longitude, latitude):
     except ValueError:
         return False
 
-# Function to process the CSV and create JSON with conflation of duplicates
+def clean_description(description):
+    return description.replace("[", "").replace("]", "").replace("'", "")
+
 def process_csv_conflate_duplicates(csv_file_path):
     conflated_events = {}
 
@@ -51,91 +52,50 @@ def process_csv_conflate_duplicates(csv_file_path):
             title = row['title']
             year = row['start']
             country_code = row['ccodes']
+            # Correcting doubled country codes, e.g., 'MLML' to 'ML'
+            country_code = country_code[:2] if len(country_code) == 4 and country_code[:2] == country_code[2:] else country_code
             identifier = row['aat_types']
             longitude = row['lon']
             latitude = row['lat']
-            description = row['description'] if row['description'] else "No description provided"
+            description = row['description'] if 'description' in row and row['description'] else "No description provided"
+            cleaned_description = clean_description(description)
 
             # Check if coordinates are valid
-            if is_valid_coord(longitude, latitude):
-                coordinates = (float(longitude), float(latitude))
-            else:
-                coordinates = None
+            if not is_valid_coord(longitude, latitude):
                 logging.warning(f"Missing or invalid coordinates for {title}. Using placeholder.")
+                coordinates = [0.0, 0.0]
+            else:
+                coordinates = [float(longitude), float(latitude)]
 
-            # Ensure the entry exists in conflated_events
+            # Create or update the event in the dictionary
             if title not in conflated_events:
                 conflated_events[title] = {
-                    'id': id,
-                    'timespans': [],
-                    'event_descriptions': [],
-                    'battle_count': 0,
-                    'country_code': country_code,
-                    'identifier': identifier,
-                    'coordinates': coordinates,
-                    'toponyms': [title]
+                    '@id': id,
+                    'type': 'Feature',
+                    'properties': {'title': title, 'ccodes': [country_code]},
+                    'when': {'timespans': [{'start': {'in': year}}]},
+                    'names': [{'toponym': title}],
+                    'types': [{'identifier': identifier, 'label': 'battlefield'}],
+                    'geometry': {'type': 'Point', 'coordinates': coordinates},
+                    'descriptions': [{'value': cleaned_description, 'lang': 'en'}]
                 }
+            else:
+                event = conflated_events[title]
+                # Add new timespan if it doesn't exist
+                new_timespan = {'start': {'in': year}}
+                if new_timespan not in event['when']['timespans']:
+                    event['when']['timespans'].append(new_timespan)
+                # Add new description if it's not already in the list
+                if cleaned_description not in [desc['value'] for desc in event['descriptions']]:
+                    event['descriptions'].append({'value': cleaned_description, 'lang': 'en'})
 
-            event = conflated_events[title]
-
-            # Handle years concatenated with semicolons
-            split_years = year.split(';') if ';' in year else [year]
-            for split_year in split_years:
-                clean_year = split_year.strip()
-                if clean_year not in event['timespans']:
-                    event['timespans'].append(clean_year)
-
-            # Add year and description to event_descriptions
-            event_description = f"{description} ({year})"
-            event['event_descriptions'].append((int(year), event_description))
-
-            # Only update battle_count if coordinates are valid
-            if coordinates is not None and not any(coord == coordinates for coord in event['coordinates']):
-                event['battle_count'] += 1
-
-    # Sort timespans chronologically and format descriptions
-    for title, data in conflated_events.items():
-        data['timespans'].sort()
-        # Sort event descriptions by year
-        data['event_descriptions'].sort(key=lambda x: x[0])
-        # Format descriptions
-        data['descriptions'] = "; ".join(desc for _, desc in data['event_descriptions'])
-        data['descriptions'] += " -" + f" (Number of battles: {data['battle_count']})"
-
-    # Creating the final JSON structure
-    features = []
-    for title, data in conflated_events.items():
-        timespan_objects = [{"start": {"in": year}} for year in data['timespans']]
-        
-        feature = {
-            "@id": data['id'],
-            "type": "Feature",
-            "properties": {
-                "title": title,
-                "ccodes": [data['country_code']] if data['country_code'] else [],
-                "description": data['descriptions']
-            },
-            "when": {
-                "timespans": timespan_objects
-            },
-            "types": [
-                {
-                    "identifier": data['identifier'],
-                    "label": "battlefield"
-                }
-            ],
-            "names": [{"toponym": toponym} for toponym in data['toponyms']],
-            "geometry": {
-                "type": "Point",
-                "coordinates": data['coordinates'] if data['coordinates'] else [0, 0]  # Default to 0,0 if coordinates are not valid
-            }
-        }
-        features.append(feature)
+    # Create the final data structure
+    features = [event for event in conflated_events.values()]
 
     lpf_data = {
-        "type": "FeatureCollection",
-        "@context": "https://linkedpasts.org/assets/linkedplaces-context-v1.jsonld",
-        "features": features
+        'type': 'FeatureCollection',
+        '@context': 'https://linkedpasts.org/assets/linkedplaces-context-v1.jsonld',
+        'features': features
     }
 
     return lpf_data
