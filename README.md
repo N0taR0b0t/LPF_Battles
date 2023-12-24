@@ -1,4 +1,4 @@
-<img width="1063" alt="image" src="https://github.com/N0taR0b0t/LPF_Battles/assets/57303583/88900008-9fb9-4cd0-ac19-f057ff92a92b">As of December 23rd 2023, neither LPF_Conflated.geojson nor sample.geojson were able to be uploaded to the WHG website.
+As of December 23rd 2023, neither LPF_Conflated.geojson nor sample.geojson were able to be uploaded to the WHG website.
 
 All upload attempts fail with no error message.
 
