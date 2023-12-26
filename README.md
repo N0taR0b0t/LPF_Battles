@@ -3,6 +3,7 @@ As of December 26th 2023, all upload attempts (for LPF_Conflated.geojson and sam
 Most recent changes:
 
 Each description is now an individual element in a 'descriptions' list.
+
 Removed "Number of Battles".
 
 NOTE:
