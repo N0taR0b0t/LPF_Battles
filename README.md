@@ -1,8 +1,7 @@
-Newly Implemented Features (but not yet tested for the purpose of quality assurance):
 
-Descriptions Field: Modified the script to ensure that each description is an individual element in a 'descriptions' list.
+Each description is now an individual element in a 'descriptions' list.
 
-Removed "Number of Battles": The phrase "- (Number of battles: X)" was removed from the description.
+Removed "Number of Battles".
 
 NOTE:
 
