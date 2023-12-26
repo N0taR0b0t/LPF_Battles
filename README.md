@@ -1,6 +1,8 @@
+As of December 26th 2023, all upload attempts (for LPF_Conflated.geojson and sample.geojson to the WHG website) fail without any warnings or errors.
+
+Most recent changes:
 
 Each description is now an individual element in a 'descriptions' list.
-
 Removed "Number of Battles".
 
 NOTE:
