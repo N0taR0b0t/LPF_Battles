@@ -1,0 +1,393 @@
+{
+    "type": "FeatureCollection",
+    "@context": "https://linkedpasts.org/assets/linkedplaces-context-v1.jsonld",
+    "features": [
+        {
+            "@id": "1",
+            "type": "Feature",
+            "properties": {
+                "title": "Aachen",
+                "ccodes": [
+                    "DE"
+                ]
+            },
+            "when": {
+                "timespans": [
+                    {
+                        "start": {
+                            "in": "1944"
+                        }
+                    }
+                ]
+            },
+            "names": [
+                {
+                    "toponym": "Aachen"
+                }
+            ],
+            "types": [
+                {
+                    "identifier": "300000835",
+                    "label": "battlefield"
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0838868,
+                    50.7753455
+                ]
+            },
+            "descriptions": [
+                {
+                    "value": "World War II",
+                    "lang": "en"
+                }
+            ]
+        },
+        {
+            "@id": "2",
+            "type": "Feature",
+            "properties": {
+                "title": "Aardenburg",
+                "ccodes": [
+                    "NL"
+                ]
+            },
+            "when": {
+                "timespans": [
+                    {
+                        "start": {
+                            "in": "1672"
+                        }
+                    }
+                ]
+            },
+            "names": [
+                {
+                    "toponym": "Aardenburg"
+                }
+            ],
+            "types": [
+                {
+                    "identifier": "300000835",
+                    "label": "battlefield"
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.4453328,
+                    51.2742727
+                ]
+            },
+            "descriptions": [
+                {
+                    "value": "3rd Dutch War",
+                    "lang": "en"
+                }
+            ]
+        },
+        {
+            "@id": "3",
+            "type": "Feature",
+            "properties": {
+                "title": "Aa River",
+                "ccodes": [
+                    "LV"
+                ]
+            },
+            "when": {
+                "timespans": [
+                    {
+                        "start": {
+                            "in": "1917"
+                        }
+                    }
+                ]
+            },
+            "names": [
+                {
+                    "toponym": "Aa River"
+                }
+            ],
+            "types": [
+                {
+                    "identifier": "300000835",
+                    "label": "battlefield"
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5755013,
+                    56.8206989
+                ]
+            },
+            "descriptions": [
+                {
+                    "value": "World War I",
+                    "lang": "en"
+                }
+            ]
+        },
+        {
+            "@id": "4",
+            "type": "Feature",
+            "properties": {
+                "title": "Aasle",
+                "ccodes": [
+                    "SE"
+                ]
+            },
+            "when": {
+                "timespans": [
+                    {
+                        "start": {
+                            "in": "1389"
+                        }
+                    }
+                ]
+            },
+            "names": [
+                {
+                    "toponym": "Aasle"
+                }
+            ],
+            "types": [
+                {
+                    "identifier": "300000835",
+                    "label": "battlefield"
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6869345,
+                    58.1775353
+                ]
+            },
+            "descriptions": [
+                {
+                    "value": "Wars of Scandinavian Union",
+                    "lang": "en"
+                }
+            ]
+        },
+        {
+            "@id": "5",
+            "type": "Feature",
+            "properties": {
+                "title": "Abadan",
+                "ccodes": [
+                    "IR"
+                ]
+            },
+            "when": {
+                "timespans": [
+                    {
+                        "start": {
+                            "in": "1980"
+                        }
+                    },
+                    {
+                        "start": {
+                            "in": "1981"
+                        }
+                    }
+                ]
+            },
+            "names": [
+                {
+                    "toponym": "Abadan"
+                }
+            ],
+            "types": [
+                {
+                    "identifier": "300000835",
+                    "label": "battlefield"
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.2934004,
+                    30.347296
+                ]
+            },
+            "descriptions": [
+                {
+                    "value": "Iraq-Iran War",
+                    "lang": "en"
+                }
+            ]
+        },
+        {
+            "@id": "7",
+            "type": "Feature",
+            "properties": {
+                "title": "Abagana",
+                "ccodes": [
+                    "NG"
+                ]
+            },
+            "when": {
+                "timespans": [
+                    {
+                        "start": {
+                            "in": "1968"
+                        }
+                    }
+                ]
+            },
+            "names": [
+                {
+                    "toponym": "Abagana"
+                }
+            ],
+            "types": [
+                {
+                    "identifier": "300000835",
+                    "label": "battlefield"
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9799755,
+                    6.1864553
+                ]
+            },
+            "descriptions": [
+                {
+                    "value": "Biafran War",
+                    "lang": "en"
+                }
+            ]
+        },
+        {
+            "@id": "8",
+            "type": "Feature",
+            "properties": {
+                "title": "Abakrampa",
+                "ccodes": [
+                    "GH"
+                ]
+            },
+            "when": {
+                "timespans": [
+                    {
+                        "start": {
+                            "in": "1873"
+                        }
+                    }
+                ]
+            },
+            "names": [
+                {
+                    "toponym": "Abakrampa"
+                }
+            ],
+            "types": [
+                {
+                    "identifier": "300000835",
+                    "label": "battlefield"
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.230904,
+                    5.245212
+                ]
+            },
+            "descriptions": [
+                {
+                    "value": "2nd British Ashanti War",
+                    "lang": "en"
+                }
+            ]
+        },
+        {
+            "@id": "9",
+            "type": "Feature",
+            "properties": {
+                "title": "Abancay",
+                "ccodes": [
+                    "PE"
+                ]
+            },
+            "when": {
+                "timespans": [
+                    {
+                        "start": {
+                            "in": "1537"
+                        }
+                    }
+                ]
+            },
+            "names": [
+                {
+                    "toponym": "Abancay"
+                }
+            ],
+            "types": [
+                {
+                    "identifier": "300000835",
+                    "label": "battlefield"
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.8929,
+                    -13.6391954
+                ]
+            },
+            "descriptions": [
+                {
+                    "value": "Civil War",
+                    "lang": "en"
+                }
+            ]
+        },
+        {
+            "@id": "10",
+            "type": "Feature",
+            "properties": {
+                "title": "Abbasabad",
+                "ccodes": [
+                    "IR"
+                ]
+            },
+            "when": {
+                "timespans": [
+                    {
+                        "start": {
+                            "in": "1827"
+                        }
+                    }
+                ]
+            },
+            "names": [
+                {
+                    "toponym": "Abbasabad"
+                }
+            ],
+            "types": [
+                {
+                    "identifier": "300000835",
+                    "label": "battlefield"
+                }
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.1141183,
+                    36.7240776
+                ]
+            }
+        }
+    ]
+
+}
