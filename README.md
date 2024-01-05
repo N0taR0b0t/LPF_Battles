@@ -1,18 +1,17 @@
-As of December 26th 2023, all upload attempts (for LPF_Conflated.geojson and sample.geojson to the WHG website) fail without any warnings or errors.
-
 Most recent changes:
+Paratheses with 3 or less characters between them are deleted
 
-Each description is now an individual element in a 'descriptions' list.
+Excess spaces are deleted
 
-Removed "Number of Battles".
+CCodes no longer are inside of quotes
+
+Year inside of paratheses now appended to descriptions
 
 NOTE:
 
-In the original data, there are edge cases where the data is not formatted consistently, such as the entry for the 2003 Baghdad Conflict (each underscore is an empty space):
+In the original data, there are edge cases where the data is not formatted consistently:
 
-Baghdad	Historical Conflict Event Dataset	2003 ['Gulf War_________________________War']
-
-Another example would be the entry for the 1939 conflict in Albania:
+An example would be the entry for the 1939 conflict in Albania:
 
 Albania	Historical Conflict Event Dataset	1939 ['World War II', 'World War II']
 
