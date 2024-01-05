@@ -1,12 +1,12 @@
 Most recent changes:
 
-Paratheses with 3 or less characters between them are deleted
+Parentheses with 3 or less characters between them are deleted
 
 Excess spaces are replaced with a single space
 
 CCodes are no longer inside of quotes
 
-Year inside of paratheses now appended to descriptions
+Year inside of Parentheses now appended to descriptions
 
 NOTE:
 
