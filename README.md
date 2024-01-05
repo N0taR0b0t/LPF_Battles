@@ -6,7 +6,7 @@ Excess spaces are replaced with a single space
 
 CCodes are no longer inside of quotes
 
-Year inside of Parentheses now appended to descriptions
+Parentheses with year now appended to descriptions
 
 NOTE:
 
