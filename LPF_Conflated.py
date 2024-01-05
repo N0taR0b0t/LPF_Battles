@@ -1,3 +1,4 @@
+import re
 import csv
 import json
 import logging
@@ -5,6 +6,19 @@ import math
 
 # Set up logging
 logging.basicConfig(filename='lpf_processing.log', level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
+
+def unquote_country_codes(json_file_path):
+    # Read the content of the JSON file
+    with open(json_file_path, 'r', encoding='utf-8') as file:
+        content = file.read()
+
+    # Replace quoted country codes in the 'ccodes' array with unquoted ones and ensure the closing bracket is on a new line
+    # This regular expression looks for 'ccodes' arrays and handles newlines correctly
+    content = re.sub(r'("ccodes": \[\s*)"([A-Z]{2})"\s*\n\s*\]', r'\1\2\n            ]', content, flags=re.MULTILINE)
+
+    # Write the modified content back to the file
+    with open(json_file_path, 'w', encoding='utf-8') as file:
+        file.write(content)
 
 # Function to calculate distance using Haversine formula
 def haversine(coord1, coord2):
@@ -108,6 +122,9 @@ def main():
     output_json_file_path = 'LPF_Conflated.geojson'
     with open(output_json_file_path, 'w', encoding='utf-8') as json_file:
         json.dump(lpf_json_data, json_file, indent=4)
+
+    # Call the unquote_country_codes function after writing the JSON file
+    unquote_country_codes(output_json_file_path)
 
     logging.info("Processed data saved to: " + output_json_file_path)
 
