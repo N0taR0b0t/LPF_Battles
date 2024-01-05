@@ -20,6 +20,18 @@ def unquote_country_codes(json_file_path):
     with open(json_file_path, 'w', encoding='utf-8') as file:
         file.write(content)
 
+def normalize_title(title):
+    # Regular expression to match parentheses with three or fewer characters inside
+    pattern = r'\s*\(\w{1,3}\)'
+
+    # Remove matching patterns from the title
+    normalized_title = re.sub(pattern, '', title).strip()
+
+    return normalized_title
+
+def clean_description(description):
+    return description.replace("[", "").replace("]", "").replace("'", "")
+
 # Function to calculate distance using Haversine formula
 def haversine(coord1, coord2):
     R = 6371.0  # Earth radius in kilometers
@@ -52,9 +64,6 @@ def is_valid_coord(longitude, latitude):
     except ValueError:
         return False
 
-def clean_description(description):
-    return description.replace("[", "").replace("]", "").replace("'", "")
-
 def process_csv_conflate_duplicates(csv_file_path):
     conflated_events = {}
 
@@ -63,49 +72,45 @@ def process_csv_conflate_duplicates(csv_file_path):
 
         for row in csv_reader:
             id = row['id']
-            title = row['title']
+            original_title = row['title']
+            normalized_title = normalize_title(original_title)
             year = row['start']
             country_code = row['ccodes']
-            # Correcting doubled country codes, e.g., 'MLML' to 'ML'
-            country_code = country_code[:2] if len(country_code) == 4 and country_code[:2] == country_code[2:] else country_code
             identifier = row['aat_types']
             longitude = row['lon']
             latitude = row['lat']
             description = row['description'] if 'description' in row and row['description'] else "No description provided"
             cleaned_description = clean_description(description)
+            description_with_year = f"{cleaned_description} ({year})"
+            description_with_year = re.sub(r' {2,}', ' ', description_with_year)  # Replace multiple spaces with a single space
 
-            # Check if coordinates are valid
             if not is_valid_coord(longitude, latitude):
-                logging.warning(f"Missing or invalid coordinates for {title}. Using placeholder.")
+                logging.warning(f"Missing or invalid coordinates for {normalized_title}. Using placeholder.")
                 coordinates = [0.0, 0.0]
             else:
                 coordinates = [float(longitude), float(latitude)]
 
-            # Create or update the event in the dictionary
-            if title not in conflated_events:
-                conflated_events[title] = {
+            if normalized_title not in conflated_events:
+                conflated_events[normalized_title] = {
                     '@id': id,
                     'type': 'Feature',
-                    'properties': {'title': title, 'ccodes': [country_code]},
+                    'properties': {'title': normalized_title, 'ccodes': [country_code]},
                     'when': {'timespans': [{'start': {'in': year}}]},
-                    'names': [{'toponym': title}],
+                    'names': [{'toponym': normalized_title}],
                     'types': [{'identifier': identifier, 'label': 'battlefield'}],
                     'geometry': {'type': 'Point', 'coordinates': coordinates},
-                    'descriptions': [{'value': cleaned_description, 'lang': 'en'}]
+                    'descriptions': [{'value': description_with_year, 'lang': 'en'}]
                 }
             else:
-                event = conflated_events[title]
-                # Add new timespan if it doesn't exist
+                event = conflated_events[normalized_title]
                 new_timespan = {'start': {'in': year}}
                 if new_timespan not in event['when']['timespans']:
                     event['when']['timespans'].append(new_timespan)
-                # Add new description if it's not already in the list
-                if cleaned_description not in [desc['value'] for desc in event['descriptions']]:
-                    event['descriptions'].append({'value': cleaned_description, 'lang': 'en'})
 
-    # Create the final data structure
+                if description_with_year not in [desc['value'] for desc in event['descriptions']]:
+                    event['descriptions'].append({'value': description_with_year, 'lang': 'en'})
+
     features = [event for event in conflated_events.values()]
-
     lpf_data = {
         'type': 'FeatureCollection',
         '@context': 'https://linkedpasts.org/assets/linkedplaces-context-v1.jsonld',
