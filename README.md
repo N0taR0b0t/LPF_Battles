@@ -8,10 +8,6 @@ Parentheses with 3 or less characters between them are deleted
 
 Excess spaces are replaced with a single space
 
-CCodes are no longer inside of quotes
-
-Parentheses with year now appended to descriptions
-
 NOTE:
 
 In the original data, there are edge cases where the data is not formatted consistently:
