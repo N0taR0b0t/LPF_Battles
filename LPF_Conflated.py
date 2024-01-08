@@ -89,12 +89,14 @@ def process_csv_conflate_duplicates(csv_file_path):
                 coordinates = [0.0, 0.0]
             else:
                 coordinates = [float(longitude), float(latitude)]
+                
+            ccodes_list = [country_code] if country_code.strip() else []
 
             if normalized_title not in conflated_events:
                 conflated_events[normalized_title] = {
                     '@id': id,
                     'type': 'Feature',
-                    'properties': {'title': normalized_title, 'ccodes': [country_code]},
+                    'properties': {'title': normalized_title, 'ccodes': ccodes_list},
                     'when': {'timespans': [{'start': {'in': year}}]},
                     'names': [{'toponym': normalized_title}],
                     'types': [{'identifier': identifier, 'label': 'battlefield'}],
