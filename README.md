@@ -1,5 +1,9 @@
 Most recent changes:
 
+Removed empty quotes inside of CCodes
+
+Modified Original.csv to delete 3 instances of doubled up CCodes
+
 Parentheses with 3 or less characters between them are deleted
 
 Excess spaces are replaced with a single space
